@@ -1,0 +1,361 @@
+transaction_id,product_id,customer_id,transaction_date,online_order,order_status,brand,product_line,product_class,product_size,list_price,standard_cost,product_first_sold_date
+98,49,333,2017-06-23,,Approved,Trek Bicycles,Road,medium,medium,533.51,400.13,37823.0
+167,90,3177,2017-04-26,,Approved,Norco Bicycles,Standard,low,medium,363.01,290.41,38482.0
+170,6,404,2017-10-16,,Approved,OHM Cycles,Standard,high,medium,227.88,136.73,37838.0
+251,63,1967,2017-04-11,,Approved,Solex,Standard,medium,medium,1483.2,99.59,42145.0
+301,78,2530,2017-03-24,,Approved,Giant Bicycles,Standard,medium,large,1765.3,709.48,35455.0
+337,82,1615,2017-10-30,,Approved,Norco Bicycles,Standard,high,medium,1148.64,689.18,41533.0
+343,61,1478,2017-03-11,,Approved,Norco Bicycles,Standard,medium,small,586.45,521.94,33429.0
+399,83,1306,2017-12-18,,Approved,Solex,Touring,medium,large,2083.94,675.03,38206.0
+477,73,367,2017-02-12,,Approved,Solex,Standard,medium,medium,1945.43,333.18,38859.0
+530,62,1202,2017-03-31,,Approved,Solex,Standard,medium,medium,478.16,298.72,34143.0
+559,20,3104,2017-03-21,,Approved,Trek Bicycles,Standard,medium,small,1775.81,1580.47,33455.0
+577,1,149,2017-05-04,,Approved,Giant Bicycles,Standard,medium,medium,1403.5,954.82,40649.0
+761,4,2428,2017-12-20,,Approved,Giant Bicycles,Standard,high,medium,1129.13,677.48,33549.0
+770,4,2414,2017-09-10,,Approved,Giant Bicycles,Standard,high,medium,1129.13,677.48,38258.0
+844,40,3412,2017-07-09,,Approved,OHM Cycles,Standard,high,medium,1458.17,874.9,36498.0
+915,39,2756,2017-03-16,,Approved,Giant Bicycles,Standard,medium,large,1812.75,582.48,40336.0
+918,35,2281,2017-04-30,,Approved,Giant Bicycles,Standard,medium,medium,1403.5,954.82,42688.0
+1061,63,1342,2017-07-14,,Approved,Solex,Standard,medium,medium,1483.2,99.59,34996.0
+1072,36,1505,2017-11-09,,Approved,Solex,Standard,low,medium,945.04,507.58,40784.0
+1160,73,1722,2017-12-15,,Approved,Solex,Standard,medium,medium,1945.43,333.18,37499.0
+1193,71,79,2017-11-17,,Approved,Solex,Standard,high,large,1842.92,1105.75,34996.0
+1201,84,3241,2017-05-25,,Approved,Trek Bicycles,Road,medium,medium,290.62,215.14,38206.0
+1355,92,1864,2017-02-28,,Approved,WeareA2B,Standard,medium,small,1415.01,1259.36,37626.0
+1362,32,1395,2017-01-27,,Approved,Giant Bicycles,Standard,high,medium,1179.0,707.4,38482.0
+1372,17,3254,2017-04-19,,Approved,Solex,Standard,high,medium,1024.66,614.8,35378.0
+1382,96,1393,2017-12-29,,Approved,WeareA2B,Road,low,small,1172.78,1043.77,37539.0
+1524,31,2151,2017-05-05,,Approved,Giant Bicycles,Standard,medium,medium,230.91,173.18,39031.0
+1553,62,842,2017-10-23,,Approved,Solex,Standard,high,medium,1024.66,614.8,35378.0
+1556,73,2776,2017-10-30,,Approved,Solex,Standard,medium,medium,1945.43,333.18,37499.0
+1622,0,736,2017-09-07,,Approved,WeareA2B,Standard,medium,small,175.89,131.92,37668.0
+1818,88,585,2017-03-07,,Approved,Norco Bicycles,Standard,medium,medium,1198.46,381.1,36145.0
+1888,83,3045,2017-05-31,,Approved,Solex,Touring,medium,large,2083.94,675.03,34079.0
+1922,21,942,2017-08-09,,Approved,Solex,Standard,medium,large,1071.23,380.74,34165.0
+1938,27,664,2017-05-25,,Approved,Trek Bicycles,Standard,low,medium,1057.51,154.4,34527.0
+1981,49,825,2017-03-19,,Approved,Trek Bicycles,Road,medium,medium,533.51,400.13,37220.0
+1988,83,2599,2017-07-09,,Approved,Solex,Touring,medium,large,2083.94,675.03,41533.0
+2096,34,515,2017-08-09,,Approved,WeareA2B,Standard,medium,medium,1231.15,161.6,38216.0
+2214,15,934,2017-07-21,,Approved,Norco Bicycles,Standard,low,medium,958.74,748.9,41345.0
+2284,71,1418,2017-04-21,,Approved,Solex,Standard,high,large,1842.92,1105.75,40553.0
+2390,64,778,2017-04-29,,Approved,Giant Bicycles,Standard,high,small,1977.36,1759.85,40779.0
+2615,89,3469,2017-11-24,,Approved,WeareA2B,Touring,medium,large,1362.99,57.74,37539.0
+2618,53,2192,2017-08-31,,Approved,OHM Cycles,Standard,medium,medium,795.34,101.58,35470.0
+2633,9,149,2017-10-17,,Cancelled,OHM Cycles,Road,medium,medium,742.54,667.4,42560.0
+2647,4,1768,2017-06-23,,Approved,Solex,Standard,medium,medium,1483.2,99.59,36146.0
+2648,56,1725,2017-09-21,,Approved,Norco Bicycles,Mountain,low,small,688.63,612.88,33552.0
+2773,0,1136,2017-05-08,,Approved,Giant Bicycles,Standard,medium,medium,230.91,173.18,39031.0
+2842,24,1451,2017-11-29,,Approved,Solex,Road,medium,large,1777.8,820.78,33455.0
+3026,16,2574,2017-01-15,,Approved,Norco Bicycles,Standard,high,small,1661.92,1479.11,34586.0
+3033,64,1120,2017-02-15,,Approved,Trek Bicycles,Standard,medium,large,1469.44,596.55,41047.0
+3135,69,157,2017-04-16,,Approved,Giant Bicycles,Road,medium,medium,792.9,594.68,33879.0
+3201,1,1182,2017-08-25,,Approved,Giant Bicycles,Standard,medium,medium,1403.5,954.82,33549.0
+3454,34,395,2017-10-02,,Approved,WeareA2B,Standard,medium,medium,1231.15,161.6,37838.0
+3533,68,1131,2017-02-04,,Approved,OHM Cycles,Standard,medium,medium,1636.9,44.71,40410.0
+3554,62,2432,2017-11-28,,Approved,Solex,Standard,medium,medium,478.16,298.72,34143.0
+3813,84,2963,2017-11-05,,Approved,Trek Bicycles,Road,medium,medium,290.62,215.14,37626.0
+3905,0,3323,2017-03-11,,Approved,Solex,Road,medium,medium,416.98,312.74,35560.0
+3930,0,3415,2017-10-30,,Approved,Trek Bicycles,Road,medium,medium,290.62,215.14,37626.0
+3955,84,2559,2017-08-29,,Approved,Giant Bicycles,Road,medium,medium,792.9,594.68,33879.0
+3958,89,1200,2017-08-01,,Approved,Giant Bicycles,Standard,medium,large,1812.75,582.48,40336.0
+4044,52,2350,2017-04-11,,Approved,OHM Cycles,Road,medium,medium,1280.28,829.51,37823.0
+4047,2,103,2017-11-11,,Approved,Solex,Standard,medium,medium,71.49,53.62,37659.0
+4051,64,1522,2017-06-19,,Approved,Trek Bicycles,Standard,medium,large,1469.44,596.55,41047.0
+4071,83,2705,2017-12-15,,Approved,Solex,Touring,medium,large,2083.94,675.03,41533.0
+4162,1,867,2017-01-25,,Approved,Giant Bicycles,Standard,medium,medium,1403.5,954.82,42688.0
+4268,33,968,2017-05-01,,Approved,OHM Cycles,Road,medium,small,1810.0,1610.9,41064.0
+4344,35,2553,2017-07-10,,Approved,Giant Bicycles,Standard,medium,medium,1403.5,954.82,41245.0
+4348,61,2484,2017-09-14,,Approved,OHM Cycles,Standard,low,medium,71.16,56.93,33879.0
+4385,83,1140,2017-09-18,,Approved,Solex,Touring,medium,large,2083.94,675.03,42218.0
+4478,0,2174,2017-06-07,,Approved,Norco Bicycles,Road,medium,medium,544.05,376.84,38647.0
+4654,40,3085,2017-11-12,,Approved,OHM Cycles,Standard,high,medium,1458.17,874.9,38750.0
+4681,54,3040,2017-06-10,,Approved,WeareA2B,Standard,medium,medium,1292.84,13.44,42226.0
+4754,48,1238,2017-08-04,,Approved,WeareA2B,Standard,medium,medium,1762.96,950.52,35707.0
+4803,20,1692,2017-04-23,,Approved,Trek Bicycles,Standard,medium,small,1775.81,1580.47,34244.0
+4822,8,1489,2017-08-07,,Approved,Solex,Road,medium,small,1703.52,1516.13,40649.0
+4832,9,2350,2017-03-27,,Approved,OHM Cycles,Road,medium,medium,742.54,667.4,38693.0
+4867,39,921,2017-06-15,,Approved,Giant Bicycles,Standard,medium,large,1812.75,582.48,40336.0
+4889,11,590,2017-02-19,,Approved,Giant Bicycles,Standard,high,medium,1274.93,764.96,35378.0
+5022,89,2449,2017-06-08,,Approved,WeareA2B,Touring,medium,large,1362.99,57.74,34079.0
+5029,0,342,2017-03-25,,Approved,Trek Bicycles,Standard,high,medium,495.72,297.43,42105.0
+5062,94,1057,2017-11-12,,Approved,Giant Bicycles,Standard,medium,large,1635.3,993.66,41434.0
+5354,22,1383,2017-04-19,,Approved,WeareA2B,Standard,medium,medium,60.34,45.26,34165.0
+5416,0,1700,2017-11-16,,Approved,Solex,Standard,medium,medium,71.49,53.62,41245.0
+5434,40,1140,2017-01-21,,Approved,OHM Cycles,Standard,high,medium,1458.17,874.9,35560.0
+5455,21,1455,2017-03-25,,Approved,Solex,Standard,medium,large,1071.23,380.74,35160.0
+5461,0,1726,2017-12-21,,Cancelled,Norco Bicycles,Road,medium,medium,543.39,407.54,42696.0
+5476,68,634,2017-11-29,,Approved,OHM Cycles,Standard,medium,medium,1636.9,44.71,40410.0
+5562,5,1468,2017-12-06,,Approved,Trek Bicycles,Mountain,low,medium,574.64,459.71,40784.0
+5575,31,3046,2017-02-05,,Approved,Giant Bicycles,Standard,medium,medium,230.91,173.18,39031.0
+5643,75,2290,2017-04-07,,Approved,Giant Bicycles,Touring,medium,large,1873.97,863.95,35455.0
+5673,42,1656,2017-01-24,,Approved,OHM Cycles,Road,medium,small,1810.0,1610.9,34071.0
+5718,59,3271,2017-02-05,,Approved,WeareA2B,Standard,medium,small,1415.01,1259.36,33364.0
+5743,3,2070,2017-09-24,,Approved,Trek Bicycles,Standard,medium,large,2091.47,388.92,42145.0
+5756,42,913,2017-05-31,,Approved,OHM Cycles,Road,medium,small,1810.0,1610.9,39526.0
+5802,87,305,2017-04-05,,Approved,Giant Bicycles,Standard,high,medium,1179.0,707.4,35667.0
+5835,91,501,2017-08-24,,Approved,WeareA2B,Standard,low,medium,642.31,513.85,41922.0
+5888,95,731,2017-12-05,,Approved,Giant Bicycles,Standard,medium,large,569.56,528.43,37874.0
+5893,73,2013,2017-04-13,,Approved,Solex,Standard,medium,medium,1945.43,333.18,37873.0
+5964,32,312,2017-07-19,,Approved,Giant Bicycles,Standard,medium,medium,642.7,211.37,34527.0
+5978,9,1794,2017-11-13,,Approved,OHM Cycles,Road,medium,medium,742.54,667.4,33549.0
+6038,59,223,2017-02-27,,Approved,Solex,Standard,medium,large,1061.56,733.58,41047.0
+6112,48,2910,2017-11-14,,Approved,WeareA2B,Standard,medium,medium,1762.96,950.52,39915.0
+6148,42,207,2017-03-26,,Approved,OHM Cycles,Road,medium,small,1810.0,1610.9,39526.0
+6250,52,3111,2017-01-15,,Approved,OHM Cycles,Road,medium,medium,1280.28,829.51,40779.0
+6356,6,1471,2017-09-20,,Approved,OHM Cycles,Standard,high,medium,227.88,136.73,37659.0
+6378,94,65,2017-02-20,,Approved,Giant Bicycles,Standard,medium,large,1635.3,993.66,41848.0
+6400,22,3101,2017-03-13,,Approved,Solex,Standard,medium,medium,575.27,431.45,41345.0
+6415,66,924,2017-06-26,,Approved,Giant Bicycles,Road,low,small,590.26,525.33,40487.0
+6467,0,1596,2017-07-20,,Approved,Norco Bicycles,Road,medium,medium,544.05,376.84,38859.0
+6471,0,406,2017-03-26,,Approved,Giant Bicycles,Standard,medium,large,569.56,528.43,37874.0
+6475,6,3370,2017-04-05,,Approved,Solex,Standard,high,medium,748.17,448.9,36361.0
+6520,32,1726,2017-08-14,,Approved,Giant Bicycles,Standard,high,medium,1179.0,707.4,35667.0
+6573,83,2014,2017-09-01,,Approved,Solex,Touring,medium,large,2083.94,675.03,35667.0
+6628,11,1205,2017-10-24,,Approved,Giant Bicycles,Standard,high,medium,1274.93,764.96,39298.0
+6687,93,936,2017-05-03,,Approved,OHM Cycles,Standard,high,medium,1458.17,874.9,38750.0
+6744,93,1990,2017-02-19,,Approved,OHM Cycles,Standard,high,medium,1458.17,874.9,38750.0
+6785,8,1047,2017-03-24,,Approved,Solex,Road,medium,small,1703.52,1516.13,40649.0
+6853,86,2717,2017-07-12,,Approved,OHM Cycles,Standard,medium,medium,235.63,125.07,38206.0
+6896,2,2633,2017-08-25,,Approved,Solex,Standard,medium,medium,71.49,53.62,41701.0
+7080,49,1007,2017-11-26,,Approved,Trek Bicycles,Road,medium,medium,533.51,400.13,41064.0
+7257,90,1409,2017-10-02,,Approved,Norco Bicycles,Standard,low,medium,363.01,290.41,38482.0
+7268,37,2351,2017-07-16,,Approved,OHM Cycles,Standard,low,medium,1793.43,248.82,40336.0
+7323,50,3339,2017-05-12,,Approved,WeareA2B,Standard,medium,small,175.89,131.92,37668.0
+7325,37,729,2017-11-23,,Approved,OHM Cycles,Standard,low,medium,1793.43,248.82,36146.0
+7379,47,1857,2017-09-18,,Approved,Trek Bicycles,Road,low,small,1720.7,1531.42,34586.0
+7430,69,3015,2017-08-20,,Approved,Giant Bicycles,Road,medium,medium,792.9,594.68,42696.0
+7460,16,1234,2017-02-12,,Approved,Norco Bicycles,Standard,high,small,1661.92,1479.11,34586.0
+7529,56,2258,2017-03-05,,Approved,Norco Bicycles,Mountain,low,small,688.63,612.88,34244.0
+7676,0,2943,2017-08-24,,Approved,Trek Bicycles,Road,medium,medium,533.51,400.13,41064.0
+7727,48,508,2017-06-04,,Approved,WeareA2B,Standard,medium,medium,1762.96,950.52,38573.0
+7777,0,1427,2017-04-09,,Approved,Trek Bicycles,Standard,medium,medium,499.53,388.72,36334.0
+7834,20,2169,2017-08-18,,Approved,Trek Bicycles,Standard,medium,small,1775.81,1580.47,40303.0
+7955,74,3484,2017-02-27,,Approved,WeareA2B,Standard,medium,medium,1762.96,950.52,40784.0
+7974,34,942,2017-02-17,,Approved,Norco Bicycles,Road,high,large,774.53,464.72,40336.0
+7998,21,1272,2017-06-18,,Approved,Solex,Standard,medium,large,1071.23,380.74,35160.0
+8028,41,1657,2017-09-27,,Approved,Solex,Road,medium,medium,416.98,312.74,35560.0
+8029,28,283,2017-04-14,,Approved,Norco Bicycles,Standard,medium,small,1216.14,1082.36,35378.0
+8037,96,1960,2017-07-19,,Approved,WeareA2B,Road,low,small,1172.78,1043.77,37539.0
+8041,70,3388,2017-12-05,,Approved,Trek Bicycles,Standard,high,medium,495.72,297.43,42105.0
+8053,0,3386,2017-02-06,,Approved,Trek Bicycles,Standard,medium,medium,499.53,388.72,37337.0
+8074,3,1288,2017-10-13,,Approved,Trek Bicycles,Standard,medium,large,2091.47,388.92,40649.0
+8087,20,2131,2017-04-09,,Approved,Trek Bicycles,Standard,medium,small,1775.81,1580.47,40670.0
+8116,15,3383,2017-07-03,,Approved,Norco Bicycles,Standard,low,medium,958.74,748.9,40303.0
+8161,97,3352,2017-11-30,,Approved,Solex,Standard,medium,large,202.62,151.96,42458.0
+8165,32,980,2017-07-05,,Approved,Giant Bicycles,Standard,medium,medium,642.7,211.37,37337.0
+8406,33,1422,2017-11-22,,Approved,Giant Bicycles,Standard,medium,small,1311.44,1167.18,34527.0
+8453,50,944,2017-10-06,,Approved,WeareA2B,Standard,medium,small,175.89,131.92,37668.0
+8626,24,2390,2017-04-01,,Approved,Solex,Road,medium,large,1777.8,820.78,40670.0
+8694,46,3116,2017-10-04,,Approved,Solex,Standard,low,medium,1289.85,74.51,39427.0
+8810,0,1242,2017-06-28,,Approved,WeareA2B,Standard,medium,medium,60.34,45.26,42404.0
+8866,36,19,2017-09-19,,Approved,Solex,Standard,low,medium,1289.85,74.51,39427.0
+8934,41,1812,2017-01-22,,Approved,Solex,Road,medium,medium,416.98,312.74,35560.0
+8950,39,3302,2017-02-03,,Approved,Giant Bicycles,Standard,medium,large,1812.75,582.48,40336.0
+9057,90,302,2017-01-20,,Approved,Norco Bicycles,Standard,low,medium,363.01,290.41,38482.0
+9180,55,1464,2017-08-06,,Approved,Trek Bicycles,Road,medium,large,1894.19,598.76,36146.0
+9301,46,3390,2017-06-20,,Approved,OHM Cycles,Standard,low,medium,1793.43,248.82,36361.0
+9345,39,3167,2017-04-24,,Approved,Giant Bicycles,Standard,medium,large,1812.75,582.48,40336.0
+9362,33,558,2017-02-06,,Approved,Giant Bicycles,Standard,medium,small,1311.44,1167.18,33888.0
+9368,26,1693,2017-06-16,,Approved,WeareA2B,Standard,medium,medium,1992.93,762.63,34115.0
+9386,63,710,2017-08-28,,Approved,WeareA2B,Standard,medium,medium,1992.93,762.63,33888.0
+9447,51,897,2017-09-23,,Approved,OHM Cycles,Standard,high,medium,2005.66,1203.4,41009.0
+9540,55,3137,2017-03-22,,Approved,Trek Bicycles,Road,medium,large,1894.19,598.76,37823.0
+9658,64,2376,2017-10-25,,Approved,Giant Bicycles,Standard,high,small,1977.36,1759.85,40487.0
+9690,17,1631,2017-08-08,,Approved,Solex,Standard,high,medium,1024.66,614.8,35378.0
+9706,63,3048,2017-08-31,,Approved,Solex,Standard,medium,medium,1483.2,99.59,36146.0
+9771,25,1800,2017-05-14,,Approved,OHM Cycles,Standard,high,medium,2005.66,1203.4,41009.0
+9802,68,1439,2017-07-22,,Approved,OHM Cycles,Standard,medium,medium,1636.9,44.71,40410.0
+9819,7,3114,2017-09-10,,Approved,Trek Bicycles,Road,low,medium,980.37,234.43,38258.0
+9934,25,2339,2017-07-22,,Approved,Giant Bicycles,Road,medium,medium,1538.99,829.65,33888.0
+9969,4,2981,2017-08-17,,Approved,Solex,Standard,medium,medium,1483.2,99.59,41047.0
+9996,36,1457,2017-03-03,,Approved,Solex,Standard,low,medium,945.04,507.58,35052.0
+10029,66,3468,2017-01-30,,Approved,Giant Bicycles,Road,low,small,590.26,525.33,40487.0
+10035,30,1187,2017-01-17,,Approved,Solex,Standard,high,medium,748.17,448.9,33552.0
+10074,43,2396,2017-10-21,,Approved,Solex,Standard,medium,medium,1151.96,649.49,38991.0
+10095,98,398,2017-05-09,,Approved,Trek Bicycles,Standard,high,medium,358.39,215.03,38002.0
+10139,47,3249,2017-06-15,,Approved,Trek Bicycles,Road,low,small,1720.7,1531.42,35160.0
+10176,74,989,2017-05-06,,Approved,WeareA2B,Standard,medium,medium,1228.07,400.91,34527.0
+10185,58,3338,2017-08-12,,Approved,OHM Cycles,Standard,medium,medium,912.52,141.4,42295.0
+10254,96,1133,2017-12-13,,Approved,WeareA2B,Road,low,small,1172.78,1043.77,37539.0
+10299,49,2822,2017-03-06,,Approved,Trek Bicycles,Road,medium,medium,533.51,400.13,41064.0
+10368,51,1442,2017-03-03,,Approved,OHM Cycles,Standard,high,medium,2005.66,1203.4,41009.0
+10373,0,275,2017-08-17,,Approved,WeareA2B,Standard,medium,medium,60.34,45.26,34165.0
+10437,0,3122,2017-04-05,,Approved,Solex,Standard,medium,medium,71.49,53.62,38573.0
+10455,64,217,2017-11-06,,Approved,Giant Bicycles,Standard,high,small,1977.36,1759.85,40779.0
+10478,49,508,2017-07-05,,Approved,Trek Bicycles,Road,medium,medium,533.51,400.13,34143.0
+10501,95,1274,2017-01-21,,Approved,Giant Bicycles,Standard,medium,large,569.56,528.43,37874.0
+10579,71,2047,2017-10-24,,Approved,Solex,Standard,high,large,1842.92,1105.75,37873.0
+10698,46,2019,2017-06-04,,Approved,OHM Cycles,Standard,low,medium,1793.43,248.82,36361.0
+10788,95,2084,2017-11-11,,Approved,Giant Bicycles,Standard,medium,large,569.56,528.43,37539.0
+10800,7,2986,2017-05-18,,Approved,Trek Bicycles,Road,low,medium,980.37,234.43,38258.0
+10857,58,317,2017-11-09,,Approved,OHM Cycles,Standard,medium,medium,912.52,141.4,42145.0
+11016,0,2456,2017-05-12,,Approved,,,,,1719.95,,
+11108,41,1872,2017-12-27,,Approved,Solex,Road,medium,medium,416.98,312.74,34071.0
+11156,63,1311,2017-11-23,,Approved,Solex,Standard,medium,medium,1483.2,99.59,40487.0
+11161,95,612,2017-04-01,,Approved,Giant Bicycles,Standard,medium,large,569.56,528.43,37874.0
+11271,17,1119,2017-01-05,,Cancelled,Solex,Standard,high,medium,1024.66,614.8,41345.0
+11324,88,2854,2017-07-06,,Approved,Norco Bicycles,Standard,high,small,1661.92,1479.11,38750.0
+11620,15,779,2017-07-16,,Approved,WeareA2B,Standard,medium,medium,1292.84,13.44,39915.0
+11675,3,2755,2017-11-04,,Approved,Trek Bicycles,Standard,medium,large,2091.47,388.92,38258.0
+11698,74,2155,2017-03-29,,Approved,WeareA2B,Standard,medium,medium,1228.07,400.91,36668.0
+11711,36,1132,2017-07-29,,Approved,Solex,Standard,low,medium,945.04,507.58,38750.0
+11755,40,1332,2017-11-29,,Approved,OHM Cycles,Standard,high,medium,1458.17,874.9,34071.0
+11913,20,3343,2017-05-02,,Approved,Trek Bicycles,Standard,medium,small,1775.81,1580.47,34165.0
+11965,87,992,2017-09-26,,Approved,Giant Bicycles,Standard,high,medium,1179.0,707.4,36833.0
+11985,21,1223,2017-07-25,,Approved,Solex,Standard,medium,large,1071.23,380.74,40670.0
+12004,21,3283,2017-12-30,,Approved,Solex,Standard,medium,large,1071.23,380.74,40670.0
+12073,2,1207,2017-02-23,,Approved,Solex,Standard,medium,medium,71.49,53.62,41245.0
+12109,34,98,2017-08-30,,Approved,Norco Bicycles,Road,high,large,774.53,464.72,37698.0
+12302,63,1518,2017-11-29,,Approved,Solex,Standard,medium,medium,1483.2,99.59,36146.0
+12303,0,3407,2017-08-17,,Approved,Trek Bicycles,Standard,high,medium,495.72,297.43,36668.0
+12320,63,1033,2017-04-07,,Approved,Solex,Standard,medium,medium,1483.2,99.59,36146.0
+12331,69,1314,2017-11-23,,Cancelled,Giant Bicycles,Road,medium,medium,792.9,594.68,38859.0
+12403,4,2007,2017-06-26,,Approved,Giant Bicycles,Standard,high,medium,1129.13,677.48,38258.0
+12467,36,1475,2017-10-14,,Approved,Solex,Standard,low,medium,945.04,507.58,38258.0
+12503,21,2791,2017-11-23,,Approved,Solex,Standard,medium,large,1071.23,380.74,35160.0
+12592,32,2522,2017-07-22,,Approved,Giant Bicycles,Standard,high,medium,1179.0,707.4,35667.0
+12617,44,3024,2017-01-04,,Approved,WeareA2B,Standard,medium,medium,1769.64,108.76,40672.0
+12644,24,532,2017-01-12,,Approved,Solex,Road,medium,large,1777.8,820.78,40670.0
+12678,92,460,2017-12-13,,Approved,WeareA2B,Standard,medium,small,1415.01,1259.36,37539.0
+12692,1,213,2017-09-26,,Approved,Giant Bicycles,Touring,medium,large,1873.97,863.95,35455.0
+12711,40,788,2017-01-02,,Approved,OHM Cycles,Standard,high,medium,1458.17,874.9,38750.0
+12753,100,536,2017-10-21,,Approved,Norco Bicycles,Road,medium,medium,1036.59,206.35,41922.0
+12758,15,996,2017-06-10,,Approved,Norco Bicycles,Standard,low,medium,958.74,748.9,39880.0
+12770,0,3107,2017-01-06,,Approved,OHM Cycles,Standard,medium,medium,183.86,137.9,35707.0
+12790,18,2230,2017-11-16,,Approved,Solex,Standard,medium,medium,575.27,431.45,41345.0
+12897,64,1512,2017-11-04,,Approved,Giant Bicycles,Standard,high,small,1977.36,1759.85,40779.0
+12918,29,2325,2017-12-18,,Approved,WeareA2B,Standard,medium,medium,1065.03,230.09,37539.0
+12930,92,2836,2017-02-02,,Approved,WeareA2B,Standard,medium,small,1415.01,1259.36,37626.0
+12934,0,1009,2017-06-03,,Approved,OHM Cycles,Standard,low,medium,71.16,56.93,33879.0
+13025,0,507,2017-07-22,,Approved,,,,,1578.52,,
+13057,78,280,2017-10-31,,Approved,Giant Bicycles,Standard,medium,large,1765.3,709.48,38339.0
+13212,23,2624,2017-02-17,,Approved,Norco Bicycles,Mountain,low,small,688.63,612.88,42696.0
+13223,44,1887,2017-11-17,,Approved,WeareA2B,Standard,medium,medium,1769.64,108.76,34071.0
+13284,45,1205,2017-02-01,,Approved,Solex,Standard,medium,medium,441.49,84.99,34071.0
+13292,52,1357,2017-08-22,,Approved,Solex,Road,medium,large,1777.8,820.78,40670.0
+13314,46,2380,2017-10-04,,Approved,Solex,Standard,low,medium,1289.85,74.51,41009.0
+13357,28,2726,2017-03-20,,Approved,Norco Bicycles,Standard,medium,small,1216.14,1082.36,33455.0
+13408,52,502,2017-08-21,,Approved,OHM Cycles,Road,medium,medium,1280.28,829.51,37220.0
+13439,0,999,2017-11-06,,Approved,Trek Bicycles,Standard,high,medium,495.72,297.43,36367.0
+13512,1,2367,2017-07-17,,Approved,Giant Bicycles,Standard,medium,medium,1403.5,954.82,42688.0
+13531,43,2623,2017-02-19,,Approved,Solex,Standard,medium,medium,1151.96,649.49,42172.0
+13593,98,2954,2017-08-26,,Approved,Trek Bicycles,Standard,high,medium,358.39,215.03,38002.0
+13631,78,250,2017-06-18,,Approved,Giant Bicycles,Standard,medium,large,1765.3,709.48,41533.0
+13671,80,2695,2017-05-30,,Approved,OHM Cycles,Touring,low,medium,1073.07,933.84,35667.0
+13706,7,2485,2017-07-22,,Approved,Trek Bicycles,Road,low,medium,980.37,234.43,38216.0
+13713,86,759,2017-02-17,,Approved,Norco Bicycles,Road,high,large,774.53,464.72,37698.0
+13826,41,2876,2017-02-08,,Approved,Norco Bicycles,Standard,low,medium,958.74,748.9,41345.0
+13837,35,1470,2017-02-08,,Approved,Giant Bicycles,Standard,medium,medium,1403.5,954.82,42688.0
+14060,57,426,2017-05-31,,Approved,WeareA2B,Touring,medium,large,1890.39,260.14,33259.0
+14167,89,1237,2017-07-30,,Approved,Giant Bicycles,Standard,medium,large,1812.75,582.48,40336.0
+14187,35,1285,2017-09-04,,Approved,Trek Bicycles,Standard,low,medium,1057.51,154.4,36361.0
+14296,78,930,2017-12-09,,Cancelled,Giant Bicycles,Standard,medium,large,1765.3,709.48,38206.0
+14316,11,654,2017-09-28,,Approved,Giant Bicycles,Standard,high,medium,1274.93,764.96,39298.0
+14333,3,1540,2017-06-29,,Approved,Trek Bicycles,Standard,medium,large,2091.47,388.92,39298.0
+14429,83,2795,2017-09-30,,Approved,Solex,Touring,medium,large,2083.94,675.03,41533.0
+14480,88,3017,2017-11-03,,Approved,Norco Bicycles,Standard,medium,medium,1198.46,381.1,36145.0
+14545,0,170,2017-09-21,,Approved,Giant Bicycles,Standard,medium,large,569.56,528.43,37874.0
+14566,8,2846,2017-09-09,,Approved,Solex,Road,medium,small,1703.52,1516.13,40649.0
+14575,64,714,2017-05-16,,Approved,Giant Bicycles,Standard,high,small,1977.36,1759.85,42145.0
+14621,64,1526,2017-10-11,,Approved,Trek Bicycles,Standard,medium,large,1469.44,596.55,34996.0
+14642,41,277,2017-02-07,,Approved,Norco Bicycles,Standard,low,medium,958.74,748.9,38693.0
+14668,56,2732,2017-06-21,,Approved,OHM Cycles,Standard,medium,medium,183.86,137.9,35707.0
+14761,50,3447,2017-02-24,,Approved,Giant Bicycles,Standard,medium,medium,642.7,211.37,37337.0
+14762,35,3335,2017-01-01,,Approved,Trek Bicycles,Standard,low,medium,1057.51,154.4,34527.0
+14795,89,2301,2017-12-14,,Approved,WeareA2B,Touring,medium,large,1362.99,57.74,42458.0
+14799,90,3114,2017-10-04,,Approved,Norco Bicycles,Standard,low,medium,363.01,290.41,36367.0
+14869,46,3323,2017-09-06,,Approved,OHM Cycles,Standard,low,medium,1793.43,248.82,36361.0
+14893,73,49,2017-07-19,,Approved,Solex,Standard,medium,medium,1945.43,333.18,37499.0
+15030,50,2574,2017-11-12,,Approved,WeareA2B,Standard,medium,small,175.89,131.92,37668.0
+15061,14,816,2017-06-23,,Approved,Trek Bicycles,Standard,medium,small,1386.84,1234.29,37838.0
+15066,100,820,2017-11-23,,Approved,Trek Bicycles,Standard,medium,small,1386.84,1234.29,37838.0
+15106,67,1954,2017-07-09,,Approved,Norco Bicycles,Road,medium,medium,544.05,376.84,38647.0
+15112,100,825,2017-02-06,,Approved,Norco Bicycles,Road,medium,medium,1036.59,206.35,33364.0
+15115,92,1699,2017-01-10,,Approved,WeareA2B,Standard,medium,small,1415.01,1259.36,37626.0
+15165,54,40,2017-11-07,,Approved,WeareA2B,Standard,medium,medium,1292.84,13.44,39915.0
+15190,1,362,2017-12-30,,Approved,Giant Bicycles,Touring,medium,large,1873.97,863.95,37873.0
+15242,95,678,2017-01-09,,Approved,OHM Cycles,Touring,low,medium,1073.07,933.84,35455.0
+15274,61,1993,2017-12-24,,Approved,Norco Bicycles,Standard,medium,small,586.45,521.94,38339.0
+15304,63,3160,2017-04-09,,Approved,Solex,Standard,medium,medium,1483.2,99.59,36146.0
+15366,51,3063,2017-03-18,,Approved,OHM Cycles,Standard,high,medium,2005.66,1203.4,41009.0
+15374,0,2143,2017-01-12,,Approved,Giant Bicycles,Standard,medium,medium,230.91,173.18,36361.0
+15382,41,1484,2017-05-06,,Approved,Solex,Road,medium,medium,416.98,312.74,35560.0
+15446,23,2478,2017-08-24,,Approved,Norco Bicycles,Mountain,low,small,688.63,612.88,39031.0
+15546,68,2198,2017-02-13,,Approved,OHM Cycles,Standard,medium,medium,1636.9,44.71,38859.0
+15711,36,104,2017-05-15,,Approved,Solex,Standard,low,medium,945.04,507.58,40618.0
+15739,43,1863,2017-12-06,,Approved,Norco Bicycles,Standard,medium,medium,1555.58,818.01,37873.0
+15758,80,2760,2017-04-04,,Approved,OHM Cycles,Touring,low,medium,1073.07,933.84,35455.0
+15815,79,943,2017-07-02,,Approved,Norco Bicycles,Standard,medium,medium,1555.58,818.01,35667.0
+15825,20,1361,2017-05-11,,Approved,Trek Bicycles,Standard,medium,small,1775.81,1580.47,40303.0
+15902,0,3020,2017-02-05,,Approved,Trek Bicycles,Road,medium,medium,533.51,400.13,37220.0
+15942,43,832,2017-01-19,,Approved,Solex,Standard,medium,medium,1151.96,649.49,36498.0
+15963,65,2017,2017-11-21,,Approved,WeareA2B,Standard,medium,medium,1807.45,778.69,34996.0
+16021,78,1438,2017-10-03,,Approved,Giant Bicycles,Standard,medium,large,1765.3,709.48,41533.0
+16022,56,2984,2017-07-04,,Approved,OHM Cycles,Standard,medium,medium,183.86,137.9,42295.0
+16046,6,2252,2017-02-19,,Approved,Solex,Standard,high,medium,748.17,448.9,35052.0
+16069,89,2523,2017-12-24,,Approved,WeareA2B,Touring,medium,large,1362.99,57.74,37539.0
+16076,57,2289,2017-03-03,,Approved,WeareA2B,Touring,medium,large,1890.39,260.14,36146.0
+16102,6,447,2017-03-31,,Approved,OHM Cycles,Standard,high,medium,227.88,136.73,41701.0
+16161,35,214,2017-08-14,,Approved,Trek Bicycles,Standard,low,medium,1057.51,154.4,34527.0
+16187,12,1827,2017-02-06,,Approved,WeareA2B,Standard,medium,medium,1231.15,161.6,42560.0
+16222,100,2947,2017-04-30,,Approved,Norco Bicycles,Road,medium,medium,1036.59,206.35,33364.0
+16255,60,1672,2017-03-14,,Approved,Giant Bicycles,Standard,high,small,1977.36,1759.85,42172.0
+16285,19,322,2017-05-10,,Approved,OHM Cycles,Road,high,large,12.01,7.21,34115.0
+16347,69,1507,2017-10-01,,Approved,Norco Bicycles,Road,medium,large,1240.31,795.1,37873.0
+16506,22,1632,2017-01-08,,Approved,Solex,Standard,medium,medium,575.27,431.45,35160.0
+16520,82,3195,2017-01-24,,Approved,Norco Bicycles,Standard,high,medium,1148.64,689.18,42226.0
+16548,47,2490,2017-11-22,,Approved,Trek Bicycles,Road,low,small,1720.7,1531.42,37220.0
+16698,96,439,2017-02-12,,Approved,WeareA2B,Road,low,small,1172.78,1043.77,37539.0
+16725,90,3,2017-06-26,,Approved,Norco Bicycles,Standard,low,medium,363.01,290.41,40303.0
+16729,77,2342,2017-01-26,,Approved,Norco Bicycles,Road,medium,large,1240.31,795.1,40553.0
+16744,55,3477,2017-03-23,,Approved,Trek Bicycles,Road,medium,large,1894.19,598.76,36146.0
+16846,85,11,2017-06-02,,Approved,WeareA2B,Standard,medium,medium,752.64,205.36,42218.0
+16853,28,166,2017-10-10,,Approved,Norco Bicycles,Standard,medium,small,1216.14,1082.36,33455.0
+16919,83,3002,2017-09-12,,Approved,Solex,Touring,medium,large,2083.94,675.03,38206.0
+17061,84,2517,2017-03-07,,Approved,Trek Bicycles,Road,medium,medium,290.62,215.14,35667.0
+17072,0,1637,2017-05-06,,Approved,Trek Bicycles,Road,medium,medium,290.62,215.14,38339.0
+17085,43,2793,2017-04-21,,Approved,Solex,Standard,medium,medium,1151.96,649.49,39427.0
+17106,4,3026,2017-06-17,,Approved,Giant Bicycles,Standard,high,medium,1129.13,677.48,41701.0
+17164,27,298,2017-11-15,,Approved,Trek Bicycles,Standard,low,medium,1057.51,154.4,34527.0
+17233,94,390,2017-02-10,,Approved,Giant Bicycles,Standard,medium,large,1635.3,993.66,41434.0
+17335,62,1653,2017-05-07,,Approved,Solex,Standard,medium,medium,478.16,298.72,38647.0
+17415,84,165,2017-03-23,,Approved,Trek Bicycles,Road,medium,medium,290.62,215.14,38339.0
+17435,90,120,2017-08-09,,Approved,Solex,Standard,low,medium,945.04,507.58,40618.0
+17560,85,2491,2017-03-09,,Approved,WeareA2B,Standard,medium,medium,752.64,205.36,42218.0
+17716,13,1353,2017-04-25,,Approved,Solex,Standard,medium,medium,1163.89,589.27,42560.0
+17734,27,2345,2017-11-06,,Approved,Trek Bicycles,Standard,medium,medium,499.53,388.72,33552.0
+17862,61,3458,2017-05-11,,Approved,Norco Bicycles,Standard,medium,small,586.45,521.94,38206.0
+17890,67,3327,2017-01-27,,Approved,Norco Bicycles,Road,medium,medium,544.05,376.84,38647.0
+18011,79,1224,2017-10-15,,Cancelled,Norco Bicycles,Standard,medium,medium,1555.58,818.01,37873.0
+18023,14,377,2017-01-13,,Approved,Trek Bicycles,Standard,medium,small,1386.84,1234.29,37838.0
+18043,68,3106,2017-02-08,,Approved,OHM Cycles,Standard,medium,medium,1636.9,44.71,38859.0
+18069,26,788,2017-07-14,,Approved,WeareA2B,Standard,medium,medium,1992.93,762.63,34115.0
+18086,48,2813,2017-04-07,,Approved,WeareA2B,Standard,medium,medium,1762.96,950.52,41064.0
+18336,95,2958,2017-06-04,,Approved,Giant Bicycles,Standard,medium,large,569.56,528.43,37874.0
+18472,81,176,2017-03-06,,Approved,Norco Bicycles,Standard,medium,small,586.45,521.94,33429.0
+18502,19,2195,2017-11-02,,Approved,OHM Cycles,Road,high,large,12.01,7.21,39880.0
+18607,43,2138,2017-12-01,,Approved,Norco Bicycles,Standard,medium,medium,1555.58,818.01,37873.0
+18625,85,1133,2017-06-17,,Approved,WeareA2B,Standard,medium,medium,752.64,205.36,42218.0
+18690,23,2987,2017-12-13,,Approved,Norco Bicycles,Standard,medium,medium,1198.46,381.1,41701.0
+18712,78,665,2017-09-22,,Approved,Giant Bicycles,Standard,medium,large,1765.3,709.48,38193.0
+18723,65,1597,2017-11-21,,Approved,WeareA2B,Standard,medium,medium,1807.45,778.69,42145.0
+18752,22,2200,2017-10-12,,Approved,WeareA2B,Standard,medium,medium,60.34,45.26,33455.0
+18755,55,403,2017-01-30,,Approved,Trek Bicycles,Road,medium,large,1894.19,598.76,35707.0
+18822,30,3464,2017-12-13,,Approved,Solex,Standard,high,medium,748.17,448.9,37337.0
+18847,57,50,2017-09-20,,Approved,WeareA2B,Touring,medium,large,1890.39,260.14,34170.0
+18983,21,743,2017-01-03,,Approved,Solex,Standard,medium,large,1071.23,380.74,34244.0
+19025,36,1937,2017-08-04,,Approved,Solex,Standard,low,medium,945.04,507.58,35052.0
+19083,90,1204,2017-12-06,,Approved,Norco Bicycles,Standard,low,medium,363.01,290.41,36367.0
+19101,8,2713,2017-10-21,,Approved,Solex,Road,medium,small,1703.52,1516.13,38216.0
+19272,91,3017,2017-07-07,,Approved,Solex,Standard,medium,medium,100.35,75.26,36367.0
+19283,55,1364,2017-08-02,,Approved,Trek Bicycles,Road,medium,large,1894.19,598.76,37823.0
+19304,35,1776,2017-08-22,,Approved,Trek Bicycles,Standard,low,medium,1057.51,154.4,34527.0
+19369,66,3223,2017-12-16,,Approved,Giant Bicycles,Road,low,small,590.26,525.33,38647.0
+19370,91,1107,2017-09-02,,Approved,WeareA2B,Standard,low,medium,642.31,513.85,41922.0
+19434,86,1557,2017-03-10,,Approved,OHM Cycles,Standard,medium,medium,235.63,125.07,38206.0
+19496,2,3028,2017-11-14,,Approved,Giant Bicycles,Road,low,small,590.26,525.33,42710.0
+19515,51,690,2017-01-22,,Approved,OHM Cycles,Standard,high,medium,2005.66,1203.4,37823.0
+19574,18,1735,2017-01-15,,Approved,Solex,Standard,medium,medium,575.27,431.45,41345.0
+19581,49,1933,2017-10-12,,Approved,Trek Bicycles,Road,medium,medium,533.51,400.13,41064.0
+19636,98,1389,2017-07-26,,Approved,Trek Bicycles,Standard,high,medium,358.39,215.03,38002.0
+19844,3,8,2017-01-28,,Approved,Trek Bicycles,Standard,medium,large,2091.47,388.92,37823.0

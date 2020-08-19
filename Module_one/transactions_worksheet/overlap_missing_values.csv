@@ -1,0 +1,3 @@
+transaction_id,product_id,customer_id,transaction_date,online_order,order_status,brand_x,product_line_x,product_class_x,product_size_x,list_price,standard_cost_x,product_first_sold_date_x,brand_y,product_line_y,product_class_y,product_size_y,standard_cost_y,product_first_sold_date_y
+11016,0,2456,2017-05-12,,Approved,,,,,1719.95,,,,,,,,
+13025,0,507,2017-07-22,,Approved,,,,,1578.52,,,,,,,,

@@ -1,0 +1,1371 @@
+customer_id,first_name,last_name,gender,past_3_years_bike_related_purchases,DOB,job_title,job_industry_category,wealth_segment,deceased_indicator,default,owns_car,tenure
+4,Talbot,,Male,33,1961-10-03,,IT,Mass Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },No,7.0
+5,Sheila-kathryn,Calton,Female,56,1977-05-13,Senior Editor,,Affluent Customer,N,NIL,Yes,8.0
+6,Curr,Duckhouse,Male,35,1966-09-16,,Retail,High Net Worth,N,ðµ ð ð ð,Yes,13.0
+7,Fina,Merali,Female,6,1976-02-23,,Financial Services,Affluent Customer,N,â°â´âµâââ,Yes,11.0
+8,Rod,Inder,Male,31,1962-03-30,Media Manager I,,Mass Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),No,7.0
+11,Uriah,Bisatt,Male,99,1954-04-30,,Property,Mass Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,No,9.0
+16,Harlin,Parr,Male,38,1977-02-27,Media Manager IV,,Mass Customer,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,Yes,18.0
+17,Heath,Faraday,Male,57,1962-03-19,Sales Associate,,Affluent Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,Yes,15.0
+18,Marjie,Neasham,Female,79,1967-07-06,Professor,,Affluent Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,No,11.0
+22,Deeanne,Durtnell,Female,79,1962-12-10,,IT,Mass Customer,N,ï¼ï¼ï¼,No,11.0
+23,Olav,Polak,Male,43,1995-02-10,,,High Net Worth,N,2018-02-01 00:00:00,Yes,1.0
+30,Darrick,Helleckas,Male,18,1961-10-18,,IT,Affluent Customer,N,ì¬íê³¼íì ì´íì°êµ¬ì,Yes,6.0
+33,Ernst,Hacon,Male,44,1957-06-25,Product Engineer,,Affluent Customer,N,<script>alert('hi')</script>,Yes,11.0
+34,Jephthah,Bachmann,U,59,1843-12-21,Legal Assistant,IT,Affluent Customer,N,,No,20.0
+36,Lurette,Stonnell,Female,33,1977-11-09,VP Quality Control,,Affluent Customer,N,"<>?:""{}|_+",No,22.0
+46,Kaila,Allin,Female,98,1972-02-26,,,Affluent Customer,N,â°â´âµâââ,Yes,15.0
+48,Rebbecca,Casone,Female,46,1975-08-15,Biostatistician II,,Mass Customer,N,../../../../../../../../../../../etc/hosts,Yes,8.0
+49,Nolly,Ownsworth,Male,63,1994-01-26,VP Quality Control,,Affluent Customer,N,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±,No,1.0
+52,Curran,Bentson,Male,57,1988-06-22,,Financial Services,Mass Customer,N,2018-02-01 00:00:00,Yes,13.0
+57,Abba,Masedon,M,87,1988-06-13,Chief Design Engineer,,Mass Customer,N,100,Yes,13.0
+59,Niki,Heathcote,Male,60,2000-02-08,Physical Therapy Assistant,,High Net Worth,N,-1,No,3.0
+60,Nadiya,Champerlen,Female,18,1970-02-04,,Manufacturing,Mass Customer,N,á,No,10.0
+62,Sorcha,Roggers,Female,38,1979-07-06,,IT,Mass Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,Yes,22.0
+67,Vernon,,Male,67,1960-06-14,Web Developer II,Retail,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,No,18.0
+68,Dahlia,Eddoes,Female,37,1974-04-21,Information Systems Manager,,Affluent Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,No,9.0
+69,Heidi,Milner,Female,16,1969-06-22,Web Developer II,,Mass Customer,N,0/0,No,6.0
+73,Minette,Worters,Female,16,1960-05-27,Teacher,,Affluent Customer,N,âââ,Yes,5.0
+74,Pansy,Kiddie,Female,94,1969-06-19,,,Mass Customer,N,ã»(ï¿£âï¿£)ã»:*:,Yes,6.0
+81,Bee,Blazewicz,Female,58,1986-09-04,,Health,High Net Worth,N,â¢,No,13.0
+84,Rich,Mathiasen,Male,78,1958-02-07,Accountant III,,Mass Customer,N,ì¬íê³¼íì ì´íì°êµ¬ì,Yes,14.0
+85,Kane,Tixall,Male,1,1958-05-21,Analyst Programmer,,Mass Customer,N,NIL,No,8.0
+98,Allianora,Babalola,Female,19,1956-03-17,Safety Technician IV,Health,Mass Customer,N,,No,7.0
+106,Glyn,,Male,54,1966-07-03,Software Test Engineer III,Health,High Net Worth,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,18.0
+108,Kayle,Mingaud,Female,4,1994-03-14,,,High Net Worth,N,âð¿ ðªð¿ ðð¿ ðð¿ ðð¿ ðð¿,No,3.0
+109,Cody,Blabey,Male,16,1978-12-11,Marketing Assistant,,Affluent Customer,N,100,Yes,4.0
+110,Sascha,St. Quintin,Male,23,2000-07-31,,Financial Services,Affluent Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,1.0
+111,Cele,Evason,Female,65,1993-08-29,Analyst Programmer,,Mass Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,2.0
+113,Gage,Nickless,Male,67,1956-05-06,Staff Scientist,,Mass Customer,N,(ï½¡â â âï½¡),No,20.0
+115,Alberik,Mereweather,Male,77,1981-12-21,Account Executive,Health,Mass Customer,N,,No,18.0
+118,Prentice,Pearmain,Male,43,1959-11-12,Budget/Accounting Analyst IV,,High Net Worth,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,19.0
+119,Willey,Chastanet,Male,9,1981-12-04,Associate Professor,,High Net Worth,N,,Yes,9.0
+139,Gar,,Male,1,1964-07-28,Operator,Telecommunications,Affluent Customer,N,-100,No,4.0
+144,Jory,Barrabeale,U,71,,Environmental Tech,IT,Mass Customer,N,,No,
+148,Jaquith,Maffey,Female,69,1981-05-08,Programmer Analyst III,,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,Yes,5.0
+154,Faydra,Dulieu,Female,90,1958-02-13,Junior Executive,,Mass Customer,N,,No,11.0
+158,Hamlin,Odams,Male,99,1984-09-03,Internal Auditor,,Affluent Customer,N,100,No,5.0
+161,Tadd,Bloss,Male,49,1976-01-21,,,Mass Customer,N,() { 0; }; touch /tmp/blns.shellshock1.fail;,No,16.0
+167,Nathalie,Tideswell,Female,95,1969-10-27,,Health,High Net Worth,N,-1,Yes,17.0
+168,Reggie,Broggetti,U,8,,General Manager,IT,Affluent Customer,N,,Yes,
+178,Matthieu,Bertelmot,Male,2,1967-04-03,,,Affluent Customer,N,100,No,8.0
+185,Crosby,Walcot,Male,80,1979-12-13,,Property,Mass Customer,N,â°â´âµ,Yes,13.0
+187,Pincas,Ather,Male,97,1954-01-28,Structural Engineer,,Mass Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,11.0
+191,Christopher,Heining,Male,22,1960-04-27,Help Desk Operator,,Affluent Customer,N,ðµ ð ð ð,Yes,6.0
+197,Avis,,Female,32,1977-01-27,,,High Net Worth,N,,No,5.0
+198,Vanya,Gumb,Female,82,1981-11-29,Assistant Media Planner,Entertainment,Mass Customer,N,,No,16.0
+206,Mari,Chevolleau,Female,98,1954-07-19,Statistician I,,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,Yes,14.0
+207,Adena,Whyman,Female,9,1994-08-10,,,Mass Customer,N,-100,No,7.0
+209,Udall,Bellard,Male,9,1957-08-28,Analog Circuit Design manager,,Affluent Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,6.0
+211,Beitris,,Female,6,1974-03-04,VP Marketing,Manufacturing,Mass Customer,N,-0.5,Yes,5.0
+217,Jeralee,Quartly,Female,63,1979-12-09,,Manufacturing,High Net Worth,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,16.0
+223,Ossie,Meaton,Male,13,1983-11-26,VP Sales,,Affluent Customer,N,NIL,Yes,14.0
+229,Vaughn,Lambis,Male,30,1966-03-06,,Property,High Net Worth,N,',No,19.0
+238,Max,Bilborough,Male,54,1984-02-04,Programmer III,,Mass Customer,N,â©testâ©,Yes,14.0
+244,Germayne,Sperry,Male,57,1974-11-25,,Retail,Affluent Customer,N,1'; DROP TABLE users--,No,8.0
+250,Kristofer,,Male,53,1988-04-15,Legal Assistant,Health,Mass Customer,N,Ù¡Ù¢Ù£,Yes,13.0
+251,Mala,,Female,88,1977-12-24,VP Sales,Financial Services,Affluent Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,Yes,10.0
+257,Marissa,,Female,70,1966-02-08,Sales Associate,Manufacturing,Affluent Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,19.0
+261,Marve,Pryn,Male,74,1977-10-15,Structural Engineer,,Mass Customer,N,1,No,8.0
+262,Cordie,Petrelli,Male,97,1977-12-23,,Health,High Net Worth,N,../../../../../../../../../../../etc/passwd%00,Yes,10.0
+267,Edgar,Buckler,U,53,,,IT,High Net Worth,N,,No,
+270,Auberta,Roundtree,Female,38,1970-12-10,Budget/Accounting Analyst III,,Mass Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,17.0
+273,Nevile,Abraham,Male,54,1963-04-22,Computer Systems Analyst IV,,Mass Customer,N,Ù¡Ù¢Ù£,No,19.0
+275,Dud,,Male,7,1955-07-27,VP Sales,Health,High Net Worth,N,ð¾ ð ð ð ð ð ð ð§,No,13.0
+276,Goldi,Dwine,Female,47,1990-03-25,,Financial Services,Mass Customer,N,â£,No,22.0
+277,Jehanna,Alvarado,Female,69,1956-02-19,VP Product Management,,High Net Worth,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,15.0
+278,Sydney,Georger,Male,22,1997-07-30,Executive Secretary,,Affluent Customer,N,-1,Yes,4.0
+280,Welch,MacAllaster,Male,15,1995-03-22,Geologist I,,Affluent Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,Yes,5.0
+282,Lauren,Curcher,Male,82,1989-10-27,VP Quality Control,Argiculture,High Net Worth,N,,Yes,11.0
+288,Ebenezer,Seedman,Male,71,1985-09-08,,Manufacturing,High Net Worth,N,-100,No,9.0
+290,Giorgio,Kevane,U,42,,Senior Sales Associate,IT,Mass Customer,N,,No,
+292,Gelya,Gerant,Female,42,1961-11-24,VP Product Management,,Affluent Customer,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,Yes,9.0
+294,Magnum,Slowan,Male,39,1959-04-01,Recruiting Manager,,High Net Worth,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,No,5.0
+295,Lena,Chape,Female,64,1964-12-26,Database Administrator II,,Mass Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",Yes,18.0
+296,Marshal,Rathbone,Male,34,1972-06-19,,Health,High Net Worth,N,-1,Yes,17.0
+297,Cecile,MacLise,Female,33,1959-04-27,Electrical Engineer,Manufacturing,High Net Worth,N,,No,16.0
+302,Laurice,Colgrave,Female,32,1977-03-27,,Health,Mass Customer,N,âªâªtestâª,No,13.0
+319,Madelle,Matteris,Female,32,1971-10-11,,Retail,Mass Customer,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,Yes,14.0
+321,Christean,Finnes,Female,58,1973-09-15,Marketing Manager,,Mass Customer,N,â£,No,18.0
+335,Debee,Martynov,Female,20,1983-04-19,Senior Editor,,Affluent Customer,N,(ï½¡â â âï½¡),No,8.0
+336,Georgiana,Wallington,Female,91,1980-01-06,,Manufacturing,High Net Worth,N,á ,No,3.0
+338,Hilliary,Littrell,Female,33,1958-03-14,,Health,Mass Customer,N,á ,No,19.0
+340,Joshuah,Purvey,Male,39,1973-07-31,,Argiculture,Mass Customer,N,,Yes,17.0
+344,Carlene,Eyckelbeck,Female,91,1973-07-18,,,High Net Worth,N,,Yes,4.0
+349,Vinnie,Usherwood,Female,35,1981-04-15,Computer Systems Analyst IV,Manufacturing,High Net Worth,N,,No,4.0
+353,Antonia,Cardis,Female,9,1980-10-09,Information Systems Manager,,Mass Customer,N,ð©ð½,No,3.0
+356,Nichole,,Female,10,1975-03-30,Librarian,Entertainment,High Net Worth,N,-1,No,5.0
+357,Betta,Shrimpton,Female,21,1969-01-25,Director of Sales,,Affluent Customer,N,,No,18.0
+358,Kippie,Crimpe,Female,54,1985-12-27,Accounting Assistant IV,,Mass Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,No,18.0
+368,Lacee,Roan,Female,32,1986-11-26,,Financial Services,High Net Worth,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),No,6.0
+370,Trstram,Bondesen,Male,91,1998-07-27,,Telecommunications,Affluent Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,Yes,3.0
+379,Bert,Ainslie,Male,2,1980-03-13,,Manufacturing,High Net Worth,N,-100,Yes,4.0
+381,Leesa,Castleman,Female,99,1996-11-30,Sales Associate,,Affluent Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,1.0
+383,Barclay,Shalders,Male,37,1978-07-15,Nurse Practicioner,,Affluent Customer,N,1;DROP TABLE users,No,14.0
+384,Friederike,Bestar,Female,70,1976-08-06,,Financial Services,Affluent Customer,N,á ,No,17.0
+388,Carlye,Bartle,Female,53,1966-05-25,,Financial Services,Mass Customer,N,100,Yes,11.0
+391,Duffie,Woodier,Male,80,1970-03-25,,Argiculture,Mass Customer,N,â¦testâ§,No,16.0
+398,Randee,Douberday,Female,20,1969-01-18,,Retail,Affluent Customer,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,No,11.0
+403,Easter,Laffoley-Lane,Female,40,1975-10-17,Graphic Designer,,Mass Customer,N,../../../../../../../../../../../etc/passwd%00,Yes,17.0
+405,Vivien,Urion,Female,19,1971-09-28,,Manufacturing,High Net Worth,N,á ,Yes,14.0
+407,Chryste,Acum,Female,82,1979-01-12,Structural Analysis Engineer,,High Net Worth,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,Yes,15.0
+410,Alicia,Townend,Female,14,1990-04-09,Structural Engineer,,Mass Customer,N,"""'",Yes,11.0
+412,Evanne,Feechum,Female,65,1960-04-23,,IT,High Net Worth,N,,No,19.0
+413,Simone,Denys,Male,79,1957-12-22,VP Quality Control,,High Net Worth,N,åè£½æ¼¢èª,Yes,19.0
+416,Dory,Barnsdall,Female,14,1997-06-23,Software Consultant,,Mass Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,Yes,1.0
+418,Jere,Ding,Female,56,1958-12-22,,,Mass Customer,N,â£,No,6.0
+422,Vito,Norker,Male,78,2002-01-06,,Manufacturing,Affluent Customer,N,ðµ ð ð ð,No,1.0
+423,Orville,Akerman,Male,43,1956-11-08,Senior Quality Engineer,,Mass Customer,N,ðµ ð ð ð,No,9.0
+424,Dennie,Eunson,Male,77,1978-01-25,Research Nurse,Health,High Net Worth,N,,No,9.0
+434,Raff,Waadenburg,Male,93,1995-12-01,,Financial Services,Mass Customer,N,100,Yes,19.0
+439,Lida,Wych,Female,26,1974-07-08,GIS Technical Architect,,Affluent Customer,N,â°â´âµ,No,10.0
+441,Felicle,Beneze,Female,74,1974-03-08,Analyst Programmer,IT,Mass Customer,N,,No,11.0
+442,Linc,Vedyasov,Male,2,2001-10-06,,Financial Services,Mass Customer,N,<img src=x onerror=alert('hi') />,No,1.0
+443,Lauree,Leason,Female,21,1972-03-26,,Argiculture,High Net Worth,N,nil,Yes,10.0
+451,Marlow,Flowerdew,U,37,,Quality Control Specialist,IT,High Net Worth,N,,No,
+453,Cornelius,Yarmouth,U,81,,Assistant Professor,IT,High Net Worth,N,,No,
+454,Eugenie,Domenc,U,58,,Research Nurse,Health,Affluent Customer,N,,Yes,
+460,Illa,,Female,0,1986-01-23,Electrical Engineer,Manufacturing,Affluent Customer,N,,Yes,16.0
+462,Melany,Thorrington,Female,32,1960-01-01,,Manufacturing,Affluent Customer,N,,Yes,5.0
+464,Karel,Dimelow,Female,32,1958-03-23,,,Mass Customer,N,â°â´âµ,Yes,10.0
+466,Jarad,Bauser,Male,84,1991-01-27,,Manufacturing,Affluent Customer,N,0,Yes,2.0
+470,Darbee,Klimowicz,Male,22,2001-12-19,Internal Auditor,Retail,Mass Customer,N,,No,1.0
+475,Vernor,,Male,0,1996-11-14,Nuclear Power Engineer,Manufacturing,Affluent Customer,N,"__ï¾(,_,*)",No,1.0
+476,Kane,Jahnel,Male,65,1989-04-21,Computer Systems Analyst IV,,Mass Customer,N,â,No,14.0
+478,Darcey,Harberer,Female,65,1961-01-21,Chief Design Engineer,,Affluent Customer,N,,Yes,5.0
+479,Blythe,Keighley,Female,11,1994-08-04,,IT,Mass Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,Yes,4.0
+480,Darelle,Ive,U,67,,Registered Nurse,Health,Mass Customer,N,,Yes,
+482,Gar,Wallis,Male,33,1962-12-19,,Health,Mass Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,20.0
+490,Lida,Boynton,Female,44,1992-06-15,Environmental Tech,Argiculture,Mass Customer,N,,No,6.0
+494,Gaby,,Male,33,1975-06-02,Design Engineer,Manufacturing,Mass Customer,N,ã,No,9.0
+497,Allissa,Brinklow,Female,96,1974-01-09,,Property,Mass Customer,N,-1,Yes,11.0
+501,Henrieta,MacClancey,Female,94,1977-06-10,Environmental Specialist,,High Net Worth,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,19.0
+505,Wylma,Elsy,Female,40,1966-12-01,,,High Net Worth,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,Yes,10.0
+507,Gwen,Jakubczyk,Female,98,1971-07-05,,Health,Mass Customer,N,â,No,7.0
+510,Sheilah,Blackmore,Female,61,1992-06-15,,,Mass Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,No,2.0
+513,Kienan,Soar,U,30,,Tax Accountant,IT,Mass Customer,N,,No,
+514,Trent,,Male,9,1996-06-20,Associate Professor,Financial Services,Mass Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,4.0
+519,Rabi,Nissle,Male,83,2000-04-07,,,Mass Customer,N,-100,Yes,1.0
+522,Lynnelle,Comettoi,Female,64,1976-11-05,,,Affluent Customer,N,,Yes,16.0
+526,Ardelle,,U,9,,Social Worker,Health,Mass Customer,N,,Yes,
+534,Madel,Palffrey,Female,2,1954-08-16,Systems Administrator I,,Mass Customer,N,,No,12.0
+535,Gracie,Merrifield,Female,67,1993-05-04,,,Affluent Customer,N,,No,3.0
+539,Hobie,Knappett,Male,53,1975-08-10,,Health,High Net Worth,N,-1,No,15.0
+541,Annissa,Balmforth,Female,23,1966-01-01,,Manufacturing,Affluent Customer,N,00ËÆ$-,Yes,13.0
+548,Georgie,Cudbertson,U,84,,,IT,High Net Worth,N,,Yes,
+550,Emeline,Jorioz,Female,16,1976-07-10,,Retail,Mass Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),No,15.0
+556,Oralia,Gifford,Female,69,1957-09-08,Junior Executive,,Mass Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,11.0
+557,Cassie,Morley,Female,67,1961-06-02,,Manufacturing,Affluent Customer,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,Yes,18.0
+558,Allene,Claypole,Female,96,1973-05-25,Programmer Analyst III,,Mass Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,No,8.0
+561,Karin,Burkill,Female,99,1977-08-15,Tax Accountant,,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,No,12.0
+562,Lindy,Fitzpayn,Female,88,1970-06-06,Marketing Assistant,,Mass Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,17.0
+567,Hashim,O'Leahy,Male,73,1965-07-08,,Financial Services,Affluent Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,16.0
+573,Maurits,Kix,Male,39,1994-03-07,General Manager,,Mass Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,No,2.0
+577,Nadean,Fielding,Female,41,1956-04-08,,Property,Mass Customer,N,,Yes,19.0
+578,Charyl,Haimes,Female,72,1995-01-24,Web Developer I,,High Net Worth,N,"'""''''""",Yes,3.0
+582,Rhoda,McKeown,U,21,,Staff Scientist,IT,Affluent Customer,N,,No,
+585,Tiphany,Bonnier,Female,66,1978-04-20,Pharmacist,Health,Mass Customer,N,,Yes,10.0
+588,Gunther,Jackman,Male,15,1963-10-05,Assistant Media Planner,Entertainment,Mass Customer,N,,No,11.0
+593,Eugenius,Packe,Male,64,1984-08-07,Structural Analysis Engineer,,Mass Customer,N,NIL,No,4.0
+594,Humfrey,Frankland,Male,74,1980-07-22,Office Assistant II,,Mass Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,No,13.0
+599,Ernestus,Cruden,U,48,,Senior Financial Analyst,Financial Services,Mass Customer,N,,Yes,
+602,Lebbie,Bruck,Female,0,1992-03-28,Office Assistant II,,High Net Worth,N,åè£½æ¼¢èª,Yes,9.0
+614,Nonnah,Johns,Female,45,1995-09-12,,Manufacturing,Mass Customer,N,100,Yes,11.0
+615,Rebeca,Martonfi,Female,93,1956-05-11,Human Resources Assistant I,Property,Mass Customer,N,,No,19.0
+616,Perl,Bysaker,Female,36,1995-07-13,,Health,High Net Worth,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",No,6.0
+621,Constantin,Giacobbo,Male,78,1964-11-29,Systems Administrator III,,High Net Worth,N,âââ,No,14.0
+622,Arri,Lamden,Male,18,1968-10-18,,Financial Services,Mass Customer,N,âªâªtestâª,No,17.0
+627,Shanta,Knill,Female,24,1970-09-24,,,High Net Worth,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",No,10.0
+631,Ortensia,Dronsfield,Female,33,1966-09-14,Computer Systems Analyst I,Health,Affluent Customer,N,,No,17.0
+633,Alair,Hopkins,Male,51,1986-03-12,Nurse,,High Net Worth,N,,Yes,11.0
+635,Joelle,Prior,Female,78,1976-09-25,Programmer Analyst IV,,Mass Customer,N,0/0,Yes,9.0
+636,Alejandrina,Canavan,Female,42,1971-09-02,Systems Administrator II,,Mass Customer,N,0,No,19.0
+638,Joey,Ledram,Male,19,1967-04-29,,Manufacturing,High Net Worth,N,ã,No,13.0
+645,Randolf,Durant,Male,50,1971-04-01,Analyst Programmer,,High Net Worth,N,âââ,No,11.0
+650,Matthew,Petschelt,Male,81,1977-10-24,Assistant Manager,Health,Mass Customer,N,,No,13.0
+652,Edee,Stoker,Female,62,1996-11-24,Staff Scientist,Financial Services,High Net Worth,N,,Yes,1.0
+657,Hoyt,,Male,66,1993-02-18,Safety Technician II,Manufacturing,Affluent Customer,N,-100,No,10.0
+659,Natalee,Stringman,Female,44,1979-10-09,,Financial Services,Affluent Customer,N,,Yes,15.0
+660,Stormi,,Female,82,1995-07-29,Geological Engineer,Manufacturing,High Net Worth,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,6.0
+665,Chan,Kirckman,Male,82,1997-04-19,Human Resources Assistant I,,Mass Customer,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,No,5.0
+669,Fleur,Whittlesea,Female,73,1980-11-02,Research Associate,,Mass Customer,N,â£,No,3.0
+671,Aristotle,Vanni,Male,49,1984-07-25,,Argiculture,Mass Customer,N,â¦testâ§,No,5.0
+674,Dalila,Rosel,Female,61,1954-08-22,Developer II,,Mass Customer,N,â©testâ©,No,5.0
+676,Curtis,,Male,51,1968-05-19,Senior Editor,,High Net Worth,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,Yes,14.0
+680,Gay,Pickersgill,U,22,,,IT,High Net Worth,N,,Yes,
+683,Brennan,Gagen,Male,60,1962-05-16,,Manufacturing,Mass Customer,N,,Yes,10.0
+684,Malvin,,Male,88,1987-07-03,Desktop Support Technician,Financial Services,Mass Customer,N,"<>?:""{}|_+",No,14.0
+685,Booth,Birkin,U,28,,Senior Developer,IT,Mass Customer,N,,No,
+690,Lindsey,,Male,95,1987-03-27,Assistant Professor,,Affluent Customer,N,â¡,Yes,17.0
+691,Carver,Carwardine,Male,29,1954-08-25,,Financial Services,Affluent Customer,N,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥,Yes,5.0
+693,Bambi,Hebblethwaite,Female,46,1970-10-27,,Financial Services,Affluent Customer,N,,Yes,19.0
+696,Arch,Gaitskill,Male,57,1966-02-06,Programmer Analyst II,,Affluent Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",Yes,6.0
+700,Josias,Mulliner,Male,67,1990-02-20,,Financial Services,Mass Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,No,4.0
+702,Zorina,Bosomworth,Female,72,1960-02-09,Help Desk Technician,,Mass Customer,N,(ï½¡â â âï½¡),No,8.0
+703,Ethelda,,Female,66,1966-10-31,,Property,Mass Customer,N,1/0,No,15.0
+707,Homere,Rounds,Male,97,1973-07-23,Executive Secretary,,Mass Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,Yes,7.0
+711,Audrey,Vickerman,Female,60,1972-03-03,,,Affluent Customer,N,0,No,7.0
+712,Norine,Antonik,Female,22,1961-05-20,,IT,Mass Customer,N,â«testâ«,No,14.0
+713,Adena,Northedge,Female,34,1994-09-26,Help Desk Technician,,Mass Customer,N,testâ testâ«,Yes,4.0
+714,Burtie,Scintsbury,Male,12,1964-07-13,,Manufacturing,High Net Worth,N,100,Yes,15.0
+715,Royal,Shinn,Male,50,1968-09-07,Junior Executive,,Mass Customer,N,!@#$%^&*(),No,6.0
+721,Harmonia,Cornock,Female,84,1993-08-09,Account Representative III,,Affluent Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,Yes,1.0
+729,Ammamaria,Standbridge,Female,30,1973-10-23,Analog Circuit Design manager,Health,Affluent Customer,N,,No,11.0
+730,Robb,Poll,Male,42,1968-07-25,Web Designer IV,,Mass Customer,N,"''''""",No,14.0
+731,Lorenza,Cawthorne,Female,57,1969-12-04,,,Mass Customer,N,0,No,6.0
+733,Ham,Mayoh,Male,25,1973-11-30,,Manufacturing,Mass Customer,N,-0.5,No,13.0
+736,Sansone,Eastcourt,Male,41,1974-05-24,Help Desk Operator,,High Net Worth,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,No,8.0
+737,Sisely,Oppy,Female,75,1983-07-11,Systems Administrator III,,Mass Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,No,16.0
+738,Bunnie,Whines,Female,51,1984-12-08,,Argiculture,Mass Customer,N,",./;'[]\-=",Yes,9.0
+740,Farr,Butterick,Male,9,1994-08-18,,Financial Services,Affluent Customer,N,,No,6.0
+741,Cristionna,Mapes,Female,16,1979-02-15,,,Mass Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,No,11.0
+744,Heinrik,,Male,54,1977-08-30,Graphic Designer,Manufacturing,Affluent Customer,N,ï½ï½¨(Â´âï½â©,Yes,14.0
+745,Dotty,Maylott,Female,84,1978-03-22,,Manufacturing,Mass Customer,N,-0.5,Yes,13.0
+746,Aldo,Waistall,Male,47,1964-07-29,Business Systems Development Analyst,,Affluent Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,Yes,17.0
+747,Eula,Bruni,Female,91,1978-04-24,Database Administrator II,,Mass Customer,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,7.0
+758,Teena,Birrel,Female,99,1967-04-07,,Manufacturing,High Net Worth,N,åè£½æ¼¢èª,Yes,11.0
+760,Shamus,Fyndon,Male,46,1978-03-02,Assistant Professor,,Mass Customer,N,ï½ï½¨(Â´âï½â©,Yes,18.0
+762,Kerwin,Jossel,Male,91,1980-03-06,Environmental Specialist,,Mass Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,Yes,22.0
+765,Valeria,Chazette,Female,50,1984-08-31,,Retail,Affluent Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),No,16.0
+766,Nonna,Hun,Female,16,1975-04-22,,Retail,Mass Customer,N,â«testâ«,Yes,14.0
+771,Lammond,MacGeffen,Male,12,1964-03-12,,,Affluent Customer,N,â«testâ«,Yes,8.0
+773,Robbie,Handaside,Male,77,1985-02-12,,Financial Services,Affluent Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,Yes,20.0
+780,Kim,,Female,24,1973-10-12,Professor,Financial Services,Mass Customer,N,ï½ï½¨(Â´âï½â©,No,20.0
+786,Francklin,Ubanks,Male,34,1985-02-14,,Financial Services,Affluent Customer,N,á,No,16.0
+787,Norma,Batrim,Female,29,1996-12-15,,Retail,Affluent Customer,N,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ,Yes,2.0
+790,Yvonne,,Female,22,1968-03-24,Senior Editor,,Affluent Customer,N,ï¼ï¼ï¼,No,15.0
+792,Mitch,Rains,Male,10,1975-11-19,Structural Engineer,,High Net Worth,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,4.0
+793,Kissie,Delong,Female,97,1989-01-30,Actuary,Financial Services,High Net Worth,N,,Yes,9.0
+799,Harland,Spilisy,U,39,,Programmer I,IT,Mass Customer,N,,Yes,
+801,Bertram,Linn,Male,28,1980-10-08,Geologist IV,,Affluent Customer,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,20.0
+804,Henrietta,Seater,Female,98,1999-06-17,Technical Writer,,High Net Worth,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,Yes,1.0
+805,Jorrie,Hanhardt,Female,48,1960-04-19,Electrical Engineer,Manufacturing,Mass Customer,N,,No,10.0
+807,Lorne,Quested,Female,48,1980-11-25,Safety Technician I,,Affluent Customer,N,ð¾ ð ð ð ð ð ð ð§,No,16.0
+809,Nevsa,Washtell,Female,83,1977-10-23,Biostatistician III,Health,Mass Customer,N,,No,18.0
+811,Ive,Chapelhow,Male,6,1984-01-13,Nurse Practicioner,,Mass Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,No,8.0
+812,Coral,Dunkirk,Female,1,1989-09-22,,Financial Services,Mass Customer,N,100,No,16.0
+814,Raffarty,Giacomoni,Male,60,1959-12-23,Analog Circuit Design manager,Manufacturing,Mass Customer,N,,No,14.0
+815,Caryn,Sampey,Female,47,1974-07-06,,Manufacturing,Mass Customer,N,<img src=x onerror=alert('hi') />,Yes,22.0
+819,Temp,Thebeau,Male,7,1975-07-17,Associate Professor,Manufacturing,Affluent Customer,N,,Yes,5.0
+820,Cecilia,Chipchase,Female,12,1977-01-06,,Financial Services,High Net Worth,N,100,No,16.0
+825,Willis,Whyler,Male,17,1975-08-15,Computer Systems Analyst IV,,Affluent Customer,N,0/0,Yes,16.0
+826,Marc,Waddilove,Male,92,1998-12-25,Recruiting Manager,Financial Services,Mass Customer,N,,Yes,1.0
+827,Phillis,Rudwell,Female,90,1996-05-07,,Health,Affluent Customer,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",No,5.0
+828,Darda,Kernocke,Female,93,1957-12-14,,Health,Mass Customer,N,100,Yes,20.0
+832,Shaun,Murphey,Male,30,1977-11-30,Research Assistant IV,Retail,Mass Customer,N,,No,14.0
+833,Wadsworth,Hubane,Male,9,1995-10-03,Safety Technician II,,High Net Worth,N,â¦testâ§,Yes,4.0
+837,Derick,Fasler,Male,4,1957-01-11,Internal Auditor,,Mass Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,Yes,13.0
+839,Charis,Greaves,U,14,,Structural Analysis Engineer,IT,Mass Customer,N,,Yes,
+850,Nevin,Hanfrey,Male,79,2000-09-24,Clinical Specialist,Health,Mass Customer,N,,No,1.0
+851,Cammi,Tesmond,Female,19,1987-12-30,Project Manager,,Affluent Customer,N,100,Yes,2.0
+854,Charisse,Thoresby,Female,35,2000-10-24,Marketing Manager,,Affluent Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },No,2.0
+857,Theo,,Female,15,1964-08-14,General Manager,,High Net Worth,N,,No,4.0
+860,Ida,,Female,80,1980-08-12,,,High Net Worth,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,Yes,7.0
+864,Regen,Nares,Male,6,1970-03-06,,Retail,High Net Worth,N,é¨è½æ ¼,Yes,4.0
+866,Stanislaus,Gottelier,Male,28,1973-01-05,Associate Professor,,Affluent Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,Yes,14.0
+867,Lura,MacKim,Female,12,1973-05-10,VP Marketing,,Mass Customer,N,1/0,No,17.0
+868,Effie,Duddy,Female,84,1979-07-18,VP Accounting,Financial Services,Mass Customer,N,,Yes,11.0
+871,Janka,Yesinin,Female,40,1992-01-20,,,Mass Customer,N,â°â´âµ,Yes,5.0
+873,Worthington,Penwarden,Male,37,1959-12-23,Occupational Therapist,Health,Affluent Customer,N,,Yes,20.0
+874,Howard,Oseland,Male,78,2001-05-05,,Health,Mass Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,Yes,1.0
+879,Hestia,Smetoun,Female,58,1978-08-02,,,Mass Customer,N,-1,No,12.0
+880,Neely,Lundon,Female,11,1963-12-31,Internal Auditor,,High Net Worth,N,../../../../../../../../../../../etc/hosts,Yes,10.0
+881,Carmella,O' Lone,Female,82,1980-05-07,Information Systems Manager,,High Net Worth,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,15.0
+882,Esmaria,Lythgoe,Female,59,1965-09-29,,Property,Mass Customer,N,â«testâ«,Yes,11.0
+883,Lolita,Bennie,U,73,,Recruiter,IT,Mass Customer,N,,Yes,
+887,Patrizius,Hardinge,Male,55,1997-11-17,,Manufacturing,High Net Worth,N,0,No,1.0
+892,Conroy,Healy,U,22,,Office Assistant II,IT,Mass Customer,N,,Yes,
+895,Juli,Curness,Female,58,1966-09-03,,,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,Yes,12.0
+896,Idell,Belderson,Female,25,1978-06-10,VP Sales,,Mass Customer,N,â,No,15.0
+898,Reyna,Braizier,Female,53,1977-08-28,General Manager,Financial Services,Affluent Customer,N,,No,16.0
+901,Letta,McCarter,Female,13,1975-04-27,,Retail,Mass Customer,N,(ï½¡â â âï½¡),Yes,16.0
+903,Hewe,Lidgley,Male,46,1961-07-03,,Financial Services,Mass Customer,N,â£,No,14.0
+904,Kariotta,Ludman,Female,51,1974-05-06,Database Administrator II,,High Net Worth,N,1;DROP TABLE users,Yes,11.0
+908,Carry,Tomlett,Female,86,1980-08-28,,Financial Services,Affluent Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",Yes,17.0
+909,Suzette,Surgison,Female,77,1960-01-04,Operator,,High Net Worth,N,â¢,Yes,8.0
+913,Dayle,Spearman,Female,67,2000-10-28,,Financial Services,Mass Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,No,1.0
+916,Joycelin,,Female,18,1991-06-18,Recruiter,,Affluent Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,8.0
+923,Garrek,Grimwade,Male,44,1977-06-26,Senior Financial Analyst,Financial Services,High Net Worth,N,,No,19.0
+924,Clementius,Hambric,Male,33,1976-11-08,Computer Systems Analyst II,,Affluent Customer,N,â¦testâ§,No,13.0
+926,Terrel,Matthisson,Male,18,1965-10-14,Professor,Telecommunications,Affluent Customer,N,,No,10.0
+927,Jarret,,Male,25,1966-02-19,Cost Accountant,Financial Services,Mass Customer,N,00ËÆ$-,Yes,18.0
+928,Porty,Clemmitt,Male,61,1973-05-14,Associate Professor,,High Net Worth,N,ð¾ ð ð ð ð ð ð ð,Yes,18.0
+932,Yoko,Dowrey,Female,30,1989-07-20,Graphic Designer,,Mass Customer,N,âªâªtestâª,No,18.0
+935,Aldin,Cracker,Male,76,1994-09-12,Marketing Manager,,Mass Customer,N,1,Yes,3.0
+938,Corabelle,,Female,18,1996-04-06,Technical Writer,Retail,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,No,7.0
+944,Anderea,Dallewater,Female,53,1976-01-12,,Manufacturing,Mass Customer,N,1/0,No,15.0
+945,Hebert,Bernocchi,Male,59,1998-08-26,Human Resources Manager,,High Net Worth,N,â°â´âµâââ,Yes,1.0
+948,Yardley,Argo,Male,19,1969-08-09,Recruiting Manager,,Affluent Customer,N,,No,10.0
+950,Bret,Ivakhnov,U,24,,Recruiter,IT,High Net Worth,N,,Yes,
+952,Marina,Andresen,Female,34,1971-06-13,VP Sales,Financial Services,Affluent Customer,N,,Yes,6.0
+953,Jasmin,Brodeur,Female,16,1979-05-23,,,Mass Customer,N,ã,No,7.0
+959,Katharina,Jennins,Female,3,1986-10-26,Staff Scientist,,Affluent Customer,N,1;DROP TABLE users,Yes,21.0
+962,Granger,Tuftin,Male,49,1977-09-07,VP Product Management,,High Net Worth,N,ï»¿,Yes,17.0
+963,Valery,Haresign,Female,56,1968-07-28,Budget/Accounting Analyst I,,High Net Worth,N,â¦testâ§,Yes,16.0
+965,Meggie,Whitchurch,Female,86,1997-06-18,Structural Engineer,Retail,High Net Worth,N,,Yes,5.0
+974,Mellicent,Dollin,Female,92,1991-06-07,Administrative Assistant IV,,Mass Customer,N,../../../../../../../../../../../etc/hosts,Yes,4.0
+975,Goldarina,Rzehorz,U,26,,Automation Specialist IV,IT,Mass Customer,N,,No,
+977,Olga,Dyke,Female,65,1959-11-30,Staff Accountant III,,High Net Worth,N,ð¾ ð ð ð ð ð ð ð,Yes,13.0
+978,Erena,Escalero,Female,40,1982-01-31,Nurse Practicioner,,High Net Worth,N,â°â´âµâââ,No,15.0
+981,Bud,Smittoune,Male,0,1973-02-19,,Retail,Mass Customer,N,1,No,11.0
+983,Shaylyn,Riggs,U,49,,,IT,Affluent Customer,N,,No,
+989,Caralie,Morfett,Female,43,1982-05-24,Project Manager,Financial Services,Mass Customer,N,,No,17.0
+992,Cordelia,Hawkeswood,Female,6,1958-11-25,,Property,Mass Customer,N,é¨è½æ ¼,Yes,8.0
+996,Aura,Bemlott,U,67,,Assistant Manager,IT,Mass Customer,N,,Yes,
+999,Dido,Leyburn,Female,12,1988-04-10,Recruiting Manager,,High Net Worth,N,â¡,No,4.0
+1000,Paulie,Castelot,Female,44,1978-08-07,Compensation Analyst,Financial Services,Mass Customer,N,,No,11.0
+1001,Finley,Vost,Male,63,1979-08-27,Recruiter,Retail,Mass Customer,N,,No,14.0
+1002,Pacorro,De Clairmont,Male,65,1978-08-30,Business Systems Development Analyst,,Mass Customer,N,ð©ð½,Yes,18.0
+1007,Cord,Warriner,Male,58,1996-06-08,,Retail,Mass Customer,N,<script>alert('hi')</script>,No,5.0
+1008,Lorry,Booley,Female,47,1975-11-10,Teacher,,Mass Customer,N,1,No,21.0
+1012,Anna-diane,Preddle,Female,20,1955-05-20,Software Test Engineer III,,High Net Worth,N,/dev/null; touch /tmp/blns.fail ; echo,Yes,11.0
+1015,Toiboid,Sorrel,Male,7,1955-04-01,Web Developer I,Health,Mass Customer,N,,No,17.0
+1020,Natala,Thorndale,Female,29,1975-11-10,,IT,Affluent Customer,N,1,No,13.0
+1023,Iseabal,Fullbrook,Female,16,1991-07-23,,Financial Services,Affluent Customer,N,2018-02-01 00:00:00,Yes,6.0
+1024,Rhodia,D'Onise,Female,17,1992-06-05,Social Worker,Health,High Net Worth,N,,Yes,2.0
+1026,Vernon,Hakking,Male,66,1994-07-29,,Financial Services,Affluent Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },No,4.0
+1028,Thorn,Torfin,Male,10,1999-08-11,Project Manager,,High Net Worth,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,1.0
+1029,Forbes,Londors,Male,71,1997-02-15,VP Sales,,Mass Customer,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,No,4.0
+1032,Maribelle,Werndly,Female,36,1978-07-18,Executive Secretary,,Mass Customer,N,,Yes,18.0
+1033,Jacob,Claringbold,Male,70,1995-01-06,,,Affluent Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,Yes,3.0
+1034,Denney,Cretney,Male,16,1976-05-12,,,High Net Worth,N,ç°ä¸­ããã«ããã¦ä¸ãã,Yes,3.0
+1038,Fraser,Acome,U,57,,Engineer I,Manufacturing,Mass Customer,N,,Yes,
+1039,Nona,Diamant,Female,24,1975-03-14,,,High Net Worth,N,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ,Yes,15.0
+1041,Free,Bonniface,Male,95,1959-05-25,,Property,Affluent Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,No,15.0
+1044,Frederico,Whilder,U,4,,Food Chemist,Health,High Net Worth,N,,No,
+1045,Aeriel,Everest,Female,88,1986-05-08,,Financial Services,Mass Customer,N,1,Yes,19.0
+1046,Shir,Clevely,Female,0,1955-07-23,Budget/Accounting Analyst II,,Affluent Customer,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,No,11.0
+1048,Braden,Lamming,Male,99,1976-06-08,Internal Auditor,,Affluent Customer,N,nil,No,15.0
+1053,Davon,Stanyland,Male,98,1962-05-20,,Manufacturing,Mass Customer,N,NIL,Yes,8.0
+1054,Natal,Matiewe,Male,27,1983-08-09,Nuclear Power Engineer,Manufacturing,Mass Customer,N,,Yes,13.0
+1061,Anderson,,Male,34,1988-11-07,Speech Pathologist,Financial Services,Mass Customer,N,testâ testâ«,No,19.0
+1062,Tish,Mowett,Female,32,1975-09-28,Junior Executive,,Mass Customer,N,-100,No,14.0
+1068,Frazer,Searston,Male,5,1995-03-21,,Health,Mass Customer,N,âð¿ ðªð¿ ðð¿ ðð¿ ðð¿ ðð¿,Yes,3.0
+1070,Albert,Gomery,Male,5,1995-06-04,Account Representative IV,,Mass Customer,N,ð,No,1.0
+1071,Chrisy,Miranda,Male,68,1986-12-29,,Retail,High Net Worth,N,<script>alert('hi')</script>,No,1.0
+1073,Elbertina,Donne,Female,77,1980-02-25,Associate Professor,,Affluent Customer,N,ð¾ ð ð ð ð ð ð ð,Yes,7.0
+1074,Griswold,Juett,Male,43,1974-07-14,Accounting Assistant IV,,High Net Worth,N,-1,Yes,18.0
+1077,Sheba,Este,Female,8,1955-10-11,,Telecommunications,Mass Customer,N,"''''""",Yes,18.0
+1082,Guinevere,Kelby,U,90,,Financial Analyst,Financial Services,Mass Customer,N,,Yes,
+1083,Chadd,Fowlds,Male,46,1996-08-07,VP Product Management,,Affluent Customer,N,ã»(ï¿£âï¿£)ã»:*:,No,1.0
+1088,Andy,Polgreen,Female,19,1989-07-21,Design Engineer,,High Net Worth,N,!@#$%^&*(),Yes,3.0
+1090,Lorettalorna,,Female,15,1975-07-15,Computer Systems Analyst II,Telecommunications,Affluent Customer,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,No,17.0
+1091,Keith,Housden,Male,19,1980-04-15,,Health,Mass Customer,N,../../../../../../../../../../../etc/passwd%00,No,15.0
+1093,Clarita,Penright,Female,63,1996-09-13,Business Systems Development Analyst,,Affluent Customer,N,00ËÆ$-,No,5.0
+1101,Haily,McWilliams,Female,76,1968-12-22,Senior Editor,,Mass Customer,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,No,15.0
+1105,Sherman,McCusker,Male,39,1990-02-10,General Manager,,Mass Customer,N,â¢,No,18.0
+1111,Zach,Maynard,Male,96,1960-03-04,Director of Sales,,High Net Worth,N,é¨è½æ ¼,Yes,18.0
+1112,Jarrett,Chiplin,Male,25,1981-05-22,,,Mass Customer,N,00ËÆ$-,Yes,13.0
+1115,Merola,Stutard,Female,33,1970-01-18,Account Coordinator,,High Net Worth,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,Yes,17.0
+1116,Tori,Coche,Female,59,1974-06-26,Assistant Manager,Health,Mass Customer,N,,Yes,16.0
+1117,Georgena,Guilaem,Female,83,1975-12-01,Quality Engineer,,Affluent Customer,N,1;DROP TABLE users,No,14.0
+1119,Lemmy,Bennit,Male,43,1976-10-09,,Entertainment,Mass Customer,N,ð¾ ð ð ð ð ð ð ð,Yes,19.0
+1122,Gerladina,Carney,Female,59,1985-12-19,,,Mass Customer,N,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ,No,11.0
+1123,Dominick,Downey,Male,50,1962-06-18,,Property,Mass Customer,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,No,13.0
+1126,Atlante,Sonley,Female,77,1973-09-27,Executive Secretary,,Mass Customer,N,ã»(ï¿£âï¿£)ã»:*:,No,14.0
+1129,Hercule,,Male,2,1977-06-29,VP Marketing,Entertainment,Mass Customer,N,100,Yes,9.0
+1130,Juli,Prine,Female,90,1964-12-06,Sales Associate,,Mass Customer,N,2018-02-01 00:00:00,No,16.0
+1131,Sigmund,Barkworth,Male,16,1956-08-07,VP Marketing,,Mass Customer,N,-100,No,15.0
+1133,Forrester,McFetridge,Male,88,1968-01-26,,Manufacturing,Affluent Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,6.0
+1137,Jermayne,Hryniewicki,Male,46,1977-07-03,Business Systems Development Analyst,,Mass Customer,N,00ËÆ$-,No,18.0
+1140,Deana,Rathbourne,Female,32,1986-02-25,Executive Secretary,,Mass Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },Yes,13.0
+1141,Shannah,Gritsaev,Female,70,1981-09-19,,Financial Services,High Net Worth,N,â°â´âµ,Yes,4.0
+1145,Korella,Begin,Female,80,1965-09-26,,Property,Mass Customer,N,ð,Yes,14.0
+1149,Ki,Odo,Female,29,1967-09-30,Developer III,,Affluent Customer,N,âââ,Yes,14.0
+1158,Butch,Geertje,Male,85,1985-02-17,Senior Quality Engineer,,Mass Customer,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",Yes,19.0
+1162,Ambrose,Raiston,Male,29,1990-04-13,Marketing Assistant,,Mass Customer,N,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥,Yes,7.0
+1171,Ilise,Solloway,Female,32,1971-08-15,Human Resources Manager,,Affluent Customer,N,-1,Yes,8.0
+1172,Smith,Babbs,Male,48,1974-04-12,Recruiter,,Mass Customer,N,ð©ð½,Yes,17.0
+1174,Shellysheldon,Gooderridge,U,9,,Executive Secretary,IT,Mass Customer,N,,No,
+1175,Paige,Hodgin,Male,8,1985-09-22,Human Resources Manager,,Mass Customer,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,8.0
+1176,Celia,Dockerty,Female,7,1976-01-16,Software Engineer IV,,Affluent Customer,N,,Yes,7.0
+1179,Kerry,Pashenkov,Male,56,1988-08-15,Media Manager IV,Financial Services,High Net Worth,N,,Yes,13.0
+1183,Joe,Shalliker,Male,50,1958-11-14,Media Manager II,,Affluent Customer,N,"__ï¾(,_,*)",No,6.0
+1185,Xena,Rossbrooke,Female,17,2000-07-23,VP Product Management,,Mass Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,Yes,2.0
+1187,Antonino,Hogben,Male,65,1998-10-21,,Financial Services,Mass Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,No,1.0
+1188,Sally,Cominoli,Female,14,1984-02-23,Statistician IV,,Affluent Customer,N,() { 0; }; touch /tmp/blns.shellshock1.fail;,Yes,4.0
+1191,Merrielle,Vegas,Female,20,1996-05-22,Director of Sales,,Mass Customer,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,Yes,1.0
+1194,Audry,Scurrey,Female,69,1992-03-25,Junior Executive,Telecommunications,Affluent Customer,N,,No,3.0
+1201,Stephani,Mellhuish,Female,42,1955-11-28,,Manufacturing,Mass Customer,N,00ËÆ$-,No,10.0
+1202,Rollie,,Male,90,1992-02-26,Sales Representative,Retail,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,Yes,8.0
+1210,Shandie,Sprigg,U,81,,Programmer II,IT,Mass Customer,N,,No,
+1213,Matthieu,Schruur,Male,80,1973-10-21,Accounting Assistant II,,High Net Worth,N,,No,15.0
+1218,Marlie,Lister,Female,12,1982-01-09,,,Mass Customer,N,ã»(ï¿£âï¿£)ã»:*:,Yes,7.0
+1219,Kaine,Parkeson,Male,93,1971-11-04,,Financial Services,Mass Customer,N,,No,14.0
+1220,Paulie,Akerman,Male,12,1987-06-08,Editor,,High Net Worth,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,No,14.0
+1223,Kristyn,,Female,19,1965-01-05,Senior Sales Associate,Manufacturing,Mass Customer,N,ì¸ëë°í ë¥´,Yes,16.0
+1230,Eben,Powley,Male,61,1985-07-24,,Financial Services,Mass Customer,N,â,Yes,10.0
+1233,Keeley,Hawsby,Female,17,1978-07-07,,Retail,Affluent Customer,N,á,Yes,16.0
+1234,Rancell,Yven,Male,87,1965-04-19,Geologist I,,Mass Customer,N,-0.5,No,17.0
+1238,Steward,Beedham,Male,24,1978-06-01,Graphic Designer,,Affluent Customer,N,(ï½¡â â âï½¡),Yes,6.0
+1239,Carroll,Cobbin,Male,9,1978-02-28,,,Mass Customer,N,-100,Yes,17.0
+1244,Glenn,Tinham,U,80,,Financial Analyst,Financial Services,Mass Customer,N,,Yes,
+1246,Ibrahim,Wibrew,Male,94,1993-08-10,,,High Net Worth,N,testâ testâ«,No,6.0
+1248,Genia,Bartel,Female,31,1963-12-18,General Manager,,Affluent Customer,N,-100,Yes,7.0
+1249,Tabb,McKeowon,Male,11,1967-10-31,,Telecommunications,Mass Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,No,16.0
+1253,Mahalia,,Female,81,1996-08-19,Research Assistant I,Manufacturing,Mass Customer,N,100,No,5.0
+1254,Quillan,McDuffie,Male,60,1958-12-18,Graphic Designer,Retail,Mass Customer,N,,Yes,5.0
+1255,Erhart,Glazebrook,Male,5,1982-05-20,,Health,Affluent Customer,N,2018-02-01 00:00:00,No,11.0
+1262,Aindrea,MacConchie,Female,90,1967-12-07,Technical Writer,,High Net Worth,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,Yes,19.0
+1263,Elliot,Posselow,Male,41,1973-06-16,Nurse,Manufacturing,Affluent Customer,N,,No,8.0
+1264,Michail,Heart,Male,48,1994-02-28,,Health,Mass Customer,N,ì¬íê³¼íì ì´íì°êµ¬ì,Yes,7.0
+1266,Harry,,Male,68,1978-05-02,Human Resources Manager,Health,Mass Customer,N,0/0,Yes,10.0
+1268,Baudoin,McCartney,Male,20,1989-12-06,,Financial Services,High Net Worth,N,../../../../../../../../../../../etc/passwd%00,Yes,2.0
+1272,Nettie,Bulfit,Female,2,1985-04-04,,Manufacturing,Affluent Customer,N,-100,No,17.0
+1277,Elias,Gerrie,Male,26,1972-12-26,Help Desk Technician,,Mass Customer,N,1,Yes,9.0
+1285,Tomkin,Fudge,Male,44,1973-05-23,Office Assistant III,Manufacturing,Mass Customer,N,,Yes,12.0
+1289,Shelley,Stroyan,Male,35,1973-07-16,,,Mass Customer,N,-1,Yes,8.0
+1292,Alice,Backson,Female,56,1961-06-02,,,Affluent Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),No,20.0
+1294,Cari,Worling,Female,31,1974-09-28,,Manufacturing,Mass Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,Yes,15.0
+1299,Maddy,Aiskovitch,Female,72,1977-01-17,Media Manager IV,,Affluent Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,No,12.0
+1301,Trix,,Female,17,1991-11-25,Structural Analysis Engineer,Health,Mass Customer,N,-1,No,9.0
+1303,Nollie,Guilliatt,Male,64,1972-04-27,,Argiculture,Mass Customer,N,../../../../../../../../../../../etc/hosts,No,15.0
+1304,Emmy,Lumbly,Male,23,1977-11-16,Administrative Assistant III,,High Net Worth,N,åè£½æ¼¢èª,No,11.0
+1308,Andrey,Conre,Male,34,1976-08-27,Analog Circuit Design manager,,Affluent Customer,N,0/0,Yes,18.0
+1309,Adlai,Fabry,Male,95,1977-03-22,VP Marketing,,Mass Customer,N,0,No,13.0
+1315,Ebba,Comport,Female,46,1973-06-24,,IT,Mass Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },Yes,12.0
+1318,Barbe,Assender,Female,10,1966-08-17,Senior Developer,Financial Services,Mass Customer,N,,Yes,4.0
+1319,Trevor,St. Paul,Male,20,1955-07-18,,Entertainment,Mass Customer,N,â©testâ©,Yes,12.0
+1320,Fae,,Female,4,1983-10-29,,Manufacturing,High Net Worth,N,100,Yes,7.0
+1323,Kristofor,Mockes,Male,27,1988-04-04,Account Executive,,High Net Worth,N,2018-02-01 00:00:00,Yes,9.0
+1329,Wendy,Randlesome,Female,65,1989-07-15,Database Administrator IV,,Mass Customer,N,"__ï¾(,_,*)",No,11.0
+1330,Gery,Headrick,Male,20,1985-08-02,Technical Writer,,Affluent Customer,N,-1,No,19.0
+1332,Garek,De la Barre,Male,87,1978-05-01,Technical Writer,,Mass Customer,N,1,Yes,12.0
+1335,Sibylla,Marlon,Female,57,1997-08-14,,Entertainment,Mass Customer,N,ï»¿,Yes,3.0
+1336,Moise,Inde,Male,83,1989-03-13,Physical Therapy Assistant,,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,Yes,15.0
+1338,Giuseppe,Tezure,Male,53,1980-11-24,Product Engineer,,High Net Worth,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,No,14.0
+1340,Crawford,Dreini,Male,16,1977-11-05,Statistician I,,High Net Worth,N,1,No,18.0
+1342,Barnett,Morville,Male,14,1962-04-11,,Retail,Affluent Customer,N,"<>?:""{}|_+",Yes,11.0
+1348,Lowe,Hinckes,Male,88,1984-04-10,VP Sales,,High Net Worth,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,No,13.0
+1351,Lorettalorna,,U,32,,Office Assistant IV,IT,High Net Worth,N,,No,
+1356,Ofella,Walbrook,Female,12,1981-02-24,Account Representative I,,High Net Worth,N,1/0,No,13.0
+1368,Aarika,Magog,Female,54,1973-04-14,,Property,Mass Customer,N,-100,No,4.0
+1374,Cleveland,Spilling,Male,76,1976-01-13,,Manufacturing,Mass Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,8.0
+1376,Pail,,Male,89,1966-03-12,Environmental Tech,Health,Mass Customer,N,0,Yes,18.0
+1378,Ellie,Prester,Female,36,1978-06-18,,Property,Affluent Customer,N,testâ testâ«,Yes,7.0
+1383,Coriss,Casarino,Female,81,1957-10-29,Software Consultant,IT,Affluent Customer,N,,No,8.0
+1389,Reina,Drever,Female,27,1962-05-14,,Health,Affluent Customer,N,á,No,15.0
+1393,Adria,MacRorie,Female,96,1976-03-10,,Manufacturing,Mass Customer,N,ï¼ï¼ï¼,No,20.0
+1394,Freemon,Perago,Male,50,1978-01-27,,Health,Mass Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,Yes,8.0
+1395,Jandy,Pennazzi,Female,83,1957-12-23,VP Product Management,,High Net Worth,N,Ù¡Ù¢Ù£,Yes,16.0
+1401,Ashien,Winspare,Female,68,1978-09-30,,Financial Services,High Net Worth,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,10.0
+1409,Tiffi,Hartless,Female,69,1996-05-07,Help Desk Technician,,Mass Customer,N,,No,4.0
+1412,Antonetta,Dumbrall,Female,20,1991-09-04,Tax Accountant,,Mass Customer,N,Ù¡Ù¢Ù£,Yes,4.0
+1413,Vi,Lauga,Female,47,1998-04-24,Administrative Assistant II,Financial Services,Mass Customer,N,,No,3.0
+1416,Fraze,Face,Male,90,1967-04-30,Assistant Manager,,High Net Worth,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,Yes,5.0
+1417,Micki,Russel,Female,12,1959-11-14,,Manufacturing,High Net Worth,N,â°â´âµâââ,Yes,20.0
+1433,Marya,Szwandt,Female,15,1958-09-25,Account Coordinator,IT,Mass Customer,N,,No,20.0
+1436,Tonnie,Andryunin,Male,40,1999-10-29,General Manager,,Affluent Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,3.0
+1441,Renae,Burns,Female,23,1977-03-07,,Manufacturing,Affluent Customer,N,âð¿ ðªð¿ ðð¿ ðð¿ ðð¿ ðð¿,No,5.0
+1442,Mylo,Norrie,Male,1,1963-03-07,,Manufacturing,Affluent Customer,N,â¡,No,17.0
+1443,Angela,Mowles,Female,47,1986-07-25,,Financial Services,Affluent Customer,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,Yes,22.0
+1449,Ashly,Abramamovh,Female,38,1967-08-26,Staff Accountant IV,,High Net Worth,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,4.0
+1453,Ahmed,,Male,54,1977-07-30,Computer Systems Analyst I,Health,High Net Worth,N,,No,13.0
+1455,Cleo,,Female,2,1992-07-26,Software Engineer I,Property,Affluent Customer,N,-1,No,8.0
+1457,Leonore,Slixby,Female,99,1978-08-20,Speech Pathologist,,Affluent Customer,N,á ,Yes,12.0
+1458,Ashley,Behneke,Male,40,1956-10-22,Account Representative IV,Telecommunications,Affluent Customer,N,,No,11.0
+1461,Earl,Skeels,Male,71,1957-01-04,,Retail,Mass Customer,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",Yes,9.0
+1463,Willie,Landsberg,Male,53,1965-04-18,Chief Design Engineer,Property,High Net Worth,N,,Yes,18.0
+1464,Mac,Leguay,Male,20,1984-10-03,Office Assistant II,,Affluent Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),Yes,10.0
+1467,Alysia,Cantrill,Female,1,1975-12-16,,Manufacturing,Mass Customer,N,â,Yes,6.0
+1469,Shermy,,Male,77,1957-06-29,Financial Advisor,Financial Services,Affluent Customer,N,,Yes,14.0
+1471,Berri,Farr,Female,88,1978-02-24,,Financial Services,Mass Customer,N,!@#$%^&*(),No,15.0
+1473,Darrick,Feake,Male,49,1960-04-21,VP Product Management,,Mass Customer,N,ï»¿,Yes,20.0
+1476,Vaughn,Browse,Male,25,1986-11-21,Structural Analysis Engineer,,Affluent Customer,N,á ,Yes,20.0
+1477,Leo,Balharry,U,42,,Actuary,Financial Services,Mass Customer,N,,Yes,
+1480,Bird,Diess,Female,83,1995-05-21,Legal Assistant,,High Net Worth,N,../../../../../../../../../../../etc/passwd%00,Yes,5.0
+1484,Willette,Boodell,Female,26,1986-03-05,Administrative Assistant IV,,Mass Customer,N,é¨è½æ ¼,No,18.0
+1487,Kaela,Soppett,Female,58,1979-05-23,Web Designer IV,,Affluent Customer,N,"""'",Yes,5.0
+1488,Donnamarie,Andrieu,Female,82,1986-09-30,Assistant Manager,,Mass Customer,N,åè£½æ¼¢èª,Yes,17.0
+1492,Cordey,Tomik,Female,51,1980-01-11,Media Manager I,,Mass Customer,N,nil,No,7.0
+1494,Levon,Parlor,Male,46,1986-11-03,Geologist I,,Mass Customer,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,Yes,7.0
+1498,Janot,McGougan,Female,84,1989-09-27,Nurse,,Affluent Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,Yes,13.0
+1500,Bellina,Bradberry,Female,82,1960-01-24,,,Mass Customer,N,testâ testâ«,No,9.0
+1501,Shelby,Trayhorn,Female,74,1973-07-31,Account Executive,Property,Mass Customer,N,,Yes,14.0
+1503,Del,Scullin,Female,1,1968-02-25,Media Manager III,,Affluent Customer,N,nil,No,6.0
+1506,Andonis,Cochrane,Male,21,1958-02-21,,Property,Mass Customer,N,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥,No,17.0
+1507,Holmes,Benkin,Male,97,1977-11-10,,Manufacturing,High Net Worth,N,ã»(ï¿£âï¿£)ã»:*:,Yes,22.0
+1509,Sibley,Janek,U,10,,Computer Systems Analyst I,IT,High Net Worth,N,,Yes,
+1512,Chandler,,Male,89,1979-04-10,Teacher,,High Net Worth,N,â¡,No,4.0
+1513,Wendel,Cator,Male,13,1970-06-05,Quality Engineer,,Affluent Customer,N,-1,Yes,16.0
+1514,Pren,Brangan,Male,15,1962-01-16,Professor,,Mass Customer,N,<script>alert('hi')</script>,No,14.0
+1520,Dillie,Wilstead,Male,95,1965-11-18,,Retail,Mass Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,No,19.0
+1527,Gerek,Chape,Male,23,1997-10-15,Chemical Engineer,Manufacturing,Mass Customer,N,,No,2.0
+1528,Ranee,Henriksson,Female,78,1984-01-01,,Manufacturing,High Net Worth,N,,No,3.0
+1539,Filberte,Godmer,Male,3,1977-11-17,Account Executive,,Mass Customer,N,1,Yes,16.0
+1543,Michaela,Andrasch,Female,25,1993-10-13,Database Administrator III,,High Net Worth,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,No,9.0
+1547,Chiquita,Billyard,Female,82,1990-02-26,Account Coordinator,,Mass Customer,N,"<>?:""{}|_+",Yes,12.0
+1548,Perla,Cortnay,Female,70,1995-02-03,,Manufacturing,Mass Customer,N,100,Yes,2.0
+1549,Vikki,Tett,Female,87,1997-08-06,,Financial Services,Affluent Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,Yes,4.0
+1559,Hilton,Gladwell,Male,63,1975-10-14,,Health,High Net Worth,N,0,Yes,12.0
+1560,Tymon,Blackstone,Male,14,1973-01-12,,Retail,Mass Customer,N,<img src=x onerror=alert('hi') />,No,5.0
+1562,Elset,Biasio,Female,29,1984-07-11,Staff Scientist,,Affluent Customer,N,",./;'[]\-=",Yes,3.0
+1565,Jay,Janiszewski,Male,71,1953-08-17,Sales Representative,Retail,High Net Worth,N,,Yes,11.0
+1567,Florri,Ramsdell,Female,18,1971-12-16,Teacher,,Mass Customer,N,âªâªtestâª,No,16.0
+1569,Dave,Mews,Male,87,1987-06-03,Structural Analysis Engineer,,Mass Customer,N,ðµ ð ð ð,No,8.0
+1574,Werner,Wall,Male,16,1995-11-15,Database Administrator I,,Affluent Customer,N,âð¿ ðªð¿ ðð¿ ðð¿ ðð¿ ðð¿,Yes,2.0
+1578,Andreas,Bazely,Male,60,1978-04-14,,Health,High Net Worth,N,nil,Yes,11.0
+1583,Krysta,O' Reagan,U,18,,Geologist IV,IT,Mass Customer,N,,Yes,
+1584,Susanetta,,Female,93,1992-04-27,Legal Assistant,Manufacturing,Mass Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,No,9.0
+1587,Kevan,Laminman,Male,17,1986-08-16,Software Test Engineer III,Entertainment,Affluent Customer,N,,Yes,12.0
+1592,Thorin,Klagges,Male,21,1986-08-04,Software Test Engineer III,,Mass Customer,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,Yes,14.0
+1598,Guendolen,Betterton,Female,87,1973-12-02,Safety Technician III,,Mass Customer,N,100,No,11.0
+1599,Ozzy,Silver,Male,65,1999-11-24,,,Affluent Customer,N,ã»(ï¿£âï¿£)ã»:*:,No,1.0
+1602,Shamus,Dennerly,Male,68,1979-01-09,Professor,Retail,Mass Customer,N,,No,15.0
+1604,Natale,Duinbleton,Male,51,1960-04-11,,Financial Services,High Net Worth,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,No,20.0
+1605,Latrena,Ker,Female,72,1988-03-01,,,Affluent Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,No,9.0
+1606,Shayne,Ellesworthe,Female,93,1980-11-25,Environmental Specialist,,Affluent Customer,N,1'; DROP TABLE users--,Yes,9.0
+1608,Fernande,Petzolt,Female,87,1958-09-21,Software Engineer III,,Mass Customer,N,ï»¿,Yes,6.0
+1609,Reginald,Hanwright,Male,64,1996-11-26,Professor,Property,Mass Customer,N,,Yes,3.0
+1610,Valaree,Chisolm,Female,75,1955-02-10,Structural Engineer,,High Net Worth,N,â¦testâ§,Yes,9.0
+1611,Terencio,,Male,93,1971-11-22,Developer IV,Health,High Net Worth,N,-100,Yes,13.0
+1613,Ernesta,Billany,Female,18,1977-05-25,,Property,Mass Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,No,19.0
+1614,Currie,Gimber,Male,2,1984-08-12,,,High Net Worth,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,No,8.0
+1615,Evvie,Crack,Female,75,1971-02-04,,Entertainment,Mass Customer,N,â°â´âµ,Yes,7.0
+1618,Andee,Scardifeild,Female,90,1966-03-01,Senior Developer,,Mass Customer,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,No,19.0
+1619,Matteo,Hallum,Male,83,1971-12-22,Staff Accountant III,,Mass Customer,N,<img src=x onerror=alert('hi') />,Yes,6.0
+1620,Jerrold,Bernetti,Male,18,1992-07-27,Structural Analysis Engineer,,High Net Worth,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,Yes,2.0
+1622,Pietrek,Crowe,Male,44,1978-05-30,Senior Quality Engineer,,High Net Worth,N,ãã¼ãã£ã¼ã¸è¡ããªãã,No,16.0
+1626,Fanchon,Fist,Female,82,1979-04-19,VP Accounting,Financial Services,Mass Customer,N,,No,14.0
+1628,Hermione,Brereton,U,13,,Assistant Manager,IT,Mass Customer,N,,No,
+1639,Marna,Showers,Female,9,1962-12-17,,Manufacturing,Mass Customer,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,Yes,12.0
+1640,Erie,Worswick,Male,37,1995-02-17,Accountant I,,High Net Worth,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,Yes,3.0
+1643,Manda,Forsey,Female,13,1961-01-07,,Retail,Mass Customer,N,1,No,19.0
+1645,Dal,Colquhoun,Male,34,1995-06-12,Research Associate,,Affluent Customer,N,ð¾ ð ð ð ð ð ð ð§,Yes,5.0
+1647,Ivory,Roscam,Female,21,1977-09-09,,Financial Services,High Net Worth,N,!@#$%^&*(),Yes,17.0
+1650,Raphaela,Looby,Female,44,1980-05-03,Tax Accountant,,High Net Worth,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,No,16.0
+1651,Idalina,,Female,9,1996-11-25,Web Designer I,Telecommunications,Mass Customer,N,ì¸ëë°í ë¥´,Yes,4.0
+1653,Florry,Folbige,Female,80,1987-04-29,,Argiculture,Mass Customer,N,!@#$%^&*(),Yes,12.0
+1666,Launce,Lording,Male,73,1977-04-02,Recruiting Manager,,Mass Customer,N,100,No,14.0
+1678,Dale,Hursey,Female,20,1977-10-07,,Financial Services,High Net Worth,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,Yes,13.0
+1681,Rupert,Gilstoun,Male,78,1979-12-07,,Health,High Net Worth,N,(ï½¡â â âï½¡),Yes,6.0
+1683,Brenn,Bacon,U,72,,Budget/Accounting Analyst I,IT,Mass Customer,N,,Yes,
+1687,Chance,Maben,Male,16,1991-05-09,,Manufacturing,Affluent Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },Yes,8.0
+1688,Charmaine,Suller,Female,80,1978-12-05,Systems Administrator II,,Mass Customer,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,No,15.0
+1691,Tomlin,,Male,50,1979-11-16,Account Coordinator,,High Net Worth,N,"''''""",Yes,7.0
+1694,Tonnie,McLinden,Male,11,1959-10-11,,IT,Mass Customer,N,á,Yes,19.0
+1695,Blanch,Leyshon,Female,11,1991-05-18,Environmental Specialist,,High Net Worth,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",Yes,4.0
+1698,Christabella,Eldredge,Female,58,1971-08-24,,Health,Affluent Customer,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,Yes,18.0
+1701,Hazlett,Goane,Male,11,1963-04-24,,Manufacturing,High Net Worth,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,No,17.0
+1706,Slade,Semark,Male,32,1961-08-19,,Financial Services,High Net Worth,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,10.0
+1711,Marie-jeanne,Mattson,Female,81,1993-09-26,,Manufacturing,High Net Worth,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,7.0
+1712,Chad,,Female,63,1976-10-12,Dental Hygienist,Health,High Net Worth,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,Yes,7.0
+1723,Atalanta,Stoeck,Female,90,1986-10-24,Geologist IV,,Mass Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,Yes,7.0
+1727,Everard,,Male,43,1978-05-10,Assistant Media Planner,Entertainment,High Net Worth,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,No,6.0
+1738,Frankie,Seydlitz,Male,39,1985-04-24,Engineer II,Argiculture,High Net Worth,N,,Yes,14.0
+1740,Faythe,Janaszewski,U,83,,Research Associate,IT,Mass Customer,N,,Yes,
+1742,Quintin,Dublin,Male,48,1958-08-17,Tax Accountant,,High Net Worth,N,â¢,No,13.0
+1746,Kev,,Male,58,1962-01-05,Operator,IT,High Net Worth,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,6.0
+1749,Debbi,Petschelt,Female,66,1980-10-22,,Telecommunications,High Net Worth,N,ðµ ð ð ð,No,4.0
+1751,Sara-ann,Haddick,Female,49,1969-03-23,,Health,Mass Customer,N,,No,4.0
+1752,Diane,Busk,Female,92,1977-01-27,Systems Administrator II,,Mass Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,No,17.0
+1754,Zonnya,Tolland,Female,24,1965-11-27,,Retail,Mass Customer,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,Yes,15.0
+1756,Daron,,Female,92,1976-12-17,Junior Executive,,High Net Worth,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,No,7.0
+1757,Hashim,Hartwell,Male,68,1966-03-03,,IT,High Net Worth,N,<svg><script>0<1>alert('XSS')</script>,No,7.0
+1764,Zaria,Van der Krui,Female,36,1960-06-21,Desktop Support Technician,,Mass Customer,N,â,Yes,10.0
+1765,Sibella,O' Mara,Female,48,1967-02-13,Senior Quality Engineer,,High Net Worth,N,/dev/null; touch /tmp/blns.fail ; echo,No,10.0
+1766,Maye,O'Moylane,Female,53,1985-10-20,Senior Quality Engineer,,Affluent Customer,N,â£,No,21.0
+1768,Normand,Ganderton,Male,36,1974-02-09,Programmer I,Manufacturing,High Net Worth,N,,No,13.0
+1769,Sheridan,Shaves,Male,13,1960-11-26,,,Mass Customer,N,() { 0; }; touch /tmp/blns.shellshock1.fail;,Yes,5.0
+1770,Chrysler,Vasile,Female,63,1995-04-10,Junior Executive,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð§,Yes,7.0
+1773,Nickolas,Guittet,U,82,,,IT,Mass Customer,N,,Yes,
+1778,Emera,Margrem,Female,72,2000-07-30,Staff Accountant III,,Mass Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,Yes,2.0
+1780,Maude,Tixier,U,52,,Research Associate,IT,Mass Customer,N,,No,
+1781,Sammie,Uglow,Male,63,1965-07-26,Data Coordiator,,Affluent Customer,N,,No,17.0
+1783,Brett,McCalister,Male,55,1995-07-30,,Retail,Mass Customer,N,"'""''''""",Yes,7.0
+1792,Dunstan,Kegley,Male,1,1988-04-07,,Financial Services,Mass Customer,N,-1,No,15.0
+1797,Basile,Le Floch,Male,49,1974-05-16,Assistant Professor,,Mass Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),No,8.0
+1799,Tito,Brash,Male,81,1977-12-23,,,Affluent Customer,N,"__ï¾(,_,*)",No,17.0
+1803,Clarinda,Edlyn,Female,75,1988-01-13,,,Mass Customer,N,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ,No,6.0
+1806,Gil,De Gregorio,U,95,,Software Test Engineer IV,IT,Mass Customer,N,,No,
+1807,Pollyanna,Serjeantson,Female,45,1955-03-15,Help Desk Operator,,High Net Worth,N,100,Yes,16.0
+1811,Sylvan,Sugge,Male,59,1999-10-13,,Financial Services,Mass Customer,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,1.0
+1816,Lonni,Andrichak,Female,68,1977-02-25,,Argiculture,Mass Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,No,18.0
+1817,Jozef,Frizzell,Male,32,1975-03-13,Graphic Designer,,High Net Worth,N,(ï½¡â â âï½¡),No,19.0
+1822,Trudie,Capper,Female,67,1962-09-18,,Financial Services,Mass Customer,N,nil,No,9.0
+1823,Trude,Rizzardo,Female,29,1974-05-24,VP Quality Control,,High Net Worth,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,No,10.0
+1829,Darcy,Jaslem,Male,82,1980-10-29,Editor,,Mass Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,14.0
+1843,Kennett,Attack,Male,96,1984-09-08,Recruiting Manager,,Mass Customer,N,',Yes,4.0
+1844,Amaleta,Slafford,Female,71,1975-10-21,Product Engineer,,Mass Customer,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",No,12.0
+1849,Jess,Bollans,Male,6,1958-07-01,,Retail,Mass Customer,N,!@#$%^&*(),Yes,5.0
+1851,Miles,Fallows,Male,20,1974-03-18,Account Representative II,,Mass Customer,N,â©testâ©,No,13.0
+1853,Agathe,Dimmick,Female,67,1987-06-20,Recruiter,,Mass Customer,N,",./;'[]\-=",Yes,17.0
+1854,Mandie,Jeger,Female,11,1978-09-12,Community Outreach Specialist,,High Net Worth,N,"""'",Yes,17.0
+1858,Gabriella,,Female,30,1957-04-26,Senior Sales Associate,Manufacturing,High Net Worth,N,á,Yes,11.0
+1862,Daron,Umpleby,Female,24,1980-06-29,,Health,High Net Worth,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",Yes,4.0
+1865,Isabelita,Kitchener,Female,35,1997-12-24,Office Assistant III,,Mass Customer,N,ð,No,3.0
+1867,Tonya,Ritmeier,Female,96,1986-04-16,Senior Developer,,Affluent Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,3.0
+1870,Alikee,Sjollema,Female,24,1973-01-16,Graphic Designer,,Affluent Customer,N,â°â´âµâââ,No,9.0
+1874,Nickolai,McChesney,Male,17,1957-09-29,,Argiculture,High Net Worth,N,â¢,Yes,7.0
+1880,Garrett,Dommett,Male,50,1972-08-11,,,High Net Worth,N,1,No,17.0
+1881,Gherardo,Lahy,Male,61,1957-12-10,Quality Control Specialist,,Affluent Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,Yes,12.0
+1882,Justin,Ragless,Male,86,1964-05-05,Account Executive,Manufacturing,Affluent Customer,N,,No,10.0
+1883,Jinny,Cawood,Female,6,1991-08-13,,Health,Mass Customer,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,No,6.0
+1884,Aurore,Buckmaster,Female,19,1969-11-25,,Manufacturing,Mass Customer,N,-1,Yes,17.0
+1888,Sibyl,Scholtz,Female,67,2002-01-26,Food Chemist,Health,Mass Customer,N,,Yes,1.0
+1889,Dare,,Male,98,1973-07-07,Quality Control Specialist,Retail,Affluent Customer,N,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ,No,11.0
+1892,Allyson,Pinsent,Female,48,1995-09-07,,Retail,High Net Worth,N,() { 0; }; touch /tmp/blns.shellshock1.fail;,Yes,2.0
+1893,Gunar,Sleit,Male,25,1968-04-22,Administrative Officer,,Mass Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,No,5.0
+1894,Patten,Laytham,Male,86,1976-04-01,Automation Specialist III,Manufacturing,High Net Worth,N,,Yes,17.0
+1896,Garald,Brasner,Male,13,1995-04-30,Project Manager,,High Net Worth,N,â¦testâ§,No,1.0
+1897,Cosette,Callar,Female,58,1997-08-20,Product Engineer,,Mass Customer,N,ã,Yes,1.0
+1899,Lambert,Vardey,Male,29,1997-09-02,,Retail,Affluent Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,4.0
+1903,Tucky,Pizzie,Male,8,1973-11-20,Project Manager,,High Net Worth,N,00ËÆ$-,Yes,4.0
+1905,Corabelle,,Female,21,1953-09-17,Help Desk Technician,Manufacturing,Affluent Customer,N,00ËÆ$-,No,15.0
+1906,Waylan,Katte,Male,69,1988-04-24,Product Engineer,Retail,Mass Customer,N,,No,22.0
+1918,Devin,Sandeson,U,83,,Staff Accountant II,IT,Affluent Customer,N,,No,
+1921,Cybill,Wakes,Female,70,1982-12-03,Accountant III,,Mass Customer,N,ð,No,17.0
+1922,Ailene,Tomkies,Female,7,1969-11-11,Speech Pathologist,,High Net Worth,N,() { 0; }; touch /tmp/blns.shellshock1.fail;,Yes,5.0
+1924,Eolande,Kauscher,Female,94,1965-12-01,VP Product Management,,Mass Customer,N,,Yes,14.0
+1925,Amaleta,Dickens,Female,34,1982-01-28,,,Mass Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,Yes,7.0
+1934,Bryant,Tordiffe,Male,70,1963-01-17,Budget/Accounting Analyst IV,,Affluent Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),Yes,14.0
+1935,Galvan,,Male,72,1974-11-13,Senior Sales Associate,,Mass Customer,N,NIL,No,9.0
+1938,Austin,Toopin,U,47,,Automation Specialist IV,IT,Mass Customer,N,,Yes,
+1939,Pierce,Cheke,Male,81,1992-05-03,Safety Technician I,,Mass Customer,N,â«testâ«,Yes,8.0
+1945,Griffin,Gisbourn,Male,88,1978-07-10,Software Test Engineer II,,High Net Worth,N,!@#$%^&*(),Yes,9.0
+1946,Brannon,Gladman,Male,37,1959-01-04,Systems Administrator III,,Mass Customer,N,âââ,No,8.0
+1948,Elizabeth,Applewhaite,Female,30,1964-06-08,,Entertainment,Mass Customer,N,ï½ï½¨(Â´âï½â©,No,11.0
+1955,Thornton,Vereker,Male,18,1980-11-22,Environmental Specialist,,Mass Customer,N,âð¿ ðªð¿ ðð¿ ðð¿ ðð¿ ðð¿,No,11.0
+1956,Omero,Murra,Male,36,1994-07-08,Human Resources Assistant I,Health,Affluent Customer,N,,Yes,3.0
+1958,Janina,Keme,Female,62,1985-09-01,Professor,,Mass Customer,N,á,No,22.0
+1960,Falkner,Jochens,Male,86,1978-07-03,Software Engineer II,,Mass Customer,N,100,Yes,10.0
+1961,Licha,Lyes,Female,10,1960-11-22,Physical Therapy Assistant,,Mass Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,Yes,15.0
+1966,Moshe,Nicholl,Male,75,1993-10-31,,Financial Services,High Net Worth,N,ì¬íê³¼íì ì´íì°êµ¬ì,No,3.0
+1967,Nomi,,Female,88,1985-11-19,Chemical Engineer,Manufacturing,Affluent Customer,N,"''''""",Yes,17.0
+1971,Mariel,Dyke,Female,49,1998-02-10,,Manufacturing,Mass Customer,N,,Yes,4.0
+1972,Obed,Pauler,Male,12,1989-07-14,,IT,Mass Customer,N,,Yes,2.0
+1974,Aharon,Moller,Male,67,1958-06-15,Administrative Officer,,Mass Customer,N,1,Yes,15.0
+1976,Letitia,Coan,Female,84,1975-08-16,Product Engineer,Manufacturing,Mass Customer,N,,No,11.0
+1977,Myrtia,Paschke,Female,28,1977-10-04,,Manufacturing,Mass Customer,N,100,Yes,5.0
+1979,Ephrem,Cariss,Male,98,1960-05-15,Statistician III,Manufacturing,Mass Customer,N,,Yes,11.0
+1981,Calv,Zelland,Male,62,1986-01-30,Sales Associate,,Affluent Customer,N,Ù¡Ù¢Ù£,No,12.0
+1982,Julee,Hallewell,Female,80,1968-03-30,Senior Cost Accountant,Financial Services,High Net Worth,N,,Yes,16.0
+1985,Chrysler,Longstaffe,Female,1,1978-12-02,Computer Systems Analyst I,,Mass Customer,N,â©testâ©,Yes,16.0
+1986,Melania,Ruske,Female,53,1981-12-30,,Retail,Mass Customer,N,testâ testâ«,No,16.0
+1990,Mira,Askham,U,9,,Senior Financial Analyst,Financial Services,High Net Worth,N,,No,
+1993,Agustin,Isworth,Male,82,1980-07-27,Accounting Assistant II,,High Net Worth,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,3.0
+1994,Gray,McLorinan,Female,71,1986-04-25,,Manufacturing,High Net Worth,N,é¨è½æ ¼,No,11.0
+1995,Mabel,Sallter,Female,6,1969-03-26,Automation Specialist II,,Mass Customer,N,',Yes,11.0
+1997,Tedmund,Simonsson,Male,57,1996-09-27,Structural Engineer,,Mass Customer,N,<script>alert('hi')</script>,No,5.0
+1998,Hamil,Britch,Male,13,1975-03-26,Media Manager IV,Manufacturing,High Net Worth,N,,No,21.0
+2000,Kain,Rene,U,68,,Assistant Professor,IT,High Net Worth,N,,Yes,
+2002,Matilde,Hamsher,Female,55,1971-06-20,Mechanical Systems Engineer,Financial Services,Mass Customer,N,,No,12.0
+2021,Ulrica,Abelwhite,U,31,,Software Test Engineer I,IT,High Net Worth,N,,Yes,
+2022,Mortimer,Iremonger,Male,79,1982-07-03,,IT,Affluent Customer,N,-1,No,7.0
+2023,Marco,Denziloe,Male,15,1971-01-11,Associate Professor,,High Net Worth,N,/dev/null; touch /tmp/blns.fail ; echo,No,10.0
+2025,Agosto,Thon,Male,59,1982-04-15,VP Quality Control,,Mass Customer,N,../../../../../../../../../../../etc/hosts,Yes,3.0
+2027,Whitney,Dahle,Male,89,1964-09-02,VP Product Management,,High Net Worth,N,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±,No,10.0
+2031,Philbert,Albone,Male,99,1987-01-21,Geologist III,,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,No,12.0
+2035,Kylie,Terese,Male,40,1979-06-01,Senior Developer,Health,Mass Customer,N,,No,19.0
+2036,Alix,Gilliland,Female,11,1977-04-29,,,Mass Customer,N,â¡,No,17.0
+2043,Veronike,Clampett,Female,67,1977-09-05,Software Consultant,,Mass Customer,N,-100,No,7.0
+2046,Charis,Maas,Female,3,1959-07-27,Marketing Manager,,Mass Customer,N,NIL,Yes,13.0
+2050,Opal,Costa,Female,22,1954-06-26,Business Systems Development Analyst,,Mass Customer,N,åè£½æ¼¢èª,Yes,5.0
+2052,Ganny,Sealeaf,Male,5,1955-11-30,,Retail,Mass Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,Yes,8.0
+2053,Horatius,Dufton,Male,7,1978-05-28,,Financial Services,Affluent Customer,N,â°â´âµâââ,Yes,11.0
+2054,Horace,Gilpillan,Male,12,1995-08-21,,Manufacturing,Mass Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },Yes,22.0
+2059,Kylen,Gimson,Female,21,1977-02-15,Graphic Designer,,High Net Worth,N,1,No,12.0
+2061,Loralyn,,Female,71,1983-01-24,Technical Writer,Manufacturing,High Net Worth,N,(ï½¡â â âï½¡),No,4.0
+2068,Wandie,Nare,Female,23,1956-08-08,Account Representative I,,High Net Worth,N,../../../../../../../../../../../etc/hosts,No,8.0
+2069,Sol,Holdron,U,32,,Software Test Engineer IV,IT,Mass Customer,N,,Yes,
+2070,Tiphany,Leppington,Female,0,1981-12-05,Recruiting Manager,,Mass Customer,N,<script>alert('hi')</script>,No,8.0
+2071,Ardis,Ramelet,Female,69,1978-02-07,,,Mass Customer,N,-100,No,10.0
+2073,Linea,,Female,87,1974-01-30,,Manufacturing,High Net Worth,N,"<>?:""{}|_+",Yes,10.0
+2074,Roslyn,Rawdall,Female,90,1997-06-11,,Financial Services,Mass Customer,N,100,No,4.0
+2079,Eda,,Female,49,1956-07-29,Account Executive,,High Net Worth,N,!@#$%^&*(),No,11.0
+2080,Rosamond,Sainer,Female,15,1959-08-07,Human Resources Assistant IV,,High Net Worth,N,â,No,17.0
+2083,Karee,Ortler,Female,5,1980-07-18,,,Mass Customer,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",No,4.0
+2084,Britni,Menguy,Female,6,1986-10-03,,IT,Mass Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,Yes,17.0
+2094,Merle,Pesticcio,Male,15,1984-01-27,Biostatistician IV,,Mass Customer,N,../../../../../../../../../../../etc/hosts,No,16.0
+2100,Der,Blatcher,Male,34,1978-05-30,Marketing Assistant,IT,Mass Customer,N,,No,14.0
+2101,Maryann,,Female,71,1998-03-08,General Manager,,Mass Customer,N,åè£½æ¼¢èª,Yes,2.0
+2102,Carl,Penquet,Male,80,1976-01-08,Senior Editor,,Affluent Customer,N,ð©ð½,No,5.0
+2118,Ulrick,Calyton,Male,29,1978-07-22,Developer III,,High Net Worth,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },No,7.0
+2122,Osborne,Nawton,Male,85,1973-01-27,Registered Nurse,Health,High Net Worth,N,,Yes,11.0
+2124,Damien,Bartczak,Male,17,1978-01-30,,Retail,High Net Worth,N,-1,No,18.0
+2131,Nettle,Painter,Female,12,1971-03-21,Payment Adjustment Coordinator,,Mass Customer,N,â,Yes,7.0
+2135,Teador,Laurant,Male,97,1980-09-18,Structural Engineer,,Mass Customer,N,/dev/null; touch /tmp/blns.fail ; echo,Yes,15.0
+2137,Renie,,Female,46,1971-06-22,Chemical Engineer,Manufacturing,Affluent Customer,N,ã,No,5.0
+2142,Marti,McComish,Female,61,1979-07-02,Biostatistician IV,,Affluent Customer,N,âââ,No,7.0
+2143,Napoleon,Terron,Male,53,1963-12-23,Business Systems Development Analyst,,High Net Worth,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,Yes,10.0
+2146,Timmie,Lenden,Male,75,1967-01-25,,,Mass Customer,N,ï»¿,No,13.0
+2147,Franzen,Kielty,Male,42,1998-11-04,Engineer IV,,High Net Worth,N,1,Yes,1.0
+2149,Lana,Druce,Female,26,1978-05-19,Professor,,High Net Worth,N,-100,No,6.0
+2150,Huntlee,Pashba,Male,75,1959-09-05,,Retail,Affluent Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),Yes,8.0
+2151,Herrick,Gammett,Male,9,1986-10-23,,Entertainment,Affluent Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,No,6.0
+2153,Jimmy,,Male,22,1986-10-13,Financial Analyst,Financial Services,Mass Customer,N,ð,No,10.0
+2155,Fayth,Millions,Female,24,1964-01-09,Data Coordiator,,Mass Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,14.0
+2159,Godfrey,Bottini,Male,19,1963-10-05,,,High Net Worth,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,6.0
+2161,Tommie,Mardle,Male,35,1998-01-14,,Financial Services,Mass Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,4.0
+2163,Tim,Guilliatt,Male,41,1996-12-25,VP Product Management,,Mass Customer,N,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±,Yes,6.0
+2165,Marlie,Teesdale,U,16,,Civil Engineer,Manufacturing,Affluent Customer,N,,No,
+2167,Laina,Semorad,Female,31,1997-07-11,Librarian,Entertainment,Mass Customer,N,,No,1.0
+2179,Benson,cornhill,Male,15,1960-08-20,Desktop Support Technician,Manufacturing,Mass Customer,N,,No,17.0
+2180,Urbanus,Trevaskus,Male,98,1960-01-11,Chief Design Engineer,,High Net Worth,N,ì¸ëë°í ë¥´,Yes,13.0
+2188,Zonnya,Fayter,Female,85,1972-04-03,Nurse Practicioner,,Mass Customer,N,() { 0; }; touch /tmp/blns.shellshock1.fail;,No,17.0
+2189,Thedric,,Male,43,1998-02-25,Safety Technician II,Financial Services,High Net Worth,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,4.0
+2190,Maressa,Kondrachenko,Female,77,1979-04-17,,IT,Affluent Customer,N,!@#$%^&*(),No,13.0
+2191,Alley,Fitchell,Male,2,1976-05-11,Payment Adjustment Coordinator,,Mass Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),Yes,4.0
+2192,Hubie,Leipold,Male,93,1966-08-27,Staff Accountant II,,Mass Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",No,14.0
+2193,Roldan,Carrington,Male,66,1955-12-16,Developer III,,Mass Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,Yes,6.0
+2200,Teodoor,Lovelace,Male,23,1986-07-13,Community Outreach Specialist,,Affluent Customer,N,!@#$%^&*(),Yes,16.0
+2201,Trisha,Basset,Female,56,1998-12-12,Design Engineer,Financial Services,Affluent Customer,N,,Yes,1.0
+2205,Birk,Elphey,U,76,,Accounting Assistant III,IT,Mass Customer,N,,No,
+2208,Lavena,Embling,Female,59,1954-05-07,,,Mass Customer,N,,No,9.0
+2211,Carmelita,Matuskiewicz,Female,3,1975-08-27,,Manufacturing,Mass Customer,N,ï»¿,Yes,18.0
+2213,Jesse,Leyshon,Female,70,1996-05-07,Legal Assistant,,Affluent Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,Yes,6.0
+2214,Farlay,Plevey,Male,52,1957-03-26,,Manufacturing,High Net Worth,N,â©testâ©,Yes,8.0
+2215,Viola,Wadhams,Female,50,1971-02-20,Structural Engineer,Financial Services,Mass Customer,N,,Yes,18.0
+2217,Kristofor,Juris,Male,98,1981-10-17,Paralegal,Financial Services,Mass Customer,N,,No,16.0
+2219,Ansel,Napier,Male,73,1982-03-01,Senior Quality Engineer,,High Net Worth,N,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥,Yes,3.0
+2222,Caroline,Grabban,Female,20,1974-08-26,Professor,Financial Services,Mass Customer,N,,No,14.0
+2223,Sarita,Georgiev,Female,38,1981-01-29,Professor,Health,Mass Customer,N,,No,12.0
+2226,Hedvig,Flatt,Female,10,1955-07-22,Biostatistician II,Entertainment,Mass Customer,N,,No,11.0
+2230,Gertruda,Shrimpling,Female,53,1977-12-22,,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð§,No,19.0
+2231,Rasla,Landreth,Female,68,1959-09-25,Accounting Assistant II,,Mass Customer,N,1;DROP TABLE users,No,13.0
+2232,Nev,Malone,Male,69,1990-05-07,Help Desk Technician,,Mass Customer,N,-100,Yes,11.0
+2233,Cassi,Killingworth,Female,49,1973-09-04,Sales Associate,,Mass Customer,N,âªâªtestâª,Yes,8.0
+2237,Julia,Walden,Female,83,1969-06-26,,,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,Yes,9.0
+2242,Elsy,Springell,Female,25,1977-09-24,VP Sales,,Mass Customer,N,â«testâ«,Yes,21.0
+2243,Lena,Cronshaw,Female,76,1976-08-28,Business Systems Development Analyst,,Affluent Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,Yes,7.0
+2246,Giraldo,Lacer,Male,16,1979-01-24,Database Administrator III,,Mass Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",Yes,13.0
+2249,Kiele,Caghan,Female,7,1996-11-11,,Financial Services,Mass Customer,N,â«testâ«,No,5.0
+2250,De witt,Gleave,Male,72,1992-06-26,,Telecommunications,High Net Worth,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,7.0
+2251,Leslie,Shotboult,Male,68,1959-08-19,,Property,High Net Worth,N,ãã¼ãã£ã¼ã¸è¡ããªãã,No,19.0
+2252,Darcey,Annis,U,31,,Teacher,IT,High Net Worth,N,,Yes,
+2259,Leanora,Calbert,Female,83,1999-07-02,Environmental Specialist,,Affluent Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,2.0
+2265,Brendan,Vicent,Male,55,1980-07-29,,Property,Mass Customer,N,,Yes,5.0
+2266,Jeth,Tomes,Male,74,1998-10-11,,Retail,High Net Worth,N,../../../../../../../../../../../etc/passwd%00,No,1.0
+2267,Andrei,Mulchrone,Female,78,1964-04-28,Business Systems Development Analyst,,Affluent Customer,N,âð¿ ðªð¿ ðð¿ ðð¿ ðð¿ ðð¿,No,14.0
+2269,Beitris,Lamy,Female,33,1989-11-11,Product Engineer,,Mass Customer,N,â¦testâ§,No,9.0
+2271,King,Hoston,Male,96,1974-03-26,,Telecommunications,Mass Customer,N,"''''""",Yes,18.0
+2273,Rhetta,Lambrook,Female,71,1964-08-04,Assistant Professor,,Mass Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,9.0
+2274,Nada,Reinert,Female,15,1979-11-26,Budget/Accounting Analyst IV,Manufacturing,Mass Customer,N,,Yes,13.0
+2276,Stormy,Caveney,Female,90,1985-10-06,Desktop Support Technician,,Mass Customer,N,(ï½¡â â âï½¡),Yes,12.0
+2280,Wrennie,Alexandersson,Female,93,1960-11-18,Budget/Accounting Analyst I,,Mass Customer,N,-1,No,9.0
+2281,Valaria,Abrehart,Female,56,1989-05-10,,,High Net Worth,N,0,Yes,14.0
+2283,Gaspar,Janaway,Male,44,1954-02-08,Software Consultant,,High Net Worth,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },No,16.0
+2295,Farris,Hazelby,U,35,,Internal Auditor,IT,Mass Customer,N,,Yes,
+2300,Cary,Cockerham,Male,20,1998-09-26,,Financial Services,Mass Customer,N,-1,Yes,3.0
+2302,Loraine,Beamish,Female,43,1999-01-09,Mechanical Systems Engineer,Retail,Mass Customer,N,,Yes,4.0
+2304,Shelia,Bellew,Female,65,1957-06-01,,,Mass Customer,N,2018-02-01 00:00:00,Yes,11.0
+2310,Jed,Humpherston,Male,12,1970-02-10,Executive Secretary,,High Net Worth,N,Ù¡Ù¢Ù£,Yes,11.0
+2311,Addi,,Female,49,1989-02-15,Design Engineer,Health,Mass Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,16.0
+2327,Alie,Sowle,Female,19,1963-04-05,Budget/Accounting Analyst II,,Affluent Customer,N,â¡,No,6.0
+2335,Payton,Sheach,U,42,,Account Executive,IT,Mass Customer,N,,No,
+2341,Caterina,Scedall,U,41,,Web Designer II,IT,Mass Customer,N,,Yes,
+2342,Clara,Jakel,Female,87,1999-09-17,,,Mass Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,No,2.0
+2346,Joey,Scheffler,Male,89,1979-09-16,Information Systems Manager,,Mass Customer,N,1,Yes,4.0
+2347,L;urette,Annott,Female,79,1957-03-04,Programmer Analyst I,,High Net Worth,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,11.0
+2350,Lorinda,Malpass,Female,32,1959-03-17,Nurse Practicioner,,Mass Customer,N,â¢,Yes,14.0
+2352,Cilka,Dabbes,Female,76,1971-10-22,Statistician II,,Mass Customer,N,ï»¿,Yes,13.0
+2355,Shaughn,,Male,87,1993-12-19,Operator,Manufacturing,Mass Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,Yes,4.0
+2361,Jeannette,Cerman,Female,55,1954-11-28,Help Desk Operator,,High Net Worth,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,Yes,20.0
+2364,Fielding,Linklater,Male,19,1995-09-22,Speech Pathologist,,Mass Customer,N,100,Yes,13.0
+2376,Eada,Narbett,Female,84,1958-10-23,Community Outreach Specialist,,High Net Worth,N,â£,Yes,12.0
+2378,Aggi,Farncombe,Female,41,1994-04-25,Research Assistant II,Manufacturing,Affluent Customer,N,,No,1.0
+2387,Roy,Jone,Male,33,1977-08-30,Nurse,,High Net Worth,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,Yes,9.0
+2394,Ferne,Reese,Female,31,1995-11-12,GIS Technical Architect,,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,Yes,7.0
+2395,Ashlin,Kesby,Male,23,1966-02-26,Executive Secretary,,High Net Worth,N,nil,No,16.0
+2398,Mirelle,,Female,6,2000-10-11,Administrative Assistant IV,Financial Services,High Net Worth,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,1.0
+2399,Devonne,McPolin,Female,20,1980-06-11,Software Consultant,Manufacturing,High Net Worth,N,,Yes,14.0
+2401,Drake,Riguard,Male,7,1977-07-31,Staff Scientist,,Mass Customer,N,â°â´âµ,Yes,15.0
+2405,Quintana,Merricks,Female,16,1957-07-28,Structural Analysis Engineer,,Mass Customer,N,(ï½¡â â âï½¡),No,18.0
+2406,Randal,Messager,Male,34,1973-06-11,Executive Secretary,,Affluent Customer,N,â©testâ©,Yes,9.0
+2407,Merrily,,Female,24,1959-03-30,,Financial Services,High Net Worth,N,"""'",Yes,6.0
+2408,Celestia,,Female,38,1955-10-10,VP Marketing,Health,Mass Customer,N,1,No,16.0
+2409,Carolan,Ortler,Female,23,1989-07-13,,Health,Mass Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,No,12.0
+2411,Casey,McDade,Male,0,1964-05-27,Technical Writer,Financial Services,High Net Worth,N,,No,13.0
+2414,Basile,Bowlas,U,18,,Registered Nurse,Health,Mass Customer,N,,Yes,
+2417,Cacilia,Swetland,Female,27,1974-06-24,Nurse,,Affluent Customer,N,â£,No,22.0
+2424,Loren,Batkin,Male,17,1982-01-06,,,Affluent Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,Yes,15.0
+2425,Barn,Sainsberry,Male,32,1976-03-19,Help Desk Technician,,Mass Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,Yes,11.0
+2426,Yancy,Ovett,U,64,,,IT,Affluent Customer,N,,Yes,
+2427,Myrta,Whibley,Female,20,1998-10-15,Senior Developer,,High Net Worth,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,Yes,2.0
+2428,Pauly,Keightley,Male,74,1968-07-26,Help Desk Operator,,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,Yes,9.0
+2430,Humbert,Dikles,Male,38,1968-09-06,Quality Engineer,,Mass Customer,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,No,5.0
+2433,Burty,Strutz,Male,38,1976-07-19,Nurse Practicioner,,High Net Worth,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,Yes,8.0
+2434,Lenci,Soars,Male,40,1956-11-17,Environmental Specialist,,Affluent Customer,N,á,No,18.0
+2439,Shelly,Yakebovitch,Female,44,1967-10-02,,Manufacturing,Affluent Customer,N,â¡,No,15.0
+2441,Loutitia,Pinkie,Female,52,1959-03-29,,Property,High Net Worth,N,-1,Yes,5.0
+2446,Lovell,Kiss,Male,33,1956-09-07,,Retail,Affluent Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,No,17.0
+2447,Richard,Poor,Male,55,1997-01-06,Tax Accountant,,Affluent Customer,N,"''''""",Yes,2.0
+2449,Oates,Broadberrie,Male,54,1982-06-01,Tax Accountant,,Affluent Customer,N,ì¬íê³¼íì ì´íì°êµ¬ì,No,8.0
+2455,Kathe,Heatlie,Female,64,1977-10-09,,Manufacturing,Mass Customer,N,-100,No,21.0
+2456,Reidar,Pullin,Male,9,1991-05-29,Sales Associate,,Mass Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,10.0
+2459,Jeanna,Naulls,Female,67,1986-01-10,Quality Engineer,Manufacturing,High Net Worth,N,,No,18.0
+2461,Tully,,Male,89,1976-06-12,Speech Pathologist,,Affluent Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,No,17.0
+2465,Paloma,Nilles,Female,31,1984-06-12,Senior Editor,,Mass Customer,N,-1,Yes,2.0
+2469,Kermie,Hedger,U,18,,Accounting Assistant II,IT,Mass Customer,N,,Yes,
+2470,Roy,Dunaway,Male,70,1957-07-04,,Argiculture,Mass Customer,N,ì¸ëë°í ë¥´,No,13.0
+2473,Davon,,Male,50,1970-05-10,Administrative Assistant I,Entertainment,Mass Customer,N,á ,Yes,13.0
+2475,Cammi,Ambrogioni,Female,68,1977-05-02,Quality Control Specialist,,Mass Customer,N,2018-02-01 00:00:00,No,20.0
+2480,Adey,Shevlin,Female,3,1971-12-26,Nuclear Power Engineer,Manufacturing,High Net Worth,N,,Yes,16.0
+2483,Greta,Cotterrill,Female,54,1987-06-06,,Manufacturing,Mass Customer,N,ð,No,10.0
+2485,Ringo,Parkyn,Male,93,1955-07-27,Help Desk Technician,,Mass Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,Yes,12.0
+2490,Clint,Krause,Male,28,1987-10-01,,Health,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,Yes,5.0
+2504,Aloysius,Huffer,Male,52,2000-04-29,,Property,Mass Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,No,2.0
+2506,Arlana,Ferrick,Female,97,1955-01-20,,Health,Affluent Customer,N,NIL,No,9.0
+2508,Virgil,Borkett,Male,98,1996-11-04,Information Systems Manager,,Mass Customer,N,â¡,No,3.0
+2512,Franzen,Halliday,Male,3,1968-05-22,Web Developer I,,High Net Worth,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,Yes,19.0
+2515,Manya,,Female,24,1995-03-07,,Retail,Affluent Customer,N,<script>alert('hi')</script>,Yes,3.0
+2518,Krystalle,Ives,Female,53,1954-08-22,Recruiting Manager,,Mass Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,Yes,19.0
+2522,Benton,MacGragh,Male,42,1977-02-03,,,High Net Worth,N,,No,14.0
+2527,Arly,Petersen,Female,60,1980-07-19,Technical Writer,,Affluent Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,Yes,16.0
+2528,Cassie,Toffaloni,Male,81,1978-09-23,Senior Editor,Financial Services,Affluent Customer,N,,No,15.0
+2532,Milli,Hubbert,Female,27,1969-05-01,,Manufacturing,Mass Customer,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,No,11.0
+2537,Peggi,Tolan,Female,8,1989-09-06,Senior Quality Engineer,,Affluent Customer,N,,Yes,12.0
+2538,Jacinta,Petrillo,Female,13,1959-01-22,,,High Net Worth,N,ã,Yes,20.0
+2540,Donavon,,U,14,,Executive Secretary,IT,Mass Customer,N,,Yes,
+2543,Horacio,Kitchin,Male,41,1999-06-03,Web Developer III,,Affluent Customer,N,100,No,2.0
+2547,Aili,Scruby,Female,91,1985-07-08,Social Worker,Health,Mass Customer,N,,Yes,14.0
+2548,Kristien,Robberts,Female,11,1971-07-30,Chief Design Engineer,,Mass Customer,N,1,No,13.0
+2551,Gabrila,Gobbett,Female,0,1987-10-10,VP Quality Control,,Mass Customer,N,âð¿ ðªð¿ ðð¿ ðð¿ ðð¿ ðð¿,No,5.0
+2552,Allard,Skipton,Male,1,1973-11-02,,Manufacturing,Affluent Customer,N,(ï½¡â â âï½¡),Yes,17.0
+2553,Buddy,Morfell,Male,42,1981-10-09,,,High Net Worth,N,ðµ ð ð ð,Yes,13.0
+2554,Fan,Gaythwaite,Female,76,1982-08-21,Software Engineer III,,High Net Worth,N,ì¬íê³¼íì ì´íì°êµ¬ì,No,12.0
+2556,Chucho,Francey,Male,39,1988-08-11,,Health,Mass Customer,N,../../../../../../../../../../../etc/passwd%00,Yes,15.0
+2557,Lian,Zarfai,Female,37,1978-08-19,,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð,No,19.0
+2558,Imojean,Bosquet,Female,84,1974-10-19,,Health,High Net Worth,N,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ,Yes,20.0
+2560,Sherm,Tythe,Male,7,1980-10-01,Developer IV,,Mass Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,No,21.0
+2561,Elga,McWard,Female,44,1963-09-06,,Manufacturing,High Net Worth,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,Yes,15.0
+2563,Perla,Sabatier,Female,49,1990-03-08,Administrative Assistant IV,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð§,Yes,20.0
+2573,Tera,Van Weedenburg,Female,72,1954-09-23,Software Engineer I,,Mass Customer,N,â¡,No,10.0
+2574,Humfrey,Boyse,Male,73,1979-12-21,,Manufacturing,Mass Customer,N,,No,4.0
+2577,Thor,Rickardsson,Male,78,1976-03-19,Operator,,Mass Customer,N,â°â´âµ,Yes,10.0
+2580,Kalinda,,Female,27,1988-07-04,Teacher,Financial Services,Mass Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,Yes,13.0
+2581,Gwenette,Appleton,Female,49,1974-06-10,,Manufacturing,Affluent Customer,N,!@#$%^&*(),Yes,11.0
+2584,Sharia,,Female,86,1980-07-07,Technical Writer,Financial Services,High Net Worth,N,â°â´âµâââ,No,12.0
+2585,Sly,Passo,Male,15,1994-06-22,Geologist III,,Affluent Customer,N,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±,No,7.0
+2587,Maren,Dachs,Female,76,1979-03-30,Data Coordiator,,Affluent Customer,N,-1,No,4.0
+2588,Kimball,Martinho,Male,37,2001-01-02,Professor,,High Net Worth,N,<svg><script>0<1>alert('XSS')</script>,No,2.0
+2589,Alvera,Kiddle,Female,42,1965-08-02,,,High Net Worth,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",No,8.0
+2591,Estevan,Rylett,Male,50,1974-02-04,,Retail,High Net Worth,N,0,No,13.0
+2594,Sigismond,Stockow,Male,90,1997-06-23,Internal Auditor,Manufacturing,Mass Customer,N,,No,2.0
+2595,Land,Bangley,Male,56,1977-08-17,Nurse Practicioner,,Affluent Customer,N,",./;'[]\-=",Yes,8.0
+2596,Lexis,Deason,Female,51,1976-08-20,Assistant Professor,,Affluent Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,13.0
+2613,Trenton,Casaccio,Male,78,1966-06-13,,Health,Mass Customer,N,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±,Yes,16.0
+2614,Anatollo,Stendell,Male,65,1957-10-16,,Retail,High Net Worth,N,100,No,18.0
+2615,Cordelia,,Female,23,1998-08-13,Nurse,Financial Services,Mass Customer,N,Ù¡Ù¢Ù£,Yes,1.0
+2616,Andee,Ormrod,Female,28,1970-06-11,Nurse,,High Net Worth,N,-100,Yes,13.0
+2617,Vanda,Donnellan,Female,79,1959-10-20,,Health,High Net Worth,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",No,18.0
+2618,Jay,Prue,Male,85,1977-12-14,Administrative Assistant IV,,Mass Customer,N,ð©ð½,No,4.0
+2619,Lavinia,Niess,Female,62,1978-07-05,Web Designer I,Financial Services,High Net Worth,N,,Yes,14.0
+2624,Winfield,Lampitt,Male,37,1964-07-08,Community Outreach Specialist,Retail,Mass Customer,N,,Yes,11.0
+2630,Jonathon,,Male,76,1978-12-17,Senior Sales Associate,Retail,Mass Customer,N,ì¸ëë°í ë¥´,No,10.0
+2632,Krishna,Frood,Male,18,1965-09-29,,Argiculture,Mass Customer,N,ð©ð½,No,16.0
+2633,Shayla,Colnett,Female,47,1969-01-18,,Property,Mass Customer,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",Yes,12.0
+2635,Arty,Mac Geaney,Male,45,1959-01-03,Nurse,Retail,Mass Customer,N,,No,14.0
+2640,Curran,McMeekan,Male,75,1978-08-24,Computer Systems Analyst IV,,Affluent Customer,N,<svg><script>0<1>alert('XSS')</script>,No,12.0
+2641,Vina,Tackell,Female,71,1977-03-22,Software Test Engineer I,,Mass Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",Yes,12.0
+2642,Arabelle,Rentelll,U,36,,VP Accounting,Financial Services,High Net Worth,N,,No,
+2643,Dulsea,Maffi,Female,53,1989-10-11,Nurse,,Affluent Customer,N,,No,18.0
+2647,Marcelia,Blannin,U,1,,Physical Therapy Assistant,IT,High Net Worth,N,,No,
+2648,Saunder,Newens,Male,60,1998-05-09,Account Representative I,,Affluent Customer,N,-1,No,1.0
+2652,Kelbee,Bernat,Male,96,1957-12-15,Biostatistician II,,Affluent Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,Yes,15.0
+2654,Dawn,Yakovitch,Female,83,1977-11-28,Tax Accountant,Telecommunications,Mass Customer,N,,No,13.0
+2656,Halli,Littledike,Female,80,1959-05-02,Statistician III,,Mass Customer,N,ï¼ï¼ï¼,Yes,10.0
+2657,Coop,Stancer,Male,20,1991-12-16,Recruiter,,Mass Customer,N,âªâªtestâª,No,5.0
+2658,Inger,Barnham,Female,82,1964-02-11,,Manufacturing,Mass Customer,N,Ù¡Ù¢Ù£,Yes,6.0
+2660,Hunt,Scollard,Male,44,1963-11-15,,Retail,High Net Worth,N,,Yes,19.0
+2664,Raynor,Olech,Male,83,1966-01-16,Engineer II,,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,No,15.0
+2671,Bridget,Bussons,Female,11,1990-11-09,Analyst Programmer,,Mass Customer,N,0/0,No,11.0
+2673,Esma,McOwen,Female,27,1985-04-20,Software Consultant,,Mass Customer,N,"__ï¾(,_,*)",Yes,14.0
+2677,Zollie,Exell,Male,34,1954-10-08,,Financial Services,Mass Customer,N,/dev/null; touch /tmp/blns.fail ; echo,No,10.0
+2683,Myrta,Rentilll,Female,81,1965-04-14,Biostatistician II,,Affluent Customer,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",Yes,6.0
+2685,Demetria,Shoobridge,Female,42,1978-08-06,,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð§,No,9.0
+2689,Tore,Doerr,Male,17,1978-03-23,Senior Developer,,Mass Customer,N,"""'",No,10.0
+2696,Isabelle,Bursnoll,U,42,,Social Worker,Health,Mass Customer,N,,Yes,
+2697,Klarika,Yerby,U,70,,Legal Assistant,IT,High Net Worth,N,,No,
+2700,Ingaberg,Cornillot,Female,22,1994-11-24,GIS Technical Architect,,Mass Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,2.0
+2701,Ileana,Timms,Female,13,1960-07-28,Dental Hygienist,Health,Affluent Customer,N,,Yes,7.0
+2703,Peria,Amis,Female,37,1980-04-12,,Manufacturing,Affluent Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,Yes,18.0
+2708,Sophey,Wawer,Female,34,1980-06-18,Product Engineer,,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,Yes,10.0
+2709,Simone,Boanas,Male,6,1995-03-20,,Financial Services,High Net Worth,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,6.0
+2710,Flory,Standering,Male,77,1998-01-30,,Retail,Mass Customer,N,â¢,No,2.0
+2716,Claribel,,Female,46,1967-07-14,Systems Administrator I,Entertainment,Mass Customer,N,Ù¡Ù¢Ù£,No,7.0
+2718,Vernen,Hakonsen,Male,69,1976-12-12,Software Test Engineer II,,High Net Worth,N,-1,Yes,14.0
+2721,Alf,Farnie,Male,3,1969-02-03,,Manufacturing,Mass Customer,N,ï»¿,Yes,17.0
+2722,Faustine,Peert,Female,1,1987-03-28,,Health,Mass Customer,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,No,8.0
+2729,Meggi,Shipcott,Female,76,2000-05-10,General Manager,,Mass Customer,N,,Yes,1.0
+2734,Hetty,Thormann,Female,35,1957-03-07,,Manufacturing,High Net Worth,N,(ï½¡â â âï½¡),No,10.0
+2736,Max,Awcock,Male,40,1993-01-18,Accounting Assistant IV,,Affluent Customer,N,â°â´âµâââ,Yes,9.0
+2737,Andras,Yurocjkin,Male,28,1998-07-20,,Retail,Mass Customer,N,1'; DROP TABLE users--,Yes,3.0
+2747,Anna-diane,Crumpe,Female,5,1955-09-23,Software Test Engineer III,,Affluent Customer,N,!@#$%^&*(),No,11.0
+2750,Sybille,Maddison,Female,42,1980-10-18,,Property,High Net Worth,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,No,20.0
+2754,Waring,Selwyn,Male,17,1963-06-23,Chief Design Engineer,Retail,Mass Customer,N,,No,11.0
+2756,Cymbre,Sloey,Female,11,1969-01-17,,Entertainment,Mass Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,8.0
+2757,Leodora,Carillo,Female,65,1961-02-18,,Financial Services,Affluent Customer,N,"<>?:""{}|_+",No,8.0
+2758,Fabien,Whittlesea,Male,17,1955-05-24,,Manufacturing,Affluent Customer,N,-0.5,No,19.0
+2761,Agathe,Weafer,Female,78,1961-11-11,Information Systems Manager,Financial Services,Mass Customer,N,,No,19.0
+2762,Rozamond,Franceschino,Female,34,1992-11-27,,Manufacturing,Mass Customer,N,ð¾ ð ð ð ð ð ð ð,No,9.0
+2764,Callie,Coltart,Female,12,1955-03-29,,Financial Services,Mass Customer,N,â¦testâ§,Yes,20.0
+2765,Bartholomew,Gowdy,Male,68,1985-04-12,,IT,Mass Customer,N,(ï½¡â â âï½¡),Yes,7.0
+2774,Danella,Chevers,Female,50,1956-07-28,,Manufacturing,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,No,14.0
+2775,Dael,Glentz,Female,40,1966-12-02,Account Executive,Manufacturing,Mass Customer,N,,Yes,7.0
+2776,Tyson,Pearcy,Male,59,1980-08-05,,,Mass Customer,N,,No,16.0
+2779,Douglas,Wrout,Male,54,1985-02-24,,,Affluent Customer,N,!@#$%^&*(),Yes,11.0
+2787,Teressa,Tague,Female,92,1980-09-26,Marketing Assistant,,Affluent Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,Yes,6.0
+2797,Agatha,Vowden,Female,6,1985-09-10,,IT,Mass Customer,N,-1,Yes,14.0
+2799,Ilysa,Palle,Female,80,1973-11-04,VP Product Management,,Mass Customer,N,â¦testâ§,Yes,18.0
+2801,Danella,Lines,Female,15,1965-01-26,,Health,Mass Customer,N,,No,10.0
+2804,Jeno,Brimming,Male,61,1964-09-06,Nurse Practicioner,,Mass Customer,N,-100,Yes,5.0
+2805,Laverna,Shiril,Female,0,1992-06-27,,Manufacturing,High Net Worth,N,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ,No,4.0
+2806,Thorndike,Glossop,Male,60,1986-05-18,Programmer Analyst II,Manufacturing,Mass Customer,N,,Yes,3.0
+2810,Malvin,Burchill,Male,27,1961-08-26,,Property,Mass Customer,N,"''''""",Yes,15.0
+2812,Molli,Hagergham,Female,16,2001-04-01,Budget/Accounting Analyst IV,,High Net Worth,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,Yes,1.0
+2815,Emery,Carlett,Male,50,1954-10-30,,Health,Mass Customer,N,-100,No,19.0
+2818,Frazier,Streak,Male,82,1956-03-08,Software Test Engineer I,,Affluent Customer,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,No,7.0
+2822,Rebecca,Shaughnessy,Female,83,1981-05-14,Professor,,Mass Customer,N,â°â´âµ,No,3.0
+2826,Loise,Mulvany,Female,73,1962-04-30,Web Developer II,,Mass Customer,N,â°â´âµâââ,No,15.0
+2827,Shelli,Wilkennson,Female,17,1973-07-15,,Financial Services,High Net Worth,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,No,14.0
+2828,Philippine,Maycey,Female,37,1998-12-14,,Health,High Net Worth,N,â«testâ«,Yes,4.0
+2833,Cy,Braim,Male,60,1999-11-26,,IT,Mass Customer,N,',Yes,3.0
+2834,Timmie,Ubanks,Male,33,1980-05-04,,Retail,Affluent Customer,N,ð©ð½,No,9.0
+2835,Deloria,,Female,30,1997-07-01,Environmental Specialist,Manufacturing,Affluent Customer,N,100,No,2.0
+2836,Matilda,Yellowley,Female,80,1963-11-14,Clinical Specialist,Health,Mass Customer,N,,No,16.0
+2837,Caitrin,MacTavish,Female,81,1987-12-04,,Retail,Mass Customer,N,"""'",No,10.0
+2841,Bibby,Carnson,Female,19,1963-01-31,Recruiting Manager,,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,No,16.0
+2842,Olimpia,Traynor,Female,80,1968-08-12,,Health,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,No,6.0
+2844,Amie,Felgate,Female,98,1975-11-22,,Financial Services,Mass Customer,N,âââ,Yes,13.0
+2845,Benni,Ilem,Female,1,1974-06-16,Staff Accountant III,,Mass Customer,N,../../../../../../../../../../../etc/hosts,No,11.0
+2849,Palm,Bartoszek,Male,65,1994-03-27,,,High Net Worth,N,-1,Yes,2.0
+2850,Andie,Shorto,Female,74,1972-10-13,Director of Sales,,Mass Customer,N,"__ï¾(,_,*)",Yes,5.0
+2854,Vikky,Dyde,U,49,,Project Manager,IT,High Net Worth,N,,Yes,
+2858,Benedicto,Radki,Male,4,2002-01-09,Recruiting Manager,,Mass Customer,N,testâ testâ«,Yes,1.0
+2859,Brandais,Goodlad,Female,98,1994-02-04,Assistant Professor,Argiculture,High Net Worth,N,,No,5.0
+2860,Charity,Robken,Female,13,1995-10-02,Physical Therapy Assistant,,Mass Customer,N,ï½ï½¨(Â´âï½â©,No,1.0
+2866,Ky,Stredder,Male,10,1995-06-26,,Health,High Net Worth,N,2018-02-01 00:00:00,No,7.0
+2867,Lem,Meegan,Male,53,1955-10-19,Sales Associate,,High Net Worth,N,â,No,12.0
+2869,Gavra,Woolvin,Female,19,2001-01-16,,Manufacturing,Affluent Customer,N,100,No,2.0
+2870,Aldis,Chazerand,Male,99,1957-12-26,,,Mass Customer,N,åè£½æ¼¢èª,No,11.0
+2876,Swen,McGarahan,Male,68,1981-01-29,General Manager,Retail,High Net Worth,N,,No,10.0
+2884,Karola,Conneely,Female,99,1962-01-06,Assistant Professor,,Mass Customer,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,15.0
+2886,Lulu,Watkiss,Female,39,1961-08-08,Nurse Practicioner,,Mass Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },No,14.0
+2889,Ximenes,Patmore,Male,55,1986-04-01,Assistant Professor,,Mass Customer,N,á ,Yes,8.0
+2890,Nevile,Ecclesall,Male,64,1959-05-17,Speech Pathologist,,Affluent Customer,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,Yes,20.0
+2893,Erik,Pothecary,Male,84,1980-09-23,Analog Circuit Design manager,,Mass Customer,N,ðµ ð ð ð,No,11.0
+2894,Gilburt,,Male,91,1977-04-19,Geologist III,Financial Services,Mass Customer,N,-100,Yes,22.0
+2898,Tiertza,Hilldrop,Female,81,1965-06-05,VP Sales,,Affluent Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },Yes,5.0
+2900,Cyrille,Figliovanni,Male,29,1986-05-30,Occupational Therapist,Health,Mass Customer,N,,Yes,18.0
+2901,Banky,Baudichon,Male,77,1995-06-11,,Manufacturing,Mass Customer,N,nil,Yes,6.0
+2905,Emily,Shackel,Female,34,1964-05-18,Account Representative I,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð§,No,14.0
+2907,Erik,,Male,89,1977-01-15,Senior Financial Analyst,Financial Services,High Net Worth,N,1,No,8.0
+2912,Tobit,,Male,60,1976-08-18,,,High Net Worth,N,nil,No,4.0
+2917,Siegfried,Hulmes,Male,21,1976-07-11,,Manufacturing,Affluent Customer,N,ð,No,18.0
+2918,Elli,,Female,58,1989-02-15,,Financial Services,Mass Customer,N,â°â´âµ,Yes,5.0
+2919,Rustin,,Male,47,1964-10-31,Safety Technician I,Financial Services,High Net Worth,N,100,Yes,8.0
+2920,Casar,Ritchley,U,0,,Business Systems Development Analyst,IT,Mass Customer,N,,Yes,
+2921,Astrid,Mac Giolla Pheadair,Female,15,1976-04-12,,Financial Services,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,No,7.0
+2923,Julie,Kennagh,Female,46,1971-11-30,Teacher,,Affluent Customer,N,100,Yes,4.0
+2928,Cedric,Layzell,Male,92,1992-12-27,Office Assistant I,,Mass Customer,N,â£,No,5.0
+2935,Jessi,Aldwich,Female,41,1978-04-23,,Manufacturing,Mass Customer,N,100,No,17.0
+2938,Richardo,Cocher,Male,79,2000-02-21,Assistant Manager,Argiculture,Affluent Customer,N,,No,2.0
+2939,Austina,Dugan,Female,38,1986-08-10,GIS Technical Architect,,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,Yes,17.0
+2940,Wilek,Adolf,Male,83,1970-11-12,Business Systems Development Analyst,,Affluent Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",Yes,14.0
+2941,Emylee,Pavlov,Female,38,1963-08-05,,Retail,Mass Customer,N,ì¸ëë°í ë¥´,No,10.0
+2942,Garner,Arnolds,Male,10,1970-07-15,Software Engineer III,,High Net Worth,N,-100,No,10.0
+2943,Caesar,,Male,65,1979-01-10,VP Sales,,High Net Worth,N,ð©ð½,No,17.0
+2945,Arlan,,Male,79,1972-05-26,Safety Technician IV,,Mass Customer,N,á,No,18.0
+2946,Paige,Bax,Male,14,1990-11-21,,Property,Mass Customer,N,<script>alert('hi')</script>,Yes,7.0
+2947,Standford,Sauter,Male,75,1977-10-13,,Manufacturing,Mass Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,11.0
+2949,Alexa,Simanek,Female,68,1977-09-21,,Telecommunications,Mass Customer,N,-100,No,17.0
+2957,Hurlee,Helleckas,Male,66,1969-11-21,Social Worker,Health,Affluent Customer,N,,No,11.0
+2962,Shari,MacCallester,Female,26,1971-07-12,Information Systems Manager,Property,Mass Customer,N,,No,15.0
+2963,Christin,Fricke,U,17,,Safety Technician II,IT,Affluent Customer,N,,Yes,
+2965,Lynna,Greenrod,Female,24,1972-12-15,,,High Net Worth,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,8.0
+2969,Pascale,Cuxson,Male,12,1974-11-05,Database Administrator IV,,Mass Customer,N,1'; DROP TABLE users--,Yes,6.0
+2972,Deena,Burnsides,Female,11,1956-03-18,,,High Net Worth,N,<script>alert('hi')</script>,No,17.0
+2977,Ottilie,Filkov,Female,28,1977-10-16,Community Outreach Specialist,,Affluent Customer,N,100,No,18.0
+2986,Ettore,Bere,Male,60,1980-09-01,,Financial Services,Mass Customer,N,-100,No,13.0
+2987,Riane,Schultes,Female,51,1984-11-21,Media Manager II,,High Net Worth,N,â«testâ«,Yes,4.0
+2988,Darrelle,Michie,Female,20,1998-02-02,Administrative Officer,,Mass Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,Yes,1.0
+2989,Mort,,Male,37,2000-10-25,Dental Hygienist,Health,High Net Worth,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,Yes,2.0
+2995,Garvin,Cunradi,Male,60,1997-01-14,,Health,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,Yes,2.0
+2999,Rinaldo,Diggin,U,28,,Business Systems Development Analyst,IT,Affluent Customer,N,,Yes,
+3006,Ariel,Dillingston,Female,72,1988-12-06,,,Mass Customer,N,,Yes,21.0
+3008,Etta,Criag,Female,40,1982-05-13,,Health,High Net Worth,N,nil,Yes,17.0
+3009,Hephzibah,Cliffe,Female,11,1977-04-02,,Health,High Net Worth,N,<script>alert('hi')</script>,Yes,14.0
+3010,Tobye,Cock,Female,16,1970-05-20,,,Affluent Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,5.0
+3011,Robena,Barks,Female,84,1994-05-11,Staff Scientist,Financial Services,High Net Worth,N,,No,3.0
+3012,Devland,Probart,U,81,,Technical Writer,IT,Mass Customer,N,,Yes,
+3014,Terrijo,Merlin,Female,59,2001-03-30,Software Engineer II,,High Net Worth,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,No,1.0
+3018,Ainsley,Nissle,Female,16,1971-08-24,Recruiter,,High Net Worth,N,â¡,Yes,15.0
+3021,Parker,Lukacs,Male,4,1983-01-18,,,Mass Customer,N,1;DROP TABLE users,No,9.0
+3022,Gert,Kurtis,Female,21,1988-08-23,,,High Net Worth,N,,No,8.0
+3024,Franz,Craddy,Male,86,1959-01-08,,Health,Mass Customer,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,No,12.0
+3033,Danielle,Kener,Female,60,1979-03-17,Administrative Officer,Financial Services,High Net Worth,N,,No,12.0
+3034,Mara,Tofanini,Female,54,1956-09-09,Web Designer IV,Manufacturing,Mass Customer,N,,Yes,18.0
+3038,Hermione,,Female,45,1958-04-08,Senior Developer,,High Net Worth,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,No,13.0
+3039,Coralie,Guitonneau,Female,52,1968-07-28,,Financial Services,Affluent Customer,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,No,18.0
+3042,Barris,Trayton,Male,76,1971-03-17,Engineer II,Property,High Net Worth,N,,Yes,15.0
+3043,Kelcey,Argontt,Female,21,1981-08-03,Legal Assistant,,Mass Customer,N,-1,Yes,18.0
+3049,Tristam,O'Fallone,Male,72,1967-07-15,,Property,High Net Worth,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,Yes,12.0
+3050,Dinnie,Worsom,Female,90,1997-12-04,,,High Net Worth,N,á,No,5.0
+3051,Edi,Lugton,Female,81,1973-06-06,,Manufacturing,Affluent Customer,N,ð¾ ð ð ð ð ð ð ð,Yes,7.0
+3052,Lisetta,,Female,72,1976-09-08,Teacher,,Mass Customer,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,No,18.0
+3053,Susie,,Female,67,1984-09-12,Account Coordinator,Retail,High Net Worth,N,,No,17.0
+3055,Viki,Drache,Female,96,1999-08-23,General Manager,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð,Yes,2.0
+3057,Mel,Shoebottom,Female,96,1976-03-28,Executive Secretary,,Mass Customer,N,ð©ð½,No,9.0
+3059,Hercules,Klewi,Male,83,1958-06-09,Accountant IV,,Mass Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,No,17.0
+3075,Corty,Debell,Male,36,1959-10-24,,Entertainment,Mass Customer,N,â¡,Yes,16.0
+3081,Dodi,Volker,Female,61,1971-07-25,Mechanical Systems Engineer,,High Net Worth,N,2018-02-01 00:00:00,Yes,9.0
+3082,Emlyn,Maile,Male,68,1997-03-28,,Manufacturing,Mass Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,2.0
+3083,Cirillo,Duprey,Male,44,1971-10-17,,,Mass Customer,N,<img src=x onerror=alert('hi') />,Yes,12.0
+3085,Kaleb,Eslemont,Male,91,1978-01-21,Accountant IV,,Affluent Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,No,5.0
+3086,Pieter,Gadesby,U,18,,Biostatistician I,IT,High Net Worth,N,,No,
+3088,Hilarius,Trenbey,Male,92,1974-05-09,,Retail,Affluent Customer,N,á ,Yes,17.0
+3092,Hallie,Blackden,Female,8,1972-12-17,Statistician IV,,Affluent Customer,N,â,No,9.0
+3094,Izak,Andreutti,Male,51,1989-05-28,Biostatistician II,,Mass Customer,N,â¡,Yes,17.0
+3095,Joachim,,Male,14,1998-10-11,Staff Accountant IV,Retail,High Net Worth,N,â,Yes,2.0
+3099,Shelli,Benitti,Female,73,1996-11-26,,Retail,Mass Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,3.0
+3100,Peggy,Wrankling,Female,19,1954-02-09,Recruiter,,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,No,7.0
+3106,Yetty,Conneely,Female,13,1989-06-03,,Financial Services,Mass Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,21.0
+3107,Dell,Tremathick,Female,98,1960-08-15,Legal Assistant,,High Net Worth,N,!@#$%^&*(),No,9.0
+3108,Trip,Ahmed,Male,94,1967-10-01,Accounting Assistant III,Entertainment,Mass Customer,N,,No,10.0
+3116,Correy,Loynes,Male,16,1978-06-29,,Health,Mass Customer,N,Ù¡Ù¢Ù£,No,7.0
+3119,Earle,Frisby,Male,13,1960-01-11,,,High Net Worth,N,/dev/null; touch /tmp/blns.fail ; echo,No,19.0
+3122,Cthrine,Orans,Female,17,1980-08-17,,Manufacturing,High Net Worth,N,,Yes,15.0
+3131,Sybilla,O' Markey,Female,63,1999-02-24,,Retail,Affluent Customer,N,,Yes,3.0
+3134,Pierette,Roseman,Female,53,1995-01-20,,Manufacturing,Mass Customer,N,â©testâ©,No,5.0
+3137,Cathlene,,Female,48,1993-03-13,Web Designer III,,Mass Customer,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",No,9.0
+3147,Bonnee,Farley,Female,21,1976-10-02,,Retail,Affluent Customer,N,!@#$%^&*(),Yes,17.0
+3148,Berky,Degoix,Male,11,1974-10-09,Human Resources Assistant IV,,High Net Worth,N,ÌÌºÍÌ¹Ì¯ÍTÌ±Ì¤ÍÌ¥ÍÍhÍÌ²eÍÍÌ¼ÌÌÌ¼Ì£Í ÍÌÌ±Ì ÍÍÍNÍ ÍeÌÌ±zÌÌÌÌºÍpÌ¤ÌºÌ¹ÍÌ¯ÍeÍÌ Ì»Ì rÌ¨Ì¤ÍÌºÌÍÌÌdÍÌ ÌÌ­Ì¬ÌiÌ¦ÍÌ©ÍÍÌ¤aÌ ÌÌ¬ÍÌnÍÍ Ì»ÌÌ°ÍÍhÌµÍiÌ³ÌvÌ¢ÍeÍÌ­Í-ÒÌ­Ì©Ì¼ÍmÌ¤Ì­Ì«iÍÍÌÌ¦nÌÍdÌ£Ì ÍÌ¯Ì²ÍoÌ¨ÌÌ¯Ì°Ì²,Yes,10.0
+3149,Caprice,Pack,Female,31,1980-09-03,Tax Accountant,,Affluent Customer,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",Yes,5.0
+3150,Morissa,Wolfendell,Female,66,1991-10-07,Sales Associate,Financial Services,Mass Customer,N,,No,5.0
+3151,Thorn,Choffin,U,20,,Senior Developer,IT,Affluent Customer,N,,Yes,
+3156,Bearnard,Letixier,Male,23,1976-09-28,,Financial Services,Mass Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",No,4.0
+3157,Hurlee,Fasson,Male,46,1997-07-19,,Retail,Mass Customer,N,1,Yes,1.0
+3159,Jesus,MacShirie,Male,16,1967-02-01,,Financial Services,Affluent Customer,N,ð¾ ð ð ð ð ð ð ð,No,12.0
+3161,Cindie,Naldrett,Female,71,1977-02-16,,Financial Services,Mass Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,Yes,4.0
+3171,Leif,,Male,36,1967-05-23,Account Coordinator,Financial Services,Affluent Customer,N,âââ,Yes,10.0
+3172,Marje,Kennewell,Female,69,1961-12-17,,Retail,Affluent Customer,N,"__ï¾(,_,*)",No,5.0
+3173,Angelo,,Male,55,2001-10-10,Computer Systems Analyst I,Health,Mass Customer,N,../../../../../../../../../../../etc/hosts,Yes,1.0
+3176,Rafe,Antoniak,Male,60,1977-12-04,Physical Therapy Assistant,,Affluent Customer,N,â«testâ«,No,16.0
+3177,Titos,Scanes,Male,93,1978-05-07,Database Administrator IV,,Affluent Customer,N,âªâªtestâª,No,6.0
+3180,Gage,,Male,96,1974-06-14,Business Systems Development Analyst,IT,Mass Customer,N,-1,Yes,19.0
+3182,Catherina,Hammel,Female,50,1967-10-03,,Financial Services,Affluent Customer,N,0,No,15.0
+3186,Rora,Warre,Female,22,1997-05-09,,,Mass Customer,N,-100,Yes,2.0
+3188,Boyd,,Male,94,1999-07-07,Actuary,Financial Services,Mass Customer,N,ðµ ð ð ð,No,1.0
+3190,Lizabeth,Carswell,Female,18,1985-02-05,,,Affluent Customer,N,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±,No,15.0
+3199,Florry,Neasam,Female,98,1969-08-31,Product Engineer,,Mass Customer,N,âââ,Yes,15.0
+3200,Marna,,Female,51,1995-11-03,Environmental Tech,Manufacturing,Mass Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,1.0
+3203,Swen,Merioth,Male,25,1985-02-05,GIS Technical Architect,,Affluent Customer,N,100,Yes,7.0
+3205,Egan,Flockhart,Male,35,1959-04-20,Account Executive,,Mass Customer,N,"<>?:""{}|_+",No,20.0
+3207,Anica,Halfhyde,Female,46,1987-08-29,,,Mass Customer,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,21.0
+3208,Jeanne,O'Meara,Female,53,1967-02-06,VP Marketing,,High Net Worth,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,No,15.0
+3213,Marcile,Vasiliev,Female,27,1971-09-26,,Telecommunications,Affluent Customer,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,Yes,16.0
+3215,Wolfgang,Raffles,Male,14,1976-09-28,General Manager,,Mass Customer,N,-1,Yes,7.0
+3222,Caralie,Sellors,U,40,,Senior Editor,IT,Affluent Customer,N,,No,
+3223,Tiffi,Wortt,U,44,,Database Administrator III,IT,Mass Customer,N,,Yes,
+3226,Andi,Whittet,Female,43,1973-03-29,,Entertainment,Affluent Customer,N,-1,No,11.0
+3227,Costa,Sharpin,Male,37,1995-12-06,,Manufacturing,Affluent Customer,N,1;DROP TABLE users,No,2.0
+3231,Cazzie,Gravell,Male,84,1976-05-29,,,Affluent Customer,N,,Yes,16.0
+3236,Edsel,Arguile,Male,37,1993-04-01,,Manufacturing,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,Yes,5.0
+3240,Ryon,Elsay,Male,90,1976-09-04,Chief Design Engineer,,Mass Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),Yes,6.0
+3248,Alastair,Van der Beken,Male,32,1957-05-15,Programmer Analyst II,,Affluent Customer,N,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±,No,5.0
+3249,Cortney,Leet,Female,46,1981-08-23,Analog Circuit Design manager,Manufacturing,Mass Customer,N,,Yes,14.0
+3250,Hussein,Ticic,Male,27,1992-04-16,,Argiculture,High Net Worth,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,Yes,4.0
+3252,Alexia,McTerrelly,Female,59,1987-06-15,GIS Technical Architect,,High Net Worth,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,Yes,14.0
+3255,Sutherlan,Truin,U,47,,Engineer IV,IT,High Net Worth,N,,No,
+3257,Travis,Hulatt,Male,64,1980-05-07,Senior Editor,,Mass Customer,N,â¡,Yes,10.0
+3259,Rabi,,Male,74,1953-11-04,Quality Control Specialist,,High Net Worth,N,,No,10.0
+3261,Benedicto,Blumire,Male,6,1975-01-30,,Property,Mass Customer,N,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥,Yes,5.0
+3264,Garret,Higginbottam,Male,88,1978-08-19,,Financial Services,Mass Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,17.0
+3265,Isaak,Higounet,Male,64,1967-06-02,Clinical Specialist,Health,High Net Worth,N,,No,11.0
+3266,Lambert,Edser,Male,68,1995-05-21,Account Representative III,,Mass Customer,N,(ï½¡â â âï½¡),Yes,5.0
+3267,Gerri,Prott,Male,20,1987-05-30,,Property,High Net Worth,N,100,Yes,9.0
+3269,Kalvin,Paskin,Male,96,1994-12-01,GIS Technical Architect,,Mass Customer,N,100,No,1.0
+3272,Bar,Frankcom,Male,75,1993-06-04,Payment Adjustment Coordinator,,Affluent Customer,N,../../../../../../../../../../../etc/passwd%00,No,9.0
+3274,Tory,Dosdell,Female,44,1973-04-26,,Financial Services,Mass Customer,N,"__ï¾(,_,*)",Yes,18.0
+3276,Goddart,Pavelin,Male,10,1979-04-18,Legal Assistant,,High Net Worth,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,No,3.0
+3277,Demetris,Shapcote,Male,92,1962-04-20,Computer Systems Analyst I,,Affluent Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,No,10.0
+3281,Peg,Cliff,Female,67,1998-02-22,Administrative Assistant III,,Mass Customer,N,ð©ð½,No,4.0
+3287,Marys,Vazquez,Female,30,1986-01-06,Account Executive,,Affluent Customer,N,1'; DROP TABLE users--,Yes,4.0
+3288,Fair,Dewen,U,47,,Engineer III,IT,High Net Worth,N,,No,
+3290,Brandyn,Gain,Male,22,1962-09-18,,Manufacturing,High Net Worth,N,ð,Yes,18.0
+3293,Peg,Woodstock,Female,98,1986-01-22,Automation Specialist IV,,High Net Worth,N,1'; DROP TABLE users--,No,17.0
+3298,Christine,Baignard,U,1,,VP Quality Control,IT,Affluent Customer,N,,Yes,
+3301,Guntar,O'Halloran,Male,5,1987-03-21,Associate Professor,,Mass Customer,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,Yes,6.0
+3304,Tymothy,Rodder,Male,43,1981-01-19,,,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,No,12.0
+3309,Christie,Bremeyer,Male,34,1974-12-14,Senior Sales Associate,,High Net Worth,N,0/0,Yes,3.0
+3311,Clary,Bennitt,Female,57,1979-12-21,Civil Engineer,Manufacturing,Mass Customer,N,,Yes,8.0
+3312,Franky,Nanninini,U,49,,Administrative Officer,IT,High Net Worth,N,,No,
+3313,Kori,Antoshin,Female,10,1995-03-15,,Property,High Net Worth,N,../../../../../../../../../../../etc/passwd%00,Yes,5.0
+3314,Blakelee,Tassel,Female,50,1972-10-31,,Financial Services,Mass Customer,N,100,Yes,12.0
+3316,Stoddard,Giacomoni,Female,31,1960-09-02,Structural Analysis Engineer,,Mass Customer,N,âªâªtestâª,No,18.0
+3318,Courtnay,Allmen,Male,37,1962-02-07,,Manufacturing,High Net Worth,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",Yes,19.0
+3319,Erda,,Female,67,1966-04-04,,Financial Services,Affluent Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,Yes,19.0
+3321,Ives,,Male,38,1980-05-10,Software Test Engineer I,,High Net Worth,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",Yes,14.0
+3322,Hew,Sworder,U,24,,Financial Analyst,Financial Services,Affluent Customer,N,,Yes,
+3324,Sholom,,Male,32,1973-07-11,Research Nurse,Health,Mass Customer,N,0/0,Yes,10.0
+3325,Sylas,,Male,80,1996-10-08,Database Administrator IV,Manufacturing,High Net Worth,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,1.0
+3329,Karissa,Leal,Female,97,1974-08-06,,,High Net Worth,N,"''''""",No,13.0
+3330,Tina,Pristnor,Female,70,1955-11-06,,Health,Mass Customer,N,nil,Yes,18.0
+3331,Claire,Trahar,Female,18,1971-09-20,Technical Writer,Financial Services,Mass Customer,N,,No,8.0
+3337,Brendan,Aird,Male,58,1976-10-28,,Argiculture,Mass Customer,N,"''''""",Yes,16.0
+3338,Nata,Ozanne,Female,48,1964-07-08,,Manufacturing,Mass Customer,N,âââ,Yes,10.0
+3340,Torey,Beharrell,Male,61,1991-09-29,Physical Therapy Assistant,,Mass Customer,N,1,No,2.0
+3342,Henry,Phillps,Male,51,1985-08-12,,Entertainment,Mass Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,7.0
+3343,Cristabel,Bim,U,3,,Recruiter,IT,Mass Customer,N,,Yes,
+3344,Clerissa,Columbell,Female,66,1995-02-14,GIS Technical Architect,,Affluent Customer,N,ï¼ï¼ï¼,Yes,1.0
+3345,Hersch,Gilkes,Male,83,1977-06-23,,Financial Services,High Net Worth,N,â°â´âµâââ,No,12.0
+3347,Nichols,,Male,99,1985-11-08,Computer Systems Analyst II,Entertainment,High Net Worth,N,,Yes,18.0
+3351,Chryste,Nornable,Female,13,1982-04-13,Accounting Assistant II,,Affluent Customer,N,1'; DROP TABLE users--,No,15.0
+3353,Marina,Scorrer,Female,91,1994-04-21,Software Test Engineer II,,Mass Customer,N,â°â´âµâââ,Yes,1.0
+3354,Ollie,Restorick,Male,18,1978-03-27,,Manufacturing,Mass Customer,N,testâ testâ«,Yes,11.0
+3359,Duffy,Cotillard,Male,82,1991-12-13,Developer III,,Mass Customer,N,,No,3.0
+3364,Trueman,,Male,77,1993-08-19,Engineer IV,Manufacturing,Mass Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),Yes,3.0
+3365,Karlens,Chaffyn,U,29,,Engineer III,IT,Mass Customer,N,,No,
+3369,Cathrin,Rosencrantz,Female,90,1977-01-02,Research Associate,,Mass Customer,N,00ËÆ$-,No,10.0
+3370,Brant,Follis,Male,8,1954-01-22,Data Coordiator,,High Net Worth,N,ÃÃÃÃËÃÃï£¿ÃÃÃâ,Yes,5.0
+3372,Orazio,Wissby,Male,62,1954-09-25,,Telecommunications,High Net Worth,N,/dev/null; touch /tmp/blns.fail ; echo,No,15.0
+3376,Amity,Widdall,Female,74,1982-10-20,,Manufacturing,Mass Customer,N,100,No,16.0
+3377,Jamal,MacRury,Male,12,1988-06-23,,Manufacturing,Mass Customer,N,,Yes,7.0
+3378,Ina,Habershaw,Female,17,1962-02-17,,Financial Services,Affluent Customer,N,(ï¾à²¥çà²¥ï¼ï¾ï»¿ â»ââ»,No,14.0
+3381,Bruce,Lackie,Male,26,1993-11-20,Computer Systems Analyst IV,,Mass Customer,N,ï¼ï¼ï¼,No,4.0
+3382,Burk,Walczak,Male,90,1977-12-17,Business Systems Development Analyst,,High Net Worth,N,â¢,No,10.0
+3384,Wesley,Nichols,Male,11,1996-03-05,,,Mass Customer,N,/dev/null; touch /tmp/blns.fail ; echo,No,6.0
+3385,Ronda,,Female,23,1975-02-10,Systems Administrator III,Argiculture,Mass Customer,N,-1,No,9.0
+3389,Margo,Saltmarshe,Female,27,1972-06-01,Programmer II,,Affluent Customer,N,ç¤¾æç§å­¸é¢èªå­¸ç ç©¶æ,No,19.0
+3390,Fayth,Baudins,Female,20,1969-01-27,,,High Net Worth,N,â£,No,7.0
+3391,Terrel,Kreuzer,Male,93,1991-06-23,,Manufacturing,Mass Customer,N,ï»¿,No,7.0
+3395,Sigmund,Fishbourn,Male,76,1993-04-19,,Financial Services,Mass Customer,N,1/0,No,3.0
+3397,Melisande,,Female,70,1985-08-19,Product Engineer,IT,Mass Customer,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,No,11.0
+3398,Alberik,Looks,Male,69,1971-07-01,,,High Net Worth,N,,Yes,7.0
+3401,Cristie,,Female,92,1993-07-28,Tax Accountant,Telecommunications,Mass Customer,N,"__ï¾(,_,*)",Yes,4.0
+3405,Gavra,Robez,Female,89,1996-08-18,Project Manager,Financial Services,Mass Customer,N,,Yes,3.0
+3410,Merrili,Brittin,Female,93,1940-09-22,,Property,Mass Customer,N,á,No,16.0
+3411,Alena,Hannis,Female,68,1980-01-04,Physical Therapy Assistant,,Mass Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,Yes,20.0
+3412,Almira,Ethelstone,Female,66,1973-08-18,Office Assistant IV,,Mass Customer,N,1/0,Yes,7.0
+3414,Winnifred,Zima,Female,46,1966-02-25,Software Consultant,,Affluent Customer,N,,Yes,10.0
+3416,Evanne,Bentote,Female,6,1976-01-18,,Manufacturing,Mass Customer,N,â«testâ«,Yes,11.0
+3419,Felipa,Guslon,Female,13,1973-07-09,Information Systems Manager,,Mass Customer,N,1/0,Yes,18.0
+3429,Alla,Hirtzmann,Female,37,1964-06-22,,Health,High Net Worth,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,15.0
+3435,Stevena,Allcock,Female,80,2002-01-15,Senior Editor,,Affluent Customer,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,No,1.0
+3436,Marget,Freeland,Female,4,1958-11-22,,Financial Services,Mass Customer,N,â°â´âµâââ,Yes,5.0
+3437,Penny,Wellington,Male,79,1963-10-20,VP Marketing,Retail,High Net Worth,N,,No,12.0
+3439,Rubie,O'Gorman,Female,45,1974-10-20,Technical Writer,,Affluent Customer,N,-100,Yes,19.0
+3443,Fran,,Male,11,1995-04-12,Technical Writer,,Mass Customer,N,ì¬íê³¼íì ì´íì°êµ¬ì,Yes,5.0
+3445,Craggy,,Male,62,1966-06-23,Database Administrator I,Financial Services,Affluent Customer,N,ï»¿,Yes,11.0
+3446,Gard,Tidy,Male,8,1967-01-30,Structural Engineer,Manufacturing,Mass Customer,N,,No,14.0
+3447,Linell,,Female,43,1977-11-23,,Financial Services,High Net Worth,N,"""'",No,17.0
+3451,Ruprecht,Loreit,Male,88,1970-05-01,Sales Associate,,High Net Worth,N,ð¾ ð ð ð ð ð ð ð§,No,10.0
+3454,Akim,Mathes,Male,15,1969-06-09,Web Designer III,,Mass Customer,N,',No,18.0
+3455,Coop,Skey,Male,29,1954-02-25,Administrative Officer,,Mass Customer,N,,Yes,11.0
+3456,Clovis,Ortsmann,Female,11,1959-11-08,,,Mass Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),Yes,12.0
+3457,Robbi,Springthorpe,Female,13,1956-09-26,,Manufacturing,Mass Customer,N,Î©âÃ§ââ«ËÂµâ¤â¥Ã·,No,16.0
+3459,Emelda,Ramsdell,Female,62,2000-11-24,,Entertainment,Mass Customer,N,"''''""",Yes,2.0
+3468,Averill,Woodbridge,Male,4,1986-10-24,Associate Professor,,Mass Customer,N,é¨è½æ ¼,No,7.0
+3472,Dionysus,McCarlie,Male,10,1977-06-27,VP Marketing,Retail,Affluent Customer,N,,Yes,18.0
+3473,Sanderson,Alloway,U,34,,Analog Circuit Design manager,IT,Mass Customer,N,,No,
+3476,Stearn,Willerstone,Male,39,1989-09-07,,Manufacturing,Affluent Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,7.0
+3479,Pierette,O' Ronan,Female,39,1964-08-09,,IT,Mass Customer,N,â,No,13.0
+3480,Jarib,,Male,30,1959-06-24,,,Mass Customer,N,â«testâ«,No,20.0
+3498,Lois,Abrahim,Female,28,1995-11-02,,Manufacturing,Mass Customer,N,,No,5.0
+3499,Shelton,Tewkesberrie,Male,29,1979-06-17,,Manufacturing,Mass Customer,N,á,Yes,7.0
+3500,Josy,Fleeman,Female,71,1967-07-21,,Entertainment,Affluent Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,17.0
+3503,Tootsie,Rafter,Female,53,1979-03-12,Financial Advisor,Financial Services,Affluent Customer,N,,Yes,10.0
+3505,Dolly,Scallan,Female,41,1974-08-06,,Retail,Mass Customer,N,ð¾ ð ð ð ð ð ð ð§,No,14.0
+3510,Jemima,Izaac,U,48,,Safety Technician II,IT,Affluent Customer,N,,Yes,
+3513,Enriqueta,Waterhowse,U,80,,Internal Auditor,IT,Affluent Customer,N,,Yes,
+3514,Darcy,Ilett,Male,25,1962-08-24,Environmental Specialist,,Mass Customer,N,100,No,8.0
+3516,Diarmid,Vearnals,Male,93,1977-04-30,,Property,Mass Customer,N,testâ testâ«,Yes,15.0
+3517,Domeniga,Terney,Female,47,1957-07-04,Accounting Assistant IV,,Mass Customer,N,-100,Yes,6.0
+3521,Oneida,Olivia,Female,27,1980-03-10,Research Associate,,High Net Worth,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,Yes,16.0
+3523,Lin,Tarver,Male,33,1975-06-14,,,Affluent Customer,N,åè£½æ¼¢èª,No,19.0
+3525,Town,Yitzhakov,Male,55,1996-08-16,Editor,,Mass Customer,N,×Ö¸×Ö°×ªÖ¸×testØ§ÙØµÙØ­Ø§Øª Ø§ÙØªÙØ­ÙÙ,No,2.0
+3528,Eliot,Scammell,Male,69,1964-04-06,Internal Auditor,Manufacturing,Mass Customer,N,,Yes,7.0
+3530,Erik,Kenneford,Male,19,1973-10-23,Staff Scientist,,High Net Worth,N,100,Yes,8.0
+3533,Neale,Lowings,Male,62,1981-02-14,,Financial Services,Affluent Customer,N,-100,Yes,8.0
+3539,Sheelah,Caine,Female,94,1985-03-21,,IT,Mass Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,Yes,16.0
+3540,Ali,Naris,Male,49,1954-08-27,,,Mass Customer,N,1,Yes,7.0
+3541,Aloin,Harhoff,Male,72,1986-01-03,,Health,Mass Customer,N,"""'",No,11.0
+3544,Benoite,Trahmel,Female,25,1998-08-13,Help Desk Technician,,Affluent Customer,N,â£,No,1.0
+3545,Wenonah,Filgate,Female,66,1974-07-19,Developer II,,High Net Worth,N,á,No,4.0
+3548,Dalli,Seden,Male,65,1958-08-02,,,Affluent Customer,N,ðµ ð ð ð,No,12.0
+3555,Latashia,,Female,96,1976-02-26,Programmer Analyst II,Manufacturing,Mass Customer,N,â«testâ«,No,21.0
+3557,Tisha,Gibbings,Female,79,1978-05-12,,Health,Affluent Customer,N,<img src=x onerror=alert('hi') />,No,18.0
+3558,Torey,Sarney,Male,16,1954-09-05,,,High Net Worth,N,<img src=x onerror=alert('hi') />,Yes,7.0
+3562,Martynne,Bullivant,Female,76,1973-01-02,Recruiting Manager,,Affluent Customer,N,,No,10.0
+3563,De,Leyband,Female,70,1990-03-12,,Financial Services,Affluent Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,No,10.0
+3564,Sandy,Olford,Male,43,1972-05-15,Programmer Analyst IV,,High Net Worth,N,âªâªtestâª,Yes,18.0
+3565,Charyl,Pottiphar,U,14,,Structural Engineer,IT,High Net Worth,N,,Yes,
+3569,Janel,Daice,Female,24,1973-05-18,Senior Editor,,Affluent Customer,N,ì¬íê³¼íì ì´íì°êµ¬ì,No,12.0
+3570,Mordy,Hedin,Male,13,1962-01-31,,Entertainment,Mass Customer,N,1/0,No,7.0
+3576,Rochette,Ebbens,Female,10,1969-09-19,Account Coordinator,,Mass Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,No,11.0
+3580,Roby,Samson,Female,61,1972-04-24,Occupational Therapist,Health,Mass Customer,N,,No,10.0
+3581,Lindsy,Ygo,Female,38,1957-07-10,,,Mass Customer,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",Yes,6.0
+3584,Adler,Teale,Male,95,1962-01-14,,Health,Mass Customer,N,"__ï¾(,_,*)",No,10.0
+3585,Concordia,Lunbech,Female,41,1962-07-28,,Financial Services,High Net Worth,N,"""'",Yes,20.0
+3587,Ines,Galfour,Female,85,1997-09-24,,,Affluent Customer,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,No,2.0
+3588,Henrie,Beadman,Female,15,1961-06-04,Web Developer III,Health,Affluent Customer,N,,Yes,18.0
+3590,Carolan,Velez,Female,32,1978-04-16,,Manufacturing,Mass Customer,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,Yes,19.0
+3592,Pall,MacCart,Male,72,1954-04-27,Junior Executive,,Mass Customer,N,á ,No,12.0
+3595,Timi,Huson,Female,81,1975-12-06,Software Consultant,Retail,Mass Customer,N,,No,6.0
+3597,Giorgi,,Male,71,1954-06-16,Analog Circuit Design manager,Property,Affluent Customer,N,',Yes,16.0
+3599,Lane,Maguire,Male,11,1956-02-27,Physical Therapy Assistant,,High Net Worth,N,100,Yes,6.0
+3600,Godart,Gooderick,Male,88,1962-05-17,Staff Accountant II,,Mass Customer,N,() { 0; }; touch /tmp/blns.shellshock1.fail;,No,16.0
+3605,Andy,Risely,Male,54,1994-01-28,Internal Auditor,,Mass Customer,N,TÌÌ­ÌºÌºoÍ Ì·iÌ²Ì¬ÍÌªÍnÌÌÍvÍÌÌÌÌ¦oÌ¶ÌÌ°Ì keÍÍÌ®ÌºÌªÌ¹Ì±Ì¤ ÌtÍÌÍÌ³Ì£Ì»ÌªhÌ¼ÍÌ²Ì¦Ì³ÌÌ²eÍÌ£Ì°Ì¦Ì¬Í Ì¢Ì¼Ì»Ì±ÌhÍÍÍÍÌÌ£Ì²iÌ¦Ì²Ì£Ì°Ì¤vÌ»ÍeÌºÌ­Ì³ÌªÌ°-mÌ¢iÍnÌÌºÌÌ²Ì¯Ì°dÌµÌ¼ÌÍÌ©Ì¼ÌÌ³ ÌÌ¥Ì±Ì³Ì­rÌÌÌeÍpÍ rÌ¼ÌÌ»Ì­ÌeÍÌºÌ Ì£sÌ,No,6.0
+3606,Jamima,Wainscot,Female,52,1957-02-09,Graphic Designer,,High Net Worth,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,No,15.0
+3611,Uriah,Chantree,Male,20,1970-04-10,Statistician II,,Affluent Customer,N,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥,Yes,10.0
+3612,Normand,Matous,Male,27,1979-11-27,,IT,High Net Worth,N,ç°ä¸­ããã«ããã¦ä¸ãã,No,15.0
+3614,Berkie,Gimber,Male,59,1961-06-23,Environmental Specialist,Retail,Affluent Customer,N,,Yes,18.0
+3619,Myranda,Cridland,Female,18,1996-02-17,Administrative Assistant IV,,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,Yes,1.0
+3624,Lenka,,Female,54,1984-10-16,Cost Accountant,Financial Services,Mass Customer,N,-1,Yes,7.0
+3627,Loren,Pischof,Male,92,1961-08-12,Teacher,Health,High Net Worth,N,,Yes,14.0
+3632,Elena,Sandys,Female,82,1990-03-27,Teacher,,Mass Customer,N,Ù¡Ù¢Ù£,No,9.0
+3633,Donavon,Ainsby,Male,32,1983-04-18,Biostatistician III,Health,Mass Customer,N,,No,5.0
+3634,Clemence,Kornas,Female,35,1963-06-01,Speech Pathologist,,High Net Worth,N,ËÉnbá´lÉ ÉuÆÉÉ¯ ÇÉ¹olop ÊÇ ÇÉ¹oqÉl Ên Êunpá´pá´Éuá´ É¹odÉ¯ÇÊ poÉ¯sná´Ç op pÇs 'Êá´lÇ Æuá´Ésá´dá´pÉ É¹nÊÇÊÉÇsuoÉ 'ÊÇÉ¯É Êá´s É¹olop É¯nsdá´ É¯ÇÉ¹oË¥,Yes,15.0
+3635,Elset,,Female,51,1977-07-06,VP Marketing,Retail,High Net Worth,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,9.0
+3637,Luigi,Edgeworth,Male,84,1958-01-01,,Manufacturing,Affluent Customer,N,åè£½æ¼¢èª,Yes,11.0
+3640,Merralee,Forman,Female,64,1985-04-28,Staff Scientist,,Mass Customer,N,0ï¸â£ 1ï¸â£ 2ï¸â£ 3ï¸â£ 4ï¸â£ 5ï¸â£ 6ï¸â£ 7ï¸â£ 8ï¸â£ 9ï¸â£ ð,No,10.0
+3642,Ardith,Portigall,Female,39,1962-05-21,,,Affluent Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,Yes,8.0
+3643,Bettye,Dumberrill,Female,62,1971-02-08,Technical Writer,,Mass Customer,N,-0.5,No,15.0
+3647,Carlyle,Frape,Male,62,1971-11-07,Marketing Manager,,Affluent Customer,N,../../../../../../../../../../../etc/passwd%00,No,4.0
+3651,Baxie,,Male,91,1999-11-15,Human Resources Assistant I,Manufacturing,Mass Customer,N,nil,No,2.0
+3653,Devlen,Perrett,Male,7,1991-01-04,Environmental Specialist,,Mass Customer,N,!@#$%^&*(),Yes,8.0
+3654,Kenyon,Paddefield,U,78,,Electrical Engineer,Manufacturing,Mass Customer,N,,No,
+3655,Waldemar,Mostin,Male,82,1974-06-01,,,Mass Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,Yes,19.0
+3656,Talia,Sidnell,Female,14,1976-12-24,,Property,Mass Customer,N,!@#$%^&*(),Yes,3.0
+3657,Wyatan,Rogeon,Male,95,1961-07-24,,,High Net Worth,N,ð¾ ð ð ð ð ð ð ð,No,8.0
+3658,Bo,Vell,Male,15,1962-10-20,,Entertainment,Mass Customer,N,,Yes,9.0
+3663,Hermy,Casement,Male,62,1998-02-10,Information Systems Manager,,Affluent Customer,N,1/0,No,1.0
+3670,Leupold,Bernardini,Male,62,1977-03-20,,Financial Services,Affluent Customer,N,â©testâ©,Yes,17.0
+3671,Crystie,Deshorts,Female,98,1992-01-05,Programmer Analyst III,,Affluent Customer,N,nil,No,7.0
+3672,Werner,Yglesias,Male,32,1987-05-25,,IT,Mass Customer,N,../../../../../../../../../../../etc/passwd%00,Yes,13.0
+3673,Tobin,Fucher,Male,72,1979-09-28,,Manufacturing,Mass Customer,N,-0.5,Yes,11.0
+3679,Murielle,Klimkov,Female,72,1992-05-05,Developer II,,High Net Worth,N,-1,No,6.0
+3683,Lorain,Maliphant,Female,67,1957-03-30,Chief Design Engineer,,Mass Customer,N,ð,Yes,11.0
+3686,Shirley,Siss,Female,20,1976-08-06,,Financial Services,High Net Worth,N,ï½ï½¨(Â´âï½â©,Yes,15.0
+3689,Orel,Joncic,Female,26,1967-09-25,,Health,Mass Customer,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,Yes,7.0
+3692,Linea,Kubica,Female,47,1961-11-05,Business Systems Development Analyst,,High Net Worth,N,../../../../../../../../../../../etc/passwd%00,Yes,6.0
+3693,Brenna,Raft,Female,58,1985-01-19,,Manufacturing,Affluent Customer,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",Yes,21.0
+3694,Antoni,MacAllister,Male,91,1984-04-19,,Health,Mass Customer,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",Yes,10.0
+3696,Orlan,Dunning,Male,27,1962-12-11,Senior Financial Analyst,Financial Services,High Net Worth,N,,No,15.0
+3697,Zebedee,Christal,Male,47,1978-10-10,Recruiting Manager,,Mass Customer,N,ð©ð½,Yes,8.0
+3701,Anstice,Dunsmuir,Female,93,1974-01-20,Physical Therapy Assistant,,Affluent Customer,N,() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; },No,9.0
+3705,Tedmund,Clawsley,Male,26,1971-12-04,,Manufacturing,Mass Customer,N,"__ï¾(,_,*)",Yes,15.0
+3710,Sallyann,Stangoe,Female,12,1974-08-22,Physical Therapy Assistant,,Mass Customer,N,"'""''''""",No,13.0
+3713,Cynthy,Snoad,Female,72,1993-02-03,,Telecommunications,High Net Worth,N,á ,Yes,8.0
+3716,Kari,Bamlett,Female,81,1998-08-24,,Retail,Affluent Customer,N,ã,No,1.0
+3718,Damiano,,U,22,,Geologist IV,IT,Mass Customer,N,,Yes,
+3720,Adelice,Tams,Female,23,1972-08-15,,,Mass Customer,N,â¡,No,15.0
+3722,Merilee,Hammerson,Female,69,1975-11-07,,Retail,Mass Customer,N,ðµ ð ð ð,No,7.0
+3724,Griffith,Minor,Male,24,1976-03-23,,IT,Affluent Customer,N,,No,9.0
+3725,Elisha,Venny,Male,37,1970-07-21,Research Assistant II,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð,Yes,5.0
+3727,Eba,Youle,U,65,,Assistant Professor,IT,Mass Customer,N,,No,
+3728,Chanda,Garmons,Female,27,1986-09-01,Technical Writer,Property,Affluent Customer,N,,Yes,21.0
+3731,Jandy,Rodgers,Female,91,1991-10-27,Chief Design Engineer,,Mass Customer,N,,No,8.0
+3733,Shelden,Rodenburg,Male,70,1977-11-01,,,Mass Customer,N,â°â´âµ,No,11.0
+3741,Mollee,Jeavons,Female,19,1970-02-01,Nurse,,Affluent Customer,N,../../../../../../../../../../../etc/passwd%00,Yes,16.0
+3744,Franchot,Loeber,Male,57,1981-01-05,,Financial Services,Mass Customer,N,-0.5,Yes,9.0
+3746,Thaddeus,McLurg,Male,64,1961-09-01,Developer II,,Affluent Customer,N,`ââ¬â¹âºï¬ï¬â¡Â°Â·ââÂ±,Yes,16.0
+3748,Maurise,Beal,Male,82,1956-01-10,Staff Scientist,,Affluent Customer,N,åè£½æ¼¢èª,Yes,18.0
+3749,Blondelle,Swynley,Female,3,2001-04-21,,IT,Affluent Customer,N,!@#$%^&*(),No,1.0
+3751,Millicent,Nacci,Female,44,1978-12-28,Environmental Specialist,,Affluent Customer,N,<svg><script>0<1>alert('XSS')</script>,Yes,13.0
+3752,Peta,Nunes Nabarro,Female,67,1961-09-15,Administrative Assistant I,Argiculture,Affluent Customer,N,,Yes,16.0
+3754,Emmy,MacGibbon,Female,74,1961-02-16,,Telecommunications,Mass Customer,N,-100,No,19.0
+3756,Barry,,Male,22,1977-07-08,,,Affluent Customer,N,-1,No,10.0
+3757,Hyacinthia,Crain,Female,75,1999-09-12,Information Systems Manager,,Affluent Customer,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),No,2.0
+3760,Bryana,Vennart,Female,73,1976-06-09,,Financial Services,Mass Customer,N,â£,No,18.0
+3762,Marinna,Ors,Female,48,1967-03-22,,Property,Mass Customer,N,nil,No,14.0
+3763,Law,Jore,Male,37,1981-01-27,Quality Control Specialist,,Affluent Customer,N,ã½à¼¼àºÙÍàºà¼½ï¾ ã½à¼¼àºÙÍàºà¼½ï¾,Yes,20.0
+3764,Nonie,Newson,Female,29,1957-05-06,Cost Accountant,Financial Services,Mass Customer,N,,Yes,15.0
+3767,Man,Bigglestone,Male,25,1982-09-14,Web Developer IV,,High Net Worth,N,"'""''''""",No,16.0
+3773,Wadsworth,Ruselin,Male,44,1976-02-06,Accountant I,,Affluent Customer,N,<script>alert('hi')</script>,Yes,18.0
+3775,Avie,Cleator,Female,16,1985-02-13,,Health,Affluent Customer,N,-100,No,8.0
+3779,Ulick,Daspar,U,68,,,IT,Affluent Customer,N,,No,
+3784,Davie,Moscon,Male,56,1983-06-04,,Financial Services,High Net Worth,N,1,No,13.0
+3786,Barnie,Blenkensop,Male,12,1985-12-28,Systems Administrator IV,,High Net Worth,N,ã»(ï¿£âï¿£)ã»:*:,No,22.0
+3791,Bertrand,Sissons,Male,17,1993-05-26,Quality Control Specialist,Health,Affluent Customer,N,,No,6.0
+3793,Shannen,Pitcock,Female,49,1957-05-12,Engineer IV,,Affluent Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,Yes,15.0
+3794,Dorrie,Paige,Female,47,1994-07-06,,IT,Mass Customer,N,1/0,No,2.0
+3798,Yorker,Dennison,Male,13,1968-02-22,,Manufacturing,Mass Customer,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,Yes,17.0
+3800,Morena,Ayer,Female,19,1980-10-28,Environmental Tech,,High Net Worth,N,é¨è½æ ¼,No,15.0
+3804,Andria,Keays,Female,23,1986-08-21,,Manufacturing,Mass Customer,N,ð¾ ð ð ð ð ð ð ð§,Yes,4.0
+3806,Ado,Gailor,Male,1,1954-02-08,,Property,Mass Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,No,7.0
+3809,Angelita,Itzcovichch,Female,44,1955-09-08,VP Quality Control,Manufacturing,Affluent Customer,N,,No,11.0
+3811,Etta,Leele,Female,60,1997-03-19,,Financial Services,High Net Worth,N,!@#$%^&*(),No,4.0
+3817,Tuckie,,Male,65,1957-05-02,VP Product Management,Manufacturing,High Net Worth,N,!@#$%^&*(),No,13.0
+3819,Alvan,Phillput,Male,62,1978-06-29,Staff Accountant I,,High Net Worth,N,ð ð ±ð ¹ð ±ð ±¸ð ²ð ³,No,3.0
+3822,Conny,Speechley,Male,37,1959-03-09,,Manufacturing,High Net Worth,N,100,Yes,18.0
+3824,Giffard,Stollman,Male,33,1994-11-21,,Property,Mass Customer,N,,No,3.0
+3825,Cinda,Rounds,Female,82,1978-10-12,Recruiting Manager,Health,Mass Customer,N,,No,11.0
+3826,Marlow,Balffye,Male,33,1978-09-25,,Health,Mass Customer,N,ðµ ð ð ð,No,7.0
+3827,Cherida,Whyffen,Female,10,1976-09-05,,Retail,Affluent Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,No,8.0
+3829,Cornie,Hillhouse,Male,68,1980-09-01,Account Coordinator,,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,Yes,15.0
+3835,Jorgan,Crosoer,Male,19,1959-02-02,Project Manager,,Affluent Customer,N,NIL,No,16.0
+3837,Alysa,McDiarmid,Female,26,1990-01-17,Professor,,Mass Customer,N,-100,Yes,17.0
+3840,Marc,Torrans,Male,27,1962-09-30,,,High Net Worth,N,,No,5.0
+3842,Van,Durnell,Male,24,1971-07-11,Staff Accountant II,,Mass Customer,N,â©testâ©,Yes,12.0
+3843,Mahmoud,Ligerton,Male,0,1989-06-06,Senior Financial Analyst,Financial Services,Mass Customer,N,,Yes,16.0
+3844,Clotilda,Oret,Female,87,1987-12-06,,Manufacturing,Affluent Customer,N,ð,No,15.0
+3848,Luca,Cabotto,Male,4,1958-01-13,Structural Engineer,,High Net Worth,N,é¨è½æ ¼,No,13.0
+3850,Alexandro,McCullock,Male,55,2000-01-07,Accountant III,,Mass Customer,N,ç°ä¸­ããã«ããã¦ä¸ãã,Yes,2.0
+3852,Zerk,Merrien,Male,44,1982-02-04,Help Desk Operator,,Mass Customer,N,ð¾ ð ð ð ð ð ð ð§,No,4.0
+3853,Kerri,Marrington,Female,91,1975-06-26,Accounting Assistant IV,,Mass Customer,N,â£,Yes,19.0
+3855,Brnaby,Doughtery,Male,89,1965-02-26,General Manager,,Mass Customer,N,Ù¡Ù¢Ù£,No,16.0
+3859,Boonie,Searle,Male,81,1956-03-20,Software Consultant,Manufacturing,Mass Customer,N,,No,14.0
+3860,Sheila-kathryn,Conklin,Female,14,1986-04-05,Mechanical Systems Engineer,,Affluent Customer,N,ã,Yes,13.0
+3862,Casey,Kett,Female,1,1996-09-22,Structural Engineer,Health,Mass Customer,N,,No,4.0
+3863,Virgilio,Haverty,Male,30,1985-12-06,Quality Control Specialist,Retail,High Net Worth,N,,No,20.0
+3864,Ilyssa,Piaggia,Female,23,1963-08-27,Help Desk Technician,,Mass Customer,N,",./;'[]\-=",Yes,10.0
+3865,Urbanus,Fuxman,Male,49,1978-03-15,,Manufacturing,Mass Customer,N,<svg><script>0<1>alert('XSS')</script>,Yes,11.0
+3869,Amalie,Isabell,Female,58,1974-12-22,Analog Circuit Design manager,Manufacturing,Affluent Customer,N,,No,13.0
+3871,Magda,Shugg,Female,80,1983-11-13,Recruiting Manager,,Mass Customer,N,../../../../../../../../../../../etc/hosts,No,4.0
+3874,Bendicty,Juste,Male,47,1963-08-14,Actuary,Financial Services,Mass Customer,N,,No,19.0
+3875,Berti,Arnould,Male,2,1985-07-27,Electrical Engineer,Manufacturing,Mass Customer,N,,Yes,5.0
+3877,Georgine,Poutress,Female,55,1971-01-28,Account Coordinator,,High Net Worth,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,No,11.0
+3878,Waldon,Digges,Male,99,1978-02-24,Programmer III,,Mass Customer,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,9.0
+3879,Vin,Attack,Male,74,1979-08-28,Payment Adjustment Coordinator,,High Net Worth,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,No,19.0
+3881,Olivie,Nazair,Female,50,1971-01-12,,Financial Services,Affluent Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,No,18.0
+3883,Nissa,Conrad,U,35,,Legal Assistant,IT,Mass Customer,N,,No,
+3885,Asher,,Male,55,1978-06-17,Actuary,Financial Services,Mass Customer,N,"×Ö¼Ö°×¨Öµ××©×Ö´××ª, ×Ö¼Ö¸×¨Ö¸× ×Ö±×Ö¹×Ö´××, ×Öµ×ª ×Ö·×©Ö¼×Ö¸×Ö·×Ö´×, ×Ö°×Öµ×ª ×Ö¸×Ö¸×¨Ö¶×¥",Yes,8.0
+3887,Dulcie,Nealon,Female,66,1964-07-16,Computer Systems Analyst IV,,Affluent Customer,N,ÅâÂ´â°ËÃÂ¨ËÃâââ,No,7.0
+3890,Mavra,Padell,Female,72,1962-05-25,Physical Therapy Assistant,Retail,Mass Customer,N,,No,10.0
+3892,Roma,Finlater,Male,19,1978-01-29,Staff Scientist,,Mass Customer,N,"'""''''""",Yes,15.0
+3893,Hadria,Moles,Female,7,1996-11-18,,,High Net Worth,N,â«testâ«,Yes,4.0
+3896,Perla,Blakiston,Female,3,1979-10-15,Tax Accountant,,Mass Customer,N,â¦testâ§,Yes,13.0
+3903,Dayna,Cawthera,Female,69,1981-02-13,Research Assistant III,,Mass Customer,N,â«testâ«,Yes,17.0
+3907,Adriana,Heam,Female,8,1996-01-11,Technical Writer,,High Net Worth,N,../../../../../../../../../../../etc/hosts,Yes,5.0
+3908,Dolf,Serridge,Male,64,1999-06-09,Junior Executive,Health,High Net Worth,N,,No,1.0
+3909,Micheil,McGeorge,Male,1,1987-10-04,,Manufacturing,High Net Worth,N,â°â´âµâââ,Yes,18.0
+3911,Valeda,Ezele,Female,81,1954-05-25,Recruiting Manager,,Mass Customer,N,1,No,5.0
+3916,Myrtia,,Female,31,1958-10-17,,Retail,Affluent Customer,N,"Ø«Ù ÙÙØ³ Ø³ÙØ·Øª ÙØ¨Ø§ÙØªØ­Ø¯ÙØ¯Ø, Ø¬Ø²ÙØ±ØªÙ Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù Ø£Ù Ø¯ÙÙ. Ø¥Ø° ÙÙØ§Ø Ø§ÙØ³ØªØ§Ø± ÙØªÙØµÙØ¨ ÙØ§Ù. Ø£ÙÙÙ Ø§ÙØ·Ø§ÙÙØ§Ø Ø¨Ø±ÙØ·Ø§ÙÙØ§-ÙØ±ÙØ³Ø§ ÙØ¯ Ø£Ø®Ø°. Ø³ÙÙÙØ§ÙØ Ø¥ØªÙØ§ÙÙØ© Ø¨ÙÙ ÙØ§, ÙØ°ÙØ± Ø",Yes,17.0
+3918,Rosalia,Skedge,Female,52,1977-07-05,Junior Executive,,High Net Worth,N,á ,No,18.0
+3922,Frans,Whitecross,Male,90,1981-05-29,Tax Accountant,Financial Services,Mass Customer,N,,Yes,3.0
+3925,Cally,Chaim,Female,81,1978-11-25,Statistician I,,High Net Worth,N,,No,7.0
+3927,Conway,,Male,29,1978-01-07,Electrical Engineer,Manufacturing,Mass Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,Yes,7.0
+3928,Kristin,Way,Female,71,1982-04-16,,Property,Affluent Customer,N,"""'",Yes,6.0
+3929,Jacqui,Fortnam,Female,50,1989-10-18,,,Affluent Customer,N,Â¸ËÃâÄ±ËÃÂ¯ËÂ¿,Yes,10.0
+3930,Blancha,Baldi,Female,43,1988-01-06,,Financial Services,High Net Worth,N,(â¯Â°â¡Â°ï¼â¯ï¸µ â»ââ»),No,22.0
+3931,Kylie,Epine,U,19,,,IT,High Net Worth,N,,Yes,
+3933,Chiarra,Cops,Female,65,1983-07-05,,,High Net Worth,N,100,Yes,10.0
+3935,Teodor,Alfonsini,U,72,,,IT,High Net Worth,N,,Yes,
+3939,Georges,Dumbelton,Male,67,1981-06-25,,Manufacturing,Affluent Customer,N,âââ,No,15.0
+3945,Lazarus,Donaghy,Male,77,1994-10-21,,Retail,High Net Worth,N,1000000000000000049861653971908893017010268485438462151574892930611988399099305815384459015356416,No,7.0
+3946,Wylie,FitzGilbert,Male,85,1960-06-23,,Retail,High Net Worth,N,âð¿ ðªð¿ ðð¿ ðð¿ ðð¿ ðð¿,Yes,10.0
+3947,Tanitansy,McTrustam,Female,26,1970-05-12,GIS Technical Architect,,Mass Customer,N,ï½ï½¨(Â´âï½â©,No,12.0
+3951,Ephrem,Hollerin,Male,39,1975-02-10,Quality Control Specialist,,Affluent Customer,N,ãã¼ãã£ã¼ã¸è¡ããªãã,Yes,9.0
+3952,Di,Borsnall,Female,96,1968-05-09,,Manufacturing,Affluent Customer,N,ÅâÂ´Â®â Â¥Â¨ËÃ¸Ïââ,No,10.0
+3957,Bernice,Scotchforth,Female,4,1978-07-20,Business Systems Development Analyst,,High Net Worth,N,Ì¡ÍÍÌIÍÌÌÌ¦nÍÍÍvÌ®Ì«okÌ²Ì«ÌÍiÌÍÌ­Ì¹Ì ÌnÌ¡Ì»Ì®Ì£ÌºgÌ²ÍÍÌ­ÍÌ¬Í Ì°tÍÌ¦hÌÌ²eÌ¢Ì¤ ÍÌ¬Ì²ÍfÌ´ÌÍÌ£eÍÍeÌ£Ì¥Ì©lÍÍÍiÍ ÍÍÌ¦nÍÍÌÍÌ³Ì®gÍ Ì¨oÍ¡ÍÌªfÌÌ£Ì¬ ÌÌÍÌÍÌ®cÒÍÌ«ÍÍÍÍÍhÌµÌ¤Ì£ÍÍaÍÌÌ¼ÍÍoÌ¼Ì£Ì¥sÍ¢Ì±ÍÌºÌÌ¦Ì».ÌÌ,Yes,14.0
+3959,Dannie,Sowray,Male,76,1992-12-07,,,Mass Customer,N,ZÌ®ÌÍÌ ÍÍAÌ¥ÌÌÍÌ»ÌLÌ£ÍÍÌ¯Ì¹ÌÍGÌ»OÌ­ÌÌ®,No,3.0
+3960,Hobart,Burgan,Male,6,2000-03-16,,Property,Mass Customer,N,ðµ ð ð ð,No,1.0
+3962,Benoit,,Male,17,1977-10-06,Project Manager,Argiculture,High Net Worth,N,",ãã»:*:ã»ãâ( â» Ï â» )ãã»:*:ã»ãâ",Yes,14.0
+3963,Ardelle,Dasent,Female,10,1954-08-22,Software Test Engineer II,,Mass Customer,N,../../../../../../../../../../../etc/passwd%00,No,13.0
+3964,Aubrey,Souten,Female,28,1956-07-21,Sales Associate,Manufacturing,High Net Worth,N,,No,5.0
+3965,Susannah,Dumphy,Female,39,1984-07-24,Speech Pathologist,Manufacturing,Mass Customer,N,,Yes,13.0
+3966,Astrix,Sigward,Female,53,1968-09-15,Geologist I,,Mass Customer,N,Ã¥ÃâÆÂ©ËâËÂ¬â¦Ã¦,Yes,11.0
+3968,Alexandra,Kroch,Female,99,1977-12-22,,Property,High Net Worth,N,ï¾ï½¥â¿ã¾â²(ï½¡ââ¿âï½¡)â±â¿ï½¥ï¾,No,22.0
+3971,Analise,Asbrey,Female,2,1979-01-14,Desktop Support Technician,Financial Services,High Net Worth,N,,No,16.0
+3972,Maribelle,Schaffel,Female,6,1979-03-28,,Retail,Mass Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,No,8.0
+3974,Misha,Ranklin,Female,82,1961-02-11,Technical Writer,,Affluent Customer,N,1,Yes,9.0
+3976,Gretel,Chrystal,Female,0,1957-11-20,Internal Auditor,,Affluent Customer,N,"'""''''""",Yes,13.0
+3979,Kleon,Adam,Male,67,1974-07-13,,Financial Services,Mass Customer,N,â¤ï¸ ð ð ð ð ð ð ð ð ð ð ð ð ð ð,Yes,18.0
+3983,Jarred,Lyste,Male,19,1965-04-21,Graphic Designer,,Mass Customer,N,Ì¦HÍÌ¬Ì¤ÌÌ¤eÍ ÍÌÌ¥ÌÌ»ÍÌwÌhÌÌ¯ÍoÌÍÌÍÌ±Ì® ÒÌºÌÌÌÍWÌ·Ì¼Ì­aÌºÌªÍiÌ¨ÍÍÌ­ÍÌ¯ÌtÌ¶Ì¼Ì®sÌÌÍÍ Ì Ì«Ì BÌ»ÍÍÍÍÌ³eÌµhÌµÌ¬ÍÌ«ÍiÌÌ¹ÍÌ³Ì³Ì®ÍÌ«nÍdÌ´ÌªÌÌ ÍÌ°ÍÌ©ÍÍÍÌ²TÍ¢ÍÌ¼ÍÌªhÍÍÌ®Ì»eÌ¬ÌÍÌ Ì¤Ì¹ÌWÍÍÍÌÌÍÍaÍÍÍÌ¹Ì¼,Yes,9.0
+3986,Oralle,Petrello,Female,1,1976-12-01,Social Worker,Health,Mass Customer,N,,No,21.0
+3987,Beckie,Wakeham,Female,18,1964-05-29,,Argiculture,Mass Customer,N,á,No,7.0
+3998,Sarene,Woolley,U,60,,Assistant Manager,IT,High Net Worth,N,,No,
+3999,Patrizius,,Male,11,1973-10-24,,Manufacturing,Affluent Customer,N,Â¡â¢Â£Â¢âÂ§Â¶â¢ÂªÂºââ ,Yes,10.0
+4000,Kippy,Oldland,Male,76,1991-11-05,Software Engineer IV,,Affluent Customer,N,0/0,No,11.0
