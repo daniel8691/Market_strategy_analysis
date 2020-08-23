@@ -17,7 +17,7 @@
     <WindowsPersistSimpleIdentifiers />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
-  <repository-location id='KPMGMarketingStrategyDataAnalysis' path='/workbooks' revision='1.1' />
+  <repository-location id='KPMGMarketingStrategyDataAnalysis' path='/workbooks' revision='1.2' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -4095,8 +4095,8 @@
       <zones>
         <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
           <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98156' id='7' param='horz' w='98828' x='586' y='922'>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='98156' id='5' w='87115' x='586' y='922'>
-              <zone h='47235' id='3' name='customer age group' w='43558' x='586' y='922'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='98156' id='5' w='87408' x='586' y='922'>
+              <zone h='47235' id='3' name='customer age group' w='43704' x='586' y='922'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4104,7 +4104,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='50921' id='10' name='Age Group with Customer Title Purchase Frequency' w='87115' x='586' y='48157'>
+              <zone h='50921' id='10' name='Age Group with Customer Title Purchase Frequency' w='87408' x='586' y='48157'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4112,7 +4112,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='47235' id='12' name='profitability between age groups' w='43557' x='44144' y='922'>
+              <zone h='47235' id='12' name='profitability between age groups' w='43704' x='44290' y='922'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4121,8 +4121,8 @@
                 </zone-style>
               </zone>
             </zone>
-            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' fixed-size='160' h='98156' id='6' is-fixed='true' param='vert' w='11713' x='87701' y='922'>
-              <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='25576' id='8' name='customer age group' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:customer_age_group:nk]' w='11713' x='87701' y='922'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' fixed-size='156' h='98156' id='6' is-fixed='true' param='vert' w='11420' x='87994' y='922'>
+              <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='25576' id='8' name='customer age group' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:customer_age_group:nk]' w='11420' x='87994' y='922'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4130,7 +4130,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='12212' id='9' name='customer age group' pane-specification-id='1' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:product_line:nk]' w='11713' x='87701' y='26498'>
+              <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='12212' id='9' name='customer age group' pane-specification-id='1' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:product_line:nk]' w='11420' x='87994' y='26498'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4138,7 +4138,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='12212' id='11' name='Age Group with Customer Title Purchase Frequency' pane-specification-id='0' param='[federated.0croshp01zkl2w1ayoy3108dugwe].[none:customer_title:nk]' w='11713' x='87701' y='38710'>
+              <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='7604' id='13' name='profitability between age groups' pane-specification-id='0' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:owns_car:nk]' w='11420' x='87994' y='38710'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4146,7 +4146,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='7604' id='13' name='profitability between age groups' pane-specification-id='0' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:owns_car:nk]' w='11713' x='87701' y='50922'>
+              <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='12212' id='11' name='Age Group with Customer Title Purchase Frequency' pane-specification-id='0' param='[federated.0croshp01zkl2w1ayoy3108dugwe].[none:customer_title:nk]' w='11420' x='87994' y='46314'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -4168,9 +4168,9 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='17' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98156' id='16' param='vert' w='98828' x='586' y='922'>
-                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='25576' id='8' mode='checkdropdown' name='customer age group' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:customer_age_group:nk]' w='11713' x='87701' y='922'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='19' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98156' id='18' param='vert' w='98828' x='586' y='922'>
+                <zone _.fcp.SetMembershipControl.false...type='filter' _.fcp.SetMembershipControl.true...type-v2='filter' h='25576' id='8' mode='checkdropdown' name='customer age group' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:customer_age_group:nk]' w='11420' x='87994' y='922'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4179,7 +4179,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='47235' id='3' is-fixed='true' name='customer age group' w='43558' x='586' y='922'>
+                <zone fixed-size='280' h='47235' id='3' is-fixed='true' name='customer age group' w='43704' x='586' y='922'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4188,7 +4188,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='12212' id='9' name='customer age group' pane-specification-id='1' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:product_line:nk]' w='11713' x='87701' y='26498'>
+                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='12212' id='9' name='customer age group' pane-specification-id='1' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:product_line:nk]' w='11420' x='87994' y='26498'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4197,7 +4197,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='47235' id='12' is-fixed='true' name='profitability between age groups' w='43557' x='44144' y='922'>
+                <zone fixed-size='280' h='47235' id='12' is-fixed='true' name='profitability between age groups' w='43704' x='44290' y='922'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4206,7 +4206,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='7604' id='13' name='profitability between age groups' pane-specification-id='0' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:owns_car:nk]' w='11713' x='87701' y='50922'>
+                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='7604' id='13' name='profitability between age groups' pane-specification-id='0' param='[federated.09ct1cg1donkgn10ayuks16s3mr0].[none:owns_car:nk]' w='11420' x='87994' y='38710'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4215,7 +4215,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='50921' id='10' is-fixed='true' name='Age Group with Customer Title Purchase Frequency' w='87115' x='586' y='48157'>
+                <zone fixed-size='280' h='50921' id='10' is-fixed='true' name='Age Group with Customer Title Purchase Frequency' w='87408' x='586' y='48157'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4224,7 +4224,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='12212' id='11' name='Age Group with Customer Title Purchase Frequency' pane-specification-id='0' param='[federated.0croshp01zkl2w1ayoy3108dugwe].[none:customer_title:nk]' w='11713' x='87701' y='38710'>
+                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='12212' id='11' name='Age Group with Customer Title Purchase Frequency' pane-specification-id='0' param='[federated.0croshp01zkl2w1ayoy3108dugwe].[none:customer_title:nk]' w='11420' x='87994' y='46314'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -4305,8 +4305,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='18' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97916' id='17' param='vert' w='98828' x='586' y='1042'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='20' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97916' id='19' param='vert' w='98828' x='586' y='1042'>
                 <zone fixed-size='280' h='48958' id='3' is-fixed='true' name='profitability by job title(top10)' w='43757' x='586' y='1042'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4410,8 +4410,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='14' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97916' id='13' param='vert' w='98828' x='586' y='1042'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='16' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='97916' id='15' param='vert' w='98828' x='586' y='1042'>
                 <zone fixed-size='280' h='48958' id='3' is-fixed='true' name='recency vs monetary' w='45241' x='586' y='1042'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4517,8 +4517,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='750' minheight='750' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='14' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='13' param='vert' w='98400' x='800' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='16' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='15' param='vert' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='48999' id='3' is-fixed='true' name='Seasonality and customer title comparisons' w='82400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -4971,7 +4971,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='10' />
+      <active id='12' />
       <simple-id uuid='{845921AC-727F-4DE8-836E-86D32C93B458}' />
     </window>
     <window class='dashboard' name='Seasonality Analysis'>
@@ -5001,7 +5001,7 @@
       <active id='5' />
       <simple-id uuid='{090ADDDC-60C0-4300-B6C7-406C236855F8}' />
     </window>
-    <window class='dashboard' name='RFM Analysis'>
+    <window class='dashboard' maximized='true' name='RFM Analysis'>
       <viewpoints>
         <viewpoint name='Frequency vs Monetary'>
           <zoom type='entire-view' />
@@ -5016,7 +5016,7 @@
       <active id='10' />
       <simple-id uuid='{0726A714-AA2A-4625-81D5-6B69C567A3F7}' />
     </window>
-    <window class='dashboard' maximized='true' name='Sprocket Central Data Analysis'>
+    <window class='dashboard' name='Sprocket Central Data Analysis'>
       <viewpoints />
       <active id='-1' />
       <simple-id uuid='{F9100C82-4C64-477F-8362-48D5DEBA149E}' />
