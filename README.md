@@ -53,9 +53,74 @@ Prepare a detailed approach for completing the analysis including activities –
 
 Please ensure your PowerPoint presentation includes a detailed approach for our strategy behind each of the 3 phases including activities involved in each - i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off.
 
+Some key questions to answer are:
+* What are the trends in the underlying data?
+* Which customer segment has the highest customer value?
+* What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+* What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
-### My Work
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+### My Visualizations
+
+<hr>
+
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/new_customer_age_groups.png)
+![old customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/old_customer_age_groups.png)
+We can see that most customers age around 40-49 years old. The least popular groups are 10-19 and 70 years old and above.
+In general, the most popular shoppers tend age between 20 to 69 years old. 
+<hr>
+
+![customer gender past 3 year purchases pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/new_customer_bike_related_purchases_for_the_past_3_years_by_gender.png)
+Customer gender demographic is evenly spread among males and females, however, females make up majority of the bike purchases by a slight margin
+
+<hr>
+
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/new_wealth_segment_by_age.png)
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/old_wealth_segment_by_age.png)
+Most customers are classified as "Mass Customer". Other niche markets includes "High Net Worth" and "Affluent Customers" they behave similarly but we can see that high net worth customers tend to purchase from the business more than affluent customers. 
+
+<hr>
+
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/new_job_industry_category_distribution.png)
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/old_job_industry_category_distribution.png)
+The top three industries that customers work in are Financial Services, Manufacturing, and Health sections respectively. The least popular job industries are Telecommunications, Agriculture, Entertainment and IT. 
+
+<hr>
+
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/new_customers_number_cars_own_per_state.png)
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/old_customers_number_cars_own_per_state.png)
+
+Most customers from New South Wales do not own a vehicle while most customers from Queensland (QLD) and Victoria (VIC) own a vehicle. Which customer should we target?
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/profitability%20between%20age%20groups.png)
+This graph shows the people who own vehicles tend to be more profitable across all age groups so from these three charts, we can choose to target states that have higher car ownership rates.
+
+<hr>
+
+### RFM Analysis (Recency, Frequency, Monetary)
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/customer_title_description_df.jpg)
+* RFM measures customers' behavior. 
+* Frequency and Monetary affects customer lifetime value
+* Classified into four groups by their RFM score from highest to lowest respectively: Platinum, Gold, Silver, and Bronze
+
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/RFM%20Analysis.png)
+The graph in the top left cornor describes the relationship between Recency and Profitability (Monetary). We can see that Platinum customers are the customers who tend to buy more recently and spent the most money. There is a negative correlation between recency and monetary meaning that the less recent the last purchase is, the customer will likely to spend less.
+
+The graph in the bottom left cornor shows the relationship between recency and frequency. We can see that platinum customers tend to buy more recently and frequently than other groups. There is a negative correlation between recency and frequency, meaning that the less recent the last purchase is, the customer will likely buy less frequently.
+
+The graph on the right shows describes the relationship between frequency and monetary. Platinum and gold customers scatters around the right side, which indicates that they purchase more frequently than other customer groups. We can see a positive correlation trend that implies that a customer is more likely to be more profitable, the more frequently the customer buys. 
+
+### Conclusion
+![customer age group pic](https://github.com/daniel8691/KPMG-virtualinternship/blob/master/Module_two/ppt_graphs/top_1000_customers.jpg)
+
+This is the chart of the top 1000 customers Sprocket Central could target. This list is ranked based on the customer's RFM score as customers who have high RFM scores tend to be the most valuable customers for the business. 
+
+To summarize the findings from this analysis:
+* Most of the customers for Sprocket work in financal services, manufacturing and health sectors. 
+* Most customers who make purchases at Sprocket are aged between 40 to 49 years old. 
+* Customers who own a vehicle tend to be the more profitable customers in terms of average profit generated for the customer.
+
+
+
+
 
 
