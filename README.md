@@ -1,6 +1,6 @@
 # KPMG-virtualinternship
 
-Visualizations for this project can be better viewed on [Tableau Public](https://public.tableau.com/profile/daniel8010#!/vizhome/KPMGMarketingStrategyDataAnalysis/Story1)
+Visualizations for this project can be better viewed on [Tableau Public](https://public.tableau.com/views/KPMGMarketingStrategyDataAnalysis/SprocketCentralDataAnalysis?:language=en&:display_count=y&:origin=viz_share_link)
 
 
 ## Module One: Data Quality Assessment
@@ -56,8 +56,6 @@ Please ensure your PowerPoint presentation includes a detailed approach for our 
 Some key questions to answer are:
 * What are the trends in the underlying data?
 * Which customer segment has the highest customer value?
-* What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
-* What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
 
 ### My Visualizations
