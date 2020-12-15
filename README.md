@@ -1,4 +1,4 @@
-# KPMG-virtualinternship
+# Market Strategy Analysis
 
 Visualizations for this project can be better viewed on [Tableau Public](https://public.tableau.com/views/KPMGMarketingStrategyDataAnalysis/SprocketCentralDataAnalysis?:language=en&:display_count=y&:origin=viz_share_link)
 
